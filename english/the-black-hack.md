@@ -190,11 +190,11 @@ Characters can gain Hit Points from Spells, Potions, and Abilities. They can nev
 
 ## Advantage & disadvantage
 
-A GM may decide that a particular course of action or task has a higher or lower chance of success. They will ask a player to roll an additional d20 when making a test - with advantage the lower result is used and with disadvantage, the higher.
+A GM may decide that a particular course of action or task has a higher or lower chance of success. They will ask a player to roll an additional d20 when making a test - with **advantage** the lower result is used and with **disadvantage**, the higher.
 
 ## Resting
 
-When characters rest for about an hour, they regain the use of all their Armor points. Also once per day, after resting, they may roll a Hit Die associated with their class and regain that many HP.
+When characters rest for about an hour, they regain the use of all their Armor points. Also once per day, after resting, they may roll a **Hit Die** associated with their class and regain that many **HP**.
 
 ## Experience
 
@@ -202,15 +202,15 @@ Adventurers learn through defeating and overcoming obstacles. Killing one boring
 
 For every session / dungeon level / quest / major event the character survives they gain a level.
 
-The GM will decide which, and it’s recommended that this decision remains more or less a constant throughout the campaign - and a GM should be clear and upfront with the players so they know where the ‘goalposts’ are.
+*The GM will decide which, and it’s recommended that this decision remains more or less a constant throughout the campaign - and a GM should be clear and upfront with the players so they know where the ‘goalposts’ are.*
 
 ## Gaining levels
 
-When a character levels up, their maximum Hit Points increase by rolling the Hit Die for the class. Also a player should roll a d20 for each Stat, if the result is higher - that Stat increases by 1.
+When a character levels up, their maximum **Hit Points** increase by rolling the **Hit Die** for the class. Also a player should roll a d20 for each **Stat**, if the result is higher - that **Stat** increases by 1.
 
 ## Encumbrance
 
-A character can carry a number of items equal to their STR with no issues. Carrying over this amount means they are encumbered and all attribute tests are taken with Disadvantage - you can also only ever move to somewhere Nearby. They simply cannot carry more than double their STR.
+A character can carry a number of items equal to their **STR** with no issues. Carrying over this amount means they are encumbered and all attribute tests are taken with **Disadvantage** - you can also only ever move to somewhere **Nearby**. They simply cannot carry more than double their **STR**.
 
 ## Class weapons
 
@@ -220,11 +220,11 @@ When using a weapon not listed in their class, combat tests have Disadvantage.
 
 ## Random encounters
 
-The GM should roll a d4 every 15 minutes of real world play (you are paying attention, right?) A result of 1-2 means the players will encounter a randomly generated creature or distraction in the following Minutes (turn).
+The GM should roll a d4 every 15 minutes of real world play (you *are* paying attention, right?) A result of 1-2 means the players will encounter a randomly generated creature or distraction in the following **Minutes** (turn).
 
 ## Creature reactions
 
-Some monsters and NPCs will have predetermined personalities and goals that will guide a GM when choosing their actions and feelings towards the characters. Those that do not, such as randomly encountered creatures, make a Reaction roll on the following table :
+Some monsters and NPCs will have predetermined personalities and goals that will guide a GM when choosing their actions and feelings towards the characters. Those that do not, such as randomly encountered creatures, make a **Reaction roll** on the following table :
 
 | Roll | Reaction                     |
 |:-----|:-----------------------------|
@@ -239,13 +239,13 @@ Some monsters and NPCs will have predetermined personalities and goals that will
 
 ## Banishing undead
 
-Clerics can attempt to banish all nearby undead as an action. They must successfully test their WIS for each group of creatures they are attempting to banish, adding the creature's HD to the roll. A GM will determine which creatures are in any particular group.
+Clerics can attempt to banish all nearby undead as an action. They must successfully test their **WIS** for each group of creatures they are attempting to banish, adding the creature's **HD** to the roll. A GM will determine which creatures are in any particular group.
 
-Undead monsters that are Banished by Clerics must spend all their movement (and convert actions to movement) to move away from the Cleric for 2d4 Moments after being Banished.
+Undead monsters that are **Banished** by Clerics must spend all their movement (and convert actions to movement) to move away from the Cleric for 2d4 **Moments** after being **Banished**.
 
 ## Usage die
 
-Any item listed in the equipment section that has a Usage die is considered a consumable, limited item. When that item is used the next Minute (turn) its Usage die is rolled. If the roll is 1-2 then the usage die is downgraded to the next lower die in the following chain:
+Any item listed in the equipment section that has a **Usage die** is considered a consumable, limited item. When that item is used the next **Minute** (turn) its **Usage die** is rolled. If the roll is 1-2 then the usage die is downgraded to the next lower die in the following chain:
 
 **d20 > d12 > d10 > d8 > d6 > d4**
 
@@ -255,9 +255,9 @@ When you roll a 1-2 on a d4 the item is expended and the character has no more o
 
 Magic weapons typically add +1 to any attribute being tested whilst using the weapon and +1 to each damage dice rolled. More powerful weapons (+2/3) can be found if the GM includes them.
 
-Magic Armor doubles the amount of AP armor would normally have, for example Magic Chain Mail has 12 Armor Points. They operate per the normal Armor Points rules.
+Magic Armor doubles the amount of AP armor would normally have, for example Magic Chain Mail has 12 **Armor Points**. They operate per the normal **Armor Points** rules.
 
-Traditional OSR games deal with magic items by adding +1 or +2 to attack rolls and AC. If the GM intends to give out stronger magic armor (+2/3) to high level players, carefully consider tripling the Armor Points.
+Traditional OSR games deal with magic items by adding +1 or +2 to attack rolls and AC. If the GM intends to give out stronger magic armor (+2/3) to high level players, carefully consider tripling the **Armor Points**.
 
 ----
 
