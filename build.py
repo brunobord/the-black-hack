@@ -1,5 +1,6 @@
 import shutil
 import os
+from string import Template
 from os.path import join
 import markdown
 from mdx_gfm import GithubFlavoredMarkdownExtension
@@ -8,8 +9,11 @@ if __name__ == '__main__':
 
     build_path = 'build'
     static_path = join(build_path, 'static')
+    with open(join('templates', 'base.html')) as fd:
+        template_string = fd.read()
+    template = Template(template_string)
 
-    exceptions = ['.tox', '.git', 'build', 'static']
+    exceptions = ['.tox', '.git', 'build', 'static', 'templates']
     dir_list = [d for d in os.listdir('.') if d not in exceptions]
     dir_list = filter(lambda x: os.path.isdir(x), dir_list)
 
@@ -27,9 +31,13 @@ if __name__ == '__main__':
             languages.append(directory)
             with open(filepath) as fd:
                 source = fd.read()
-            html = markdown.markdown(
+            body = markdown.markdown(
                 source,
                 extensions=[GithubFlavoredMarkdownExtension()]
+            )
+            html = template.substitute(
+                body=body,
+                title=directory,
             )
             target_dir = join(build_path, directory)
             if not os.path.isdir(target_dir):
@@ -38,13 +46,19 @@ if __name__ == '__main__':
             with open(target_filepath, 'w') as fd:
                 fd.write(html)
 
-    with open(join(build_path, 'index.html'), 'w') as fd:
-        fd.write('<h1>The Black Hack available texts</h1>')
-        fd.write('<ul>')
-        for language in languages:
-            fd.write(
-                '<a href="{language}/">{language}</a>'.format(
-                    language=language
-                )
+    body = []
+    body.append('<h1>The Black Hack available texts</h1>')
+    body.append('<ul>')
+    for language in languages:
+        body.append(
+            '<a href="{language}/">{language}</a>'.format(
+                language=language
             )
-        fd.write('</ul>')
+        )
+    body.append('</ul>')
+    html = template.substitute(
+        body='\n'.join(body),
+        title="Home",
+    )
+    with open(join(build_path, 'index.html'), 'w') as fd:
+        fd.write(html)
