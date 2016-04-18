@@ -2,7 +2,7 @@
 
 (text based on the Black Hack v1.2 - 2016-04-03)
 
-￼￼An ‘OSR’ First Edition Hack  
+An ‘OSR’ First Edition Hack  
 developed by  
 DAVID BLACK  
 
