@@ -19,9 +19,12 @@ if __name__ == '__main__':
         shutil.rmtree(static_path)
     shutil.copytree('static', static_path)
 
+    languages = []
+
     for directory in dir_list:
         filepath = join(directory, 'the-black-hack.md')
         if os.path.exists(filepath):
+            languages.append(directory)
             with open(filepath) as fd:
                 source = fd.read()
             html = markdown.markdown(
@@ -34,3 +37,14 @@ if __name__ == '__main__':
             target_filepath = join(target_dir, 'index.html')
             with open(target_filepath, 'w') as fd:
                 fd.write(html)
+
+    with open(join(build_path, 'index.html'), 'w') as fd:
+        fd.write('<h1>The Black Hack available texts</h1>')
+        fd.write('<ul>')
+        for language in languages:
+            fd.write(
+                '<a href="{language}/">{language}</a>'.format(
+                    language=language
+                )
+            )
+        fd.write('</ul>')
