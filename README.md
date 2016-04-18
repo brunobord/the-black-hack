@@ -22,9 +22,9 @@ Let's say you want to translate "The Black Hack" into Klingon.
 
 1. fork this project on github,
 2. on your local copy, create a `klingon` directory,
-3. in this directory, create a `the-black-hack.md` file and start translating. This file should fit the [Github Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/) syntax.
-4. When you're done, submit a [pull-request](https://help.github.com/articles/creating-a-pull-request/).
-5. There may be a few discussion about your translation (mostly about the Markdown syntax). When the pull-request is "ok", it'll be merged into the main repository.
+3. in this directory, create a `the-black-hack.md` file and start translating. This file should fit the [Github Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/) syntax,
+4. when you're done, submit a [pull-request](https://help.github.com/articles/creating-a-pull-request/),
+5. there may be a few discussion about your translation (mostly about the Markdown syntax). When the pull-request is "ok", it'll be merged into the main repository.
 
 ##### If you don't know how Github is working
 
