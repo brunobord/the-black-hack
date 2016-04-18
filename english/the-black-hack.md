@@ -22,13 +22,13 @@ The Black Hack (TBH) is a traditional tabletop roleplaying game, played with pap
 
 ## The core mechanic
 
-Everything a character might possibly attempt that could result in failure is resolved by testing attribute stats, in order to successfully test a stat - a player must roll below it on a d20.
+Everything a character might possibly attempt that could result in failure is resolved by testing attribute stats, in order to successfully test a stat - a player must roll ***below*** it on a d20.
 
 Monsters don’t make tests - a character must avoid their attacks by making a test, the only time a monster would roll is for damage.
 
 ## Rolling stats
 
-Stats are generated with 3d6 in the following order Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), Charisma (CHA). If a stat of 15+ is rolled the next must be rolled with 2d6 + 2, then continue with 3d6 until the end or another 15+ is rolled. Once all stats are generated 2 may be swapped around.
+**Stats** are generated with 3d6 in the following order **Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), Charisma (CHA)**. If a stat of 15+ is rolled the next must be rolled with 2d6 + 2, then continue with 3d6 until the end or another 15+ is rolled. Once all stats are generated 2 may be swapped around.
 
 ## Choose a class
 
