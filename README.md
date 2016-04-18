@@ -31,3 +31,9 @@ Let's say you want to translate "The Black Hack" into Klingon.
 Contact me via [e-mail](http://jehaisleprintemps.net/contact/) or [Twitter](https://twitter.com/brunobord) or [G+](https://plus.google.com/+brunobord) or any mean you can find and send me over a **raw text** translation of the game. I'll try to add it to the project ; and I may ask you to eventually help me to integrate it as best as possible.
 
 Congratulations, you have contributed to this project
+
+#### Make sure your contribution is okay
+
+If you're geeky enough, you can try to use the command: ``make html`` to build HTML pages into the `build/` directory. It only requires that (a recent version of) [tox](http://tox.readthedocs.org/) is available on your system.
+
+Browse the `build/` directory with your web browser to see your translation along with the others.
