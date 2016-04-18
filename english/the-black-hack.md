@@ -40,7 +40,7 @@ Every new character starts with 3d6 x 10 coins with which to buy their equipment
 
 ## Armor points
 
-Armor provides protection by reducing all incoming damage. Each type will reduce damage by a limited amount. Armor Points are regained after a character rests. Once the player or monster has used armor to absorb its maximum amount, they are too tired or wounded to make effective use of
+Armor provides protection by reducing all incoming damage. Each type will reduce damage by a limited amount. **Armor Points** are regained after a character rests. Once the player or monster has used armor to absorb its maximum amount, they are too tired or wounded to make effective use of
 it again - they then begin taking full damage.
 
 |     Type     | Points |
@@ -52,11 +52,11 @@ it again - they then begin taking full damage.
 | Small shield |   2    |
 | Large shield |   4    |
 
-Monsters have 1 point of armor for every HD above 1, to figure this out quickly simply -1 from their HD - They can also carry shields. (All to a maximum of 10)
+Monsters have 1 point of armor for every **HD** above 1, to figure this out quickly simply -1 from their **HD** - They can also carry shields. (All to a maximum of 10)
 
 ## Armor proficiency
 
-If a character wears armor that is not listed in their class, they add their total Armor points (despite how many they have used) to any rolls to Attack or Avoid Damage.
+If a character wears armor that is not listed in their class, they add their total **Armor points** (despite how many they have used) to any rolls to **Attack** or **Avoid Damage**.
 
 ----
 
@@ -94,15 +94,15 @@ If a character wears armor that is not listed in their class, they add their tot
 
 ## Converting saves
 
-The Black Hack ignores saves and instead asks the player to roll attribute tests when any spell, trap or effect would impact them - using the below as a guide. Remember the advice in the Powerful Opponents section.
+The Black Hack ignores saves and instead asks the player to roll attribute tests when any spell, trap or effect would impact them - using the below as a guide. Remember the advice in the **Powerful Opponents** section.
 
-|                 STR                  |                DEX                |            CON            |
-|:------------------------------------:|:---------------------------------:|:-------------------------:|
-| Physical Harm that cannot be dodged. | Physical Harm that can be dodged. | Poison, Disease or Death. |
+|                  STR                   |                 DEX                 |            CON            |
+|:--------------------------------------:|:-----------------------------------:|:-------------------------:|
+| Physical Harm that *cannot* be dodged. | Physical Harm that *can* be dodged. | Poison, Disease or Death. |
 
-|             INT             |            WIS            |        CHA        |
-|:---------------------------:|:-------------------------:|:-----------------:|
-| Resisting Spells and Magic. | ￼Deception and Illusions. | Charming effects. |
+|             INT             |           WIS            |        CHA        |
+|:---------------------------:|:------------------------:|:-----------------:|
+| Resisting Spells and Magic. | Deception and Illusions. | Charming effects. |
 
 ## Players turn
 
@@ -110,11 +110,11 @@ During a player’s turn a character may move and perform an action. They could 
 
 ## Time & turns
 
-There are 2 important types of tracked time - Moments (rounds) and Minutes (turns). Moments are used during combat and fast paced scenes of danger and Minutes are used when exploring and adventuring. A GM may advance the clock as they need substituting Minutes for Hours, Days or even Months should the adventure require it.
+There are 2 important types of tracked time - **Moments** (*rounds*) and **Minutes** (*turns*). **Moments** are used during combat and fast paced scenes of danger and **Minutes** are used when exploring and adventuring. A GM may advance the clock as they need substituting **Minutes** for **Hours**, **Days** or even **Months** should the adventure require it.
 
 ## Movement & distance
 
-Rather than track precise numbers, TBH uses 4 abstract ranges for measuring distances. Close, Nearby, Far-Away and Distant. On their turn every character can move somewhere Nearby as part of an action, performing that action at any stage of the move. They can forgo their action and move somewhere Far-Away instead. Anything beyond Far-Away can be classified as Distant and would take 3 moves to get to.
+Rather than track precise numbers, TBH uses 4 abstract ranges for measuring distances. **Close**, **Nearby**, **Far-Away** and **Distant**. On their turn every character can move somewhere **Nearby** as part of an action, performing that action at any stage of the move. They can forgo their action and move somewhere **Far-Away** instead. Anything beyond **Far-Away** can be classified as **Distant** and would take 3 moves to get to.
 
 This system is designed to support the narrative ‘theatre of the mind’ style of play, and is less concerned about tracking squares and fiddly distances. For converting existing movement rates or measures (for spells or areas of effect) use the following as a guide :
 
@@ -124,23 +124,23 @@ This system is designed to support the narrative ‘theatre of the mind’ style
 
 ## Initiative
 
-When combat breaks out, everyone must be sorted into an order so they each get to act and react in turn. Every character tests their DEX, those that succeed, take their turn before their opponents, they must then act as a group - deciding their own order for actions. Those that fail their DEX tests, go after their opponents.
+When combat breaks out, everyone must be sorted into an order so they each get to act and react in turn. Every character tests their **DEX**, those that succeed, take their turn before their opponents, they must then act as a group - deciding their own order for actions. Those that fail their **DEX** tests, go after their opponents.
 
 ## Monster HD
 
-HD represents a monster's level and the number of d8 rolled to determine its HP.
+**HD** represents a monster's level and the number of d8 rolled to determine its HP.
 
 ----
 
 ## Attacking, defending & damage
 
-When a character attacks a creature they must roll below their STR stat for a Melee Attack or DEX for a Ranged Attack. Likewise, when a creature attacks, the character must roll below its STR against a Melee Attack and DEX against a Ranged Attack to avoid taking damage. A GM will often give the stat required for the test.
+When a character attacks a creature they must roll below their **STR** stat for a **Melee Attack** or **DEX** for a **Ranged Attack**. Likewise, when a creature attacks, the character must roll below its **STR** against a Melee Attack and **DEX** against a Ranged Attack to avoid taking damage. A GM will often give the stat required for the test.
 
-The damage an attack deals is based on the character’s class or the number of HD a monster has.
+The damage an attack deals is based on the character’s class or the number of **HD** a monster has.
 
-To make a Melee Attack an opponent must be Close. Ranged Attacks against Close opponents are possible, but the attacker suffers a Disadvantage.
+To make a **Melee Attack** an opponent must be **Close**. **Ranged Attacks** against **Close** opponents are possible, but the attacker suffers a **Disadvantage**.
 
-Monsters deal damage based on their HD - refer to the table opposite, but if you’d prefer to use the damage stats listed in a module that you are playing, you can certainly do that instead.
+**Monsters** deal damage based on their **HD** - *refer to the table opposite*, but if you’d prefer to use the damage stats listed in a module that you are playing, you can certainly do that instead.
 
 ## Two handed weapons
 
@@ -148,7 +148,7 @@ Larger, more deadly weapons are handled simply by adding +2 to any dice rolled w
 
 ## Critical damage
 
-If a player making an attack rolls a 1, they double the result of the damage dice they roll. If they roll a 20 when avoiding an attack, they take double damage. Armor Points are used normally.
+If a player making an attack rolls a 1, they double the result of the damage dice they roll. If they roll a 20 when avoiding an attack, they take double damage. **Armor Points** are used normally.
 
 | Monster HD |     Damage     |
 |:----------:|:--------------:|
@@ -165,28 +165,28 @@ If a player making an attack rolls a 1, they double the result of the damage dic
 
 ## Death & dying
 
-When a character is reduced to zero Hit Points (HP) they are taken Out of Action (OofA), they are unconscious and cannot make any actions. When the fight is over/are out of danger, a character that is taken OofA can roll on the table (following page) to see what happens to them. If they survive they gain 1d4 HP.
+When a character is reduced to zero **Hit Points (HP)** they are taken **Out of Action (OofA)**, they are unconscious and cannot make any actions. When the fight is over/are out of danger, a character that is taken **OofA** can roll on the table (*following page*) to see what happens to them. **If they survive they gain 1d4 HP**.
 
-If the characters lose the fight or are unable to recover the body of the character, they are lost forever!
+*If the characters lose the fight or are unable to recover the body of the character, they are lost forever!*
 
 ## Powerful opponents
 
-For every HD above the character’s level, add +1 to every roll the player makes for any attribute test that would determine the outcome of a conflict between them and an NPC. - A level 3 character defending against a HD 5 monsters attack would add +2 to their roll.
+For every **HD** above the character’s level, add +1 to every roll the player makes for any attribute test that would determine the outcome of a conflict between them and an NPC. *- A level 3 character defending against a HD 5 monsters attack would add +2 to their roll*.
 
 ----
 
 ## Healing
 
-Characters can gain Hit Points from Spells, Potions, and Abilities. They can never gain more than their maximum - and can never go below zero either. When healing a character who is OofA, just start at zero and count up. That character is now back on their feet and no longer OofA.
+Characters can gain Hit Points from Spells, Potions, and Abilities. They can never gain more than their maximum - and can never go below zero either. When healing a character who is **OofA**, just start at zero and count up. That character is now back on their feet and no longer **OofA**.
 
-| OUT | OF ACTION                                                       |
-|:---:|:----------------------------------------------------------------|
-|  1  | KO’d - Just knocked out.                                        |
-|  2  | Fat Head - Disadvantage on all tests for the next hour.         |
-|  3  | Cracked Bones - STR, DEX and CON are temp. -2 for the next day. |
-|  4  | Crippled - STR or DEX is permanently reduced by 2               |
-|  5  | Disfigured - CHA reduced to 4.                                  |
-|  6  | Dead - Not alive anymore.                                       |
+| OUT | OF ACTION                                                           |
+|:---:|:--------------------------------------------------------------------|
+|  1  | **KO’d** - Just knocked out.                                        |
+|  2  | **Fat Head** - Disadvantage on all tests for the next hour.         |
+|  3  | **Cracked Bones** - STR, DEX and CON are temp. -2 for the next day. |
+|  4  | **Crippled** - STR or DEX is permanently reduced by 2               |
+|  5  | **Disfigured** - CHA reduced to 4.                                  |
+|  6  | **Dead** - Not alive anymore.                                       |
 
 ## Advantage & disadvantage
 
@@ -523,47 +523,47 @@ If a spell from a traditional OSR or original era game calls for a creature to m
 
 ----
 
-| Creature          | HD | Actions and Specials                                                                                                                           |
-|:------------------|:--:|:-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Fire Beetle       | 1  | Light glands have a usage die of d8.                                                                                                           |
-| Giant Vampire Bat | 1  | 1d6 damage next moment after attack.                                                                                                           |
-| Deadly Centipede  | 1  | Bite (0) plus CON test or ‘OofA’ - only has 1-2hp.                                                                                             |
-| Manes Demon       | 1  | 2 Claws (1d2) + 1 Bite (1d4), Half damage from non-magic weapons                                                                               |
-| Goblin            | 1  | Only has 1d6 hp.                                                                                                                               |
-| Hobgoblin         | 1  | Usually has a backup shield if one is sundered.                                                                                                |
-| Human Berserker   | 1  | Disadvantage on defense rolls when Berserker attacks.                                                                                          |
-| Giant Ant Warrior | 2  | Poisonous Bite (1d6) + CON test or add 2d6 damage to the attack.                                                                               |
-| Carrion Creeper   | 2  | Bite (1) + 6 Tentacles (0) + CON test or Paralysed.                                                                                            |
-| Ghoul             | 2  | 2 claws (1d3) + 1 bite (1d4) + CON test or Paralysed.                                                                                          |
-| Giant Leech       | 2  | Drains a Level the moment after dealing damage.                                                                                                |
-| Bugbear           | 3  | All DEX tests are rolled with disadvantage.                                                                                                    |
-| Harpy             | 3  | Song - CHA test or PCs must move towards it.                                                                                                   |
-| Wererat           | 3  | Cannot gain Advantage when attempting to surprise a Wererat.                                                                                   |
-| Shadow            | 3  | Touch (1d4 and -1 STR), only hit by magic weapons.                                                                                             |
-| Doppleganger      | 3  | Change form in a moment, disadvantage against magic tests.                                                                                     |
-| Wight             | 3  | Can only be hit by magical or silver weapons, Drain 1 Level with Hit.                                                                          |
-| Blink Dog         | 4  | Teleport nearby once per fight.                                                                                                                |
-| Grizzly Bear      | 4  | 2 claws (1d3) + if both hit hug for 1d8 damage.                                                                                                |
-| Gargoyle          | 4  | 2 claws (1d3) + 1 bite (1d4) + 1 horn (1d6).                                                                                                   |
-| Gelatinous Cube   | 4  | CON test on touch or be Paralysed, immune to cold and lightning.                                                                               |
-| Werewolf          | 4  | Only silver weapons can hurt it.                                                                                                               |
-| Ogre              | 4  | Gives advantage on all CHA tests made against it.                                                                                              |
-| Cockatrice        | 5  | Bite (1d3) and CON test or Petrified.                                                                                                          |
-| Owlbear           | 5  | 2 claws (1d6) + 1 bite (2d6) + Hug for 2d8 if to-hit roll is 1-4.                                                                              |
-| Basilisk          | 6  | CON test on eye contact or be petrified.                                                                                                       |
-| Succubus/Incubus  | 6  | 2 Claws (1d3), Advantage on magic tests, immune to non magic weapons, level drain (-1) with kiss. Can cast Charm person (spell) once per hour. |
-| Mummy|6 |Attacks stop healing until cure wounds cast, immune to normal weapons, half damage from magic weapons. |
-| Banshee|7 | Shriek - CON test or Paralysed for 2d6 moments.|
-| Djinni| 7|Can take Gaseous Form, Create Objects, Create Illusions, Cast Invisibility (spell) as action. |
-| Spectre|8 |A person killed by a Spectre will become a Spectre in 1d6 minutes. |
-| Chimera|8 | 2 Claws (1d3) + 2 Goat horns (1d4) + 1 Lion bite (2d4) + 1 Dragon bite (3d4) or Breathes fire as a Dragon (3d8).|
-| Balor Demon|9 |Sword (1d12+2) + Whip (0) DEX test or be pulled Close to the Balor and burnt for 3d6 fire damage. |
-| Hezrou Demon|9 |2 Claws (1d3) + 1 Bite (2d8), Cause Fear (as per Banish) or Darkness (spell) - each once per fight. |
-| Black Pudding | 10 |Metal objects that touch it melt the next moment.|
-| Frost Giant | 10 | Throws boulders or great chunks of ice. |
-|Stone Golem|12|Only spells that affect rock or stone work, weapons must be +2 or better to damage it.|
-|Giant Slug|12|Spit Acid - d4+2 nearby targets (1d12) test DEX for 1/2 damage.|
-|Dragon | 9 to 11 |2 Claws (1d8) + Bite (1d10), Breathes fire - d4+2 nearby targets (3d8) Can cast 1d4 1st level spells + 1d2 2nd level spells. |
+| Creature          |   HD    | Actions and Specials                                                                                                                           |
+|:------------------|:-------:|:-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Fire Beetle       |    1    | Light glands have a usage die of d8.                                                                                                           |
+| Giant Vampire Bat |    1    | 1d6 damage next moment after attack.                                                                                                           |
+| Deadly Centipede  |    1    | Bite (0) plus CON test or ‘OofA’ - only has 1-2hp.                                                                                             |
+| Manes Demon       |    1    | 2 Claws (1d2) + 1 Bite (1d4), Half damage from non-magic weapons                                                                               |
+| Goblin            |    1    | Only has 1d6 hp.                                                                                                                               |
+| Hobgoblin         |    1    | Usually has a backup shield if one is sundered.                                                                                                |
+| Human Berserker   |    1    | Disadvantage on defense rolls when Berserker attacks.                                                                                          |
+| Giant Ant Warrior |    2    | Poisonous Bite (1d6) + CON test or add 2d6 damage to the attack.                                                                               |
+| Carrion Creeper   |    2    | Bite (1) + 6 Tentacles (0) + CON test or Paralysed.                                                                                            |
+| Ghoul             |    2    | 2 claws (1d3) + 1 bite (1d4) + CON test or Paralysed.                                                                                          |
+| Giant Leech       |    2    | Drains a Level the moment after dealing damage.                                                                                                |
+| Bugbear           |    3    | All DEX tests are rolled with disadvantage.                                                                                                    |
+| Harpy             |    3    | Song - CHA test or PCs must move towards it.                                                                                                   |
+| Wererat           |    3    | Cannot gain Advantage when attempting to surprise a Wererat.                                                                                   |
+| Shadow            |    3    | Touch (1d4 and -1 STR), only hit by magic weapons.                                                                                             |
+| Doppleganger      |    3    | Change form in a moment, disadvantage against magic tests.                                                                                     |
+| Wight             |    3    | Can only be hit by magical or silver weapons, Drain 1 Level with Hit.                                                                          |
+| Blink Dog         |    4    | Teleport nearby once per fight.                                                                                                                |
+| Grizzly Bear      |    4    | 2 claws (1d3) + if both hit hug for 1d8 damage.                                                                                                |
+| Gargoyle          |    4    | 2 claws (1d3) + 1 bite (1d4) + 1 horn (1d6).                                                                                                   |
+| Gelatinous Cube   |    4    | CON test on touch or be Paralysed, immune to cold and lightning.                                                                               |
+| Werewolf          |    4    | Only silver weapons can hurt it.                                                                                                               |
+| Ogre              |    4    | Gives advantage on all CHA tests made against it.                                                                                              |
+| Cockatrice        |    5    | Bite (1d3) and CON test or Petrified.                                                                                                          |
+| Owlbear           |    5    | 2 claws (1d6) + 1 bite (2d6) + Hug for 2d8 if to-hit roll is 1-4.                                                                              |
+| Basilisk          |    6    | CON test on eye contact or be petrified.                                                                                                       |
+| Succubus/Incubus  |    6    | 2 Claws (1d3), Advantage on magic tests, immune to non magic weapons, level drain (-1) with kiss. Can cast Charm person (spell) once per hour. |
+| Mummy             |    6    | Attacks stop healing until cure wounds cast, immune to normal weapons, half damage from magic weapons.                                         |
+| Banshee           |    7    | Shriek - CON test or Paralysed for 2d6 moments.                                                                                                |
+| Djinni            |    7    | Can take Gaseous Form, Create Objects, Create Illusions, Cast Invisibility (spell) as action.                                                  |
+| Spectre           |    8    | A person killed by a Spectre will become a Spectre in 1d6 minutes.                                                                             |
+| Chimera           |    8    | 2 Claws (1d3) + 2 Goat horns (1d4) + 1 Lion bite (2d4) + 1 Dragon bite (3d4) or Breathes fire as a Dragon (3d8).                               |
+| Balor Demon       |    9    | Sword (1d12+2) + Whip (0) DEX test or be pulled Close to the Balor and burnt for 3d6 fire damage.                                              |
+| Hezrou Demon      |    9    | 2 Claws (1d3) + 1 Bite (2d8), Cause Fear (as per Banish) or Darkness (spell) - each once per fight.                                            |
+| Black Pudding     |   10    | Metal objects that touch it melt the next moment.                                                                                              |
+| Frost Giant       |   10    | Throws boulders or great chunks of ice.                                                                                                        |
+| Stone Golem       |   12    | Only spells that affect rock or stone work, weapons must be +2 or better to damage it.                                                         |
+| Giant Slug        |   12    | Spit Acid - d4+2 nearby targets (1d12) test DEX for 1/2 damage.                                                                                |
+| Dragon            | 9 to 11 | 2 Claws (1d8) + Bite (1d10), Breathes fire - d4+2 nearby targets (3d8) Can cast 1d4 1st level spells + 1d2 2nd level spells.                   |
 
 ----
 
