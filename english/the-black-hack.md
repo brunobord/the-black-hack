@@ -263,33 +263,35 @@ Traditional OSR games deal with magic items by adding +1 or +2 to attack rolls a
 
 ## Warrior
 
-Starting HP : d10 + 4
-HP Per Level/Resting : 1d10
-Weapons & Armor : Any and All Attack Damage : 1d8 / 1d6 Unarmed or Improvising
+**Starting HP :** d10 + 4
+**HP Per Level/Resting :** 1d10
+**Weapons & Armor :** Any and All
+**Attack Damage :** 1d8 / 1d6 Unarmed or Improvising
 
 ### Special features
 
-Once per hour, whilst in combat, a Warrior can regain d8 lost HP.
+Once per hour, whilst in combat, a Warrior can regain d8 lost **HP**.
 
 As part of their action a Warrior can make 1 attack per level.
 
-If a Warrior fails a STR or DEX test and would be dealt damage from an attack, they can opt to sunder (destroy) their shield - if they have one equipped - and ignore the damage.
+If a Warrior fails a **STR** or **DEX** test and would be dealt damage from an attack, they can opt to sunder (destroy) their shield - if they have one equipped - and ignore the damage.
 
 ### Leveling up
 
-Roll to see if attributes increase, roll twice for STR and DEX.
+Roll to see if attributes increase, roll twice for **STR** *and* **DEX**.
 
 ----
 
 ## Thief
 
-Starting HP : d6 + 4
-HP Per Level/Resting : 1d6
-Weapons & Armor : All Swords, All Bows, Daggers, Gambeson, Leather, Small Shields Attack Damage : 1d6 / 1d4 Unarmed or Improvising
+**Starting HP :** d6 + 4
+**HP Per Level/Resting :** 1d6
+**Weapons & Armor :** All Swords, All Bows, Daggers, Gambeson, Leather, Small Shields
+**Attack Damage :** 1d6 / 1d4 Unarmed or Improvising
 
 ### Special features
 
-Roll with Advantage when testing DEX to avoid damage or effects from traps and magical devices.
+Roll with Advantage when testing **DEX** to avoid damage or effects from traps and magical devices.
 
 Rolls with Advantage when attacking from behind and deals 2d6 / 2d4 + the Thief's level damage.
 
@@ -297,24 +299,26 @@ Rolls with Advantage when performing delicate tasks, climbing, hearing sounds, m
 
 ### Leveling up
 
-Roll to see if attributes increase, roll twice for DEX or WIS.
+Roll to see if attributes increase, roll twice for **DEX** *or* **WIS**.
 
 ----
 
 ## Cleric
 
-Starting HP : d8 + 4
-HP Per Level/Resting : 1d8
-Weapons & Armor : All Blunt Weapons, Gambeson, Leather, Chain Mail, All Shields Attack Damage : 1d6 / 1d4 Unarmed or Improvising
+**Starting HP :** d8 + 4
+**HP Per Level/Resting :** 1d8
+**Weapons & Armor :** All Blunt Weapons, Gambeson, Leather, Chain Mail, All Shields
+**Attack Damage :** 1d6 / 1d4 Unarmed or Improvising
 
 ### Special features
 
-Roll with Advantage when testing CON to avoid damage from poison or being paralyzed.
-A Cleric can spend an action to banish all Nearby undead by testing their WIS and adding the creature's HD to the roll.
+Roll with Advantage when testing **CON** to avoid damage from poison or being paralyzed.
+
+A Cleric can spend an action to banish all **Nearby** undead by testing their WIS and adding the creature's HD to the roll.
 
 ### Leveling up
 
-Roll to see if attributes increase, roll twice for STR or WIS.
+Roll to see if attributes increase, roll twice for **STR** or **WIS**.
 
 ### Divine spellcasting
 
@@ -328,9 +332,10 @@ Clerics start with a large spellbook containing a total of 1d4 spells from the L
 
 ## Conjurer
 
-Starting HP : d4 + 4
-HP Per Level/Resting : 1d4
-Weapons & Armor : 1-handed Sword and Staff Attack Damage : 1d4 / 1 Unarmed or Improvising
+**Starting HP :** d4 + 4
+**HP Per Level/Resting :** 1d4
+**Weapons & Armor :** 1-handed Sword and Staff
+**Attack Damage :** 1d4 / 1 Unarmed or Improvising
 
 ### Special features
 
@@ -338,7 +343,7 @@ Roll with Advantage when testing INT to avoid damage or effects from spells or m
 
 ### Leveling up
 
-Roll to see if attributes increase, roll twice for INT or WIS.
+Roll to see if attributes increase, roll twice for **INT** *or* **WIS**.
 
 ### Arcane spellcasting
 
@@ -354,17 +359,19 @@ Conjurers start with a large spellbook containing a total of 1d4+2 spells from t
 
 Conjurers and Clerics have the ability to cast spells that are chosen from their appropriate class list (on the following pages).
 
-They can cast any spell they know by reading from their spellbook or can memorise a number of spells equal to their Level and cast those without it. They have a number of 'spell slots' they can cast each day - as shown in the two tables opposite. These represent a magic user's 'energy' and the taxing nature of casting spells over a long period. When they run out of spell slots, they cannot cast any more spells.
+They can cast any spell they know by reading from their spellbook or can memorise a number of spells equal to their **Level** and cast those without it.
 
-Once a spell is cast the Cleric/Conjurer must test their WIS/INT - adding the spell's level to the roll. If they fail then they reduce the number of 'spell slots' corresponding to the spell level just cast by 1. When a memorised spell is cast it is not forgotten.
+They have a number of 'spell slots' they can cast each day - as shown in the two tables opposite. These represent a magic user's 'energy' and the taxing nature of casting spells over a long period. When they run out of spell slots, they cannot cast any more spells.
 
-After roughly 8 hours rest, the number of 'spell slots' a character has refreshes to its maximum.
+Once a spell is cast the Cleric/Conjurer must test their **WIS/INT** - adding the spell's level to the roll. If they fail then they reduce the number of 'spell slots' corresponding to the spell level just cast by 1. When a memorised spell is cast it is not forgotten.
 
-If a spell from a traditional OSR or original era game calls for a creature to make a save, the character must test their INT or WIS - to see if the magic cast was powerful enough to overcome their defences (remember the Powerful Opponents rule).
+After roughly ***8 hours rest***, the number of 'spell slots' a character has refreshes to its maximum.
 
-## DAILY CLERIC SPELLS
+If a spell from a traditional OSR or original era game calls for a creature to make a save, the character must test their **INT** or **WIS** - to see if the magic cast was powerful enough to overcome their defences (remember the **Powerful Opponents** rule).
 
-- spell slot level - character level
+## Daily cleric spells
+
+Note: columns are *spell slot levels*, lines are *character levels*.
 
 |    | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |:---|:--|:--|:--|:--|:--|:--|:--|
@@ -379,7 +386,10 @@ If a spell from a traditional OSR or original era game calls for a creature to m
 | 9  | 3 | 3 | 2 | 2 | 2 | 1 | - |
 | 10 | 3 | 3 | 3 | 2 | 2 | 2 | 1 |
 
-## DAILY CONJURER SPELLS
+## Daily conjurer spells
+
+Note: columns are *spell slot levels*, lines are *character levels*.
+
 
 |    | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |:---|:--|:--|:--|:--|:--|:--|:--|
@@ -400,63 +410,63 @@ If a spell from a traditional OSR or original era game calls for a creature to m
 
 ### 1
 
-* Cure Light Wounds : Heal 1d8 HP to a Nearby target.
-* Detect Evil : Everything Nearby that is evil glows - 5mins.
-* Light : Create dim light from a Nearby spot or object - 1hr.
-* Protection from Evil : Advantage on all harmful tests from an Evil source - 1hr.
-* Purify Food and Drink : Removes all diseases from all Nearby food and drink.
+* **Cure Light Wounds :** Heal 1d8 HP to a Nearby target.
+* **Detect Evil :** Everything Nearby that is evil glows - 5mins.
+* **Light :** Create dim light from a Nearby spot or object - 1hr.
+* **Protection from Evil :** Advantage on all harmful tests from an Evil source - 1hr.
+* **Purify Food and Drink :** Removes all diseases from all Nearby food and drink.
 
 ### 2
 
-* Bless : Nearby allies gain +1 to stats when making attacks and saves - 1hr.
-* Find Traps : Notice all nearby traps - 1omins.
-* Hold Person : Paralyse 1d4 Nearby targets. Test WIS each turn to see if the effect lasts.
-* Silence : Magical silence covering everything Nearby to a target - 1hr.
-* Speak with Animals : Can understand and talk with animals - 1hr.
+* **Bless :** Nearby allies gain +1 to stats when making attacks and saves - 1hr.
+* **Find Traps :** Notice all nearby traps - 10mins.
+* **Hold Person :** Paralyse 1d4 Nearby targets. Test **WIS** each turn to see if the effect lasts.
+* **Silence :** Magical silence covering everything Nearby to a target - 1hr.
+* **Speak with Animals :** Can understand and talk with animals - 1hr.
 
 ### 3
 
-* Daylight : A nearby area is illuminated by sunlight - 1hr.
-* Cure Disease : Cures a Nearby target of all diseases.
-* Locate Object : Sense direction of a known object - 1 minute/level.
-* Prayer : All Nearby allies defend against attacks with Advantage - 1d4 moments.
-* Remove Curse : Removes a curse from a Nearby target.
-* Speak with Dead : Ask a Nearby corpse 3 questions.
+* **Daylight :** A nearby area is illuminated by sunlight - 1hr.
+* **Cure Disease :** Cures a Nearby target of all diseases.
+* **Locate Object :** Sense direction of a known object - 1 minute/level.
+* **Prayer :** All Nearby allies defend against attacks with Advantage - 1d4 moments.
+* **Remove Curse :** Removes a curse from a Nearby target.
+* **Speak with Dead :** Ask a Nearby corpse 3 questions.
 
 ### 4
 
-* Create Food/Water : Create enough food/water for all Nearby creatures for a day.
-* Cure Serious Wounds : Heal 3d8+3 HP to a Nearby target.
-* Neutralise Poison : Remove/Immunise poison from a Nearby target - 10mins.
-* Protection from Evil : Nearby allies gain 6 temp AP against evil creatures - 10mins.
+* **Create Food/Water :** Create enough food/water for all Nearby creatures for a day.
+* **Cure Serious Wounds :** Heal 3d8+3 HP to a Nearby target.
+* **Neutralise Poison :** Remove/Immunise poison from a Nearby target - 10mins.
+* **Protection from Evil :** Nearby allies gain 6 temp AP against evil creatures - 10mins.
 
 ### 5
 
-* Commune : The Cleric's deity truthfully answers 3 questions - 10mins.
-* Dispel Evil : Removes a Nearby Divine (Evil) spell.
-* Finger of Death : Choose a Nearby target and test WIS, if a pass the target is OofA.
-* Plague : Test WIS for all Nearby targets, they lose 2d8 HP for the next 1d6 turns.
-* Quest : Force a Nearby creature to obey an order.
-* Raise Dead : Return a Nearby willing target to life, who's died within the last 7 days.
+* **Commune :** The Cleric's deity truthfully answers 3 questions - 10mins.
+* **Dispel Evil :** Removes a Nearby Divine (Evil) spell.
+* **Finger of Death :** Choose a Nearby target and test **WIS**, if a pass the target is OofA.
+* **Plague :** Test **WIS** for all Nearby targets, they lose 2d8 HP for the next 1d6 turns.
+* **Quest :** Force a Nearby creature to obey an order.
+* **Raise Dead :** Return a Nearby willing target to life, who's died within the last 7 days.
 
 ### 6
 
-* Animate Object : Give a Nearby object motion and a simple intelligence - 10mins.
-* Blade Barrier : Wall covers a Nearby area, WIS to attack Close targets (3d8) - 10mins.
-* Conjure Elemental : Summons an elemental with HD equal to caster's lvl -1hr.
-* Find Path : The path to a chosen location is made known - 1hr.
-* Speak with Monsters : Can understand and talk with monsters - 1hr.
-* Word of Recall : Give ability to teleport back to the location this spell was cast - 1year.
+* **Animate Object :** Give a Nearby object motion and a simple intelligence - 10mins.
+* **Blade Barrier :** Wall covers a Nearby area, **WIS** to attack Close targets (3d8) - 10mins.
+* **Conjure Elemental :** Summons an elemental with HD equal to caster's lvl -1hr.
+* **Find Path :** The path to a chosen location is made known - 1hr.
+* **Speak with Monsters :** Can understand and talk with monsters - 1hr.
+* **Word of Recall :** Give ability to teleport back to the location this spell was cast - 1year.
 
 ### 7
 
-* Aerial Servant : Summons a servant to recover a distant object.
-* Astral Spell : Projects an avatar of the caster onto a chosen plane - 1hr.
-* Control Weather : Control the Nearby weather to all extremes - 10mins.
-* Earthquake : Test WIS for all Nearby creatures, passes are taken OofA.
-* Holy Word : Nearby creatures with less than 5HD die, 6-10HD paralysed for 1d4 turns.
-* Wind Walk : Turn into mist and back, at will - 1day.
-* Restoration : Returns all levels lost to monsters with level drain.
+* **Aerial Servant :** Summons a servant to recover a distant object.
+* **Astral Spell :** Projects an avatar of the caster onto a chosen plane - 1hr.
+* **Control Weather :** Control the Nearby weather to all extremes - 10mins.
+* **Earthquake :** Test **WIS** for all Nearby creatures, passes are taken OofA.
+* **Holy Word :** Nearby creatures with less than 5HD die, 6-10HD paralysed for 1d4 turns.
+* **Wind Walk :** Turn into mist and back, at will - 1day.
+* **Restoration :** Returns all levels lost to monsters with level drain.
 
 ----
 
@@ -464,62 +474,62 @@ If a spell from a traditional OSR or original era game calls for a creature to m
 
 ### 1
 
-* Charm : A Nearby target obeys commands. Test WIS each turn to see if the effect lasts.
-* Detect Magic : Everything Nearby that is magic glows - 5mins.
-* Light : Create dim light from a Nearby spot or object - 1hr.
-* Magic Missile : A Nearby, Far-Away or Distant target takes 1d4 damage/level.
-* Shield : Gain 2 AP/ level.
-* Sleep : Puts 4d6 HD 'worth' of beings to sleep - 8hrs.
+* **Charm :** A Nearby target obeys commands. Test **WIS** each turn to see if the effect lasts.
+* **Detect Magic :** Everything Nearby that is magic glows - 5mins.
+* **Light :** Create dim light from a Nearby spot or object - 1hr.
+* **Magic Missile :** A Nearby, Far-Away or Distant target takes 1d4 damage/level.
+* **Shield :** Gain 2 AP/ level.
+* **Sleep :** Puts 4d6 HD 'worth' of beings to sleep - 8hrs.
 
 ### 2
 
-* Darkness : Creates darkness covering a Nearby area that blocks all types of vision - 1hr.
-* Invisibility : A nearby creature is made invisible until it attacks or dispelled.
-* Knock : A Nearby door or lock is opened.
-* Levitate : The caster floats up to 6 feet from the ground - 10mins/level.
-* Web : Traps a Nearby area, stopping movement. Test WIS/hr
+* **Darkness :** Creates darkness covering a Nearby area that blocks all types of vision - 1hr.
+* **Invisibility :** A nearby creature is made invisible until it attacks or dispelled.
+* **Knock :** A Nearby door or lock is opened.
+* **Levitate :** The caster floats up to 6 feet from the ground - 10mins/level.
+* **Web :** Traps a Nearby area, stopping movement. Test **WIS**/hr
 
 ### 3
 
-* Darkvision : See in absolute darkness - 10min/level.
-* Dispel Magic : Removes a Nearby Arcane spell.
-* Fireball : 1d6 Nearby creatures take 1d6/level damage.
-* Read Language/Magic : Read all languages and magic - 10mins.
-* Magic Mouth : Creates an illusory mouth that repeats a phrase to all Nearby creatures.
+* **Darkvision :** See in absolute darkness - 10min/level.
+* **Dispel Magic :** Removes a Nearby Arcane spell.
+* **Fireball :** 1d6 Nearby creatures take 1d6/level damage.
+* **Read Language/Magic :** Read all languages and magic - 10mins.
+* **Magic Mouth :** Creates an illusory mouth that repeats a phrase to all Nearby creatures.
 
 ### 4
 
-* Confusion : 2d6 Nearby targets immediately make a Reaction roll.
-* Dimension Door : Teleport a target to a Distant Location.
-* Polymorph Self/Other : Transform a creature to have the appearance of another.
-* Remove Curse : Removes a curse from a Nearby target.
-* Wall of Fire/Ice : Wall covers a Nearby area, WIS to attack Close targets (3d6) - 10mins.
-* Wall of Stone/Iron : A wall covers a Nearby area - 1hr.
+* **Confusion :** 2d6 Nearby targets immediately make a Reaction roll.
+* **Dimension Door :** Teleport a target to a Distant Location.
+* **Polymorph Self/Other :** Transform a creature to have the appearance of another.
+* **Remove Curse :** Removes a curse from a Nearby target.
+* **Wall of Fire/Ice :** Wall covers a Nearby area, **WIS** to attack Close targets (3d6) - 10mins.
+* **Wall of Stone/Iron :** A wall covers a Nearby area - 1hr.
 
 ### 5
 
-* Animate Dead : Create 2d4 Skeletons/Zombies with HD/level, from nearby bodies.
-* Cloudkill : Anyone with less than 5HD that touches it must test INT or be OofA – 1hr.
-* Conjure Elemental : Create an Elemental of chosen type with 3d4 HD.
-* Contact Higher Plane : Ask 1 question/level.
-* Feeblemind : Reduce a Nearby target's INT to 4 - 10mins/level.
-* Telekinesis : Move Nearby objects - 1hr.
-* Teleport : Transports a Nearby target to any place known to the caster.
+* **Animate Dead :** Create 2d4 Skeletons/Zombies with HD/level, from nearby bodies.
+* **Cloudkill :** Anyone with less than 5HD that touches it must test INT or be OofA – 1hr.
+* **Conjure Elemental :** Create an Elemental of chosen type with 3d4 HD.
+* **Contact Higher Plane :** Ask 1 question/level.
+* **Feeblemind :** Reduce a Nearby target's **INT** to 4 - 10mins/level.
+* **Telekinesis :** Move Nearby objects - 1hr.
+* **Teleport :** Transports a Nearby target to any place known to the caster.
 
 ### 6
 
-* Anti Magic Shell : Creates a Nearby Zone around the caster blocking all magic. * Death Spell : 2d8 Nearby targets with 7HD or fewer die.
-* Disintegrate : Makes one Nearby target or object turn into a fine powder.
-* Invisible Stalker : Summons an extra-dimensional monster to perform one task.
-* Stone to Flesh : Turns a Nearby target into stone (or vice versa).
+* **Anti Magic Shell :** Creates a Nearby Zone around the caster blocking all magic. * Death Spell :** 2d8 Nearby targets with 7HD or fewer die.
+* **Disintegrate :** Makes one Nearby target or object turn into a fine powder.
+* **Invisible Stalker :** Summons an extra-dimensional monster to perform one task.
+* **Stone to Flesh :** Turns a Nearby target into stone (or vice versa).
 
 ### 7
 
-* Limited Wish : Change reality in a limited way or time.
-* Power Word, Kill : A Nearby target with 50HP or fewer dies and cannot be resurrected.
-* Conjuration of Demons : Summons a Demon with 2HD/level.
-* Meteor Swarm : Effects the same as casting Fireball 4 times.
-* Time Stop : Stops time completely in a Nearby area - 1d4+1 Moments.
+* **Limited Wish :** Change reality in a limited way or time.
+* **Power Word, Kill :** A Nearby target with 50HP or fewer dies and cannot be resurrected.
+* **Conjuration of Demons :** Summons a Demon with 2HD/level.
+* **Meteor Swarm :** Effects the same as casting Fireball 4 times.
+* **Time Stop :** Stops time completely in a Nearby area - 1d4+1 Moments.
 
 ----
 
@@ -593,7 +603,8 @@ If a spell from a traditional OSR or original era game calls for a creature to m
 **Thief :** \*rolls\* despite rolling two dice I’ve got a 17 and 19. What are the odds?
 **DM :** Ouch. You're making so much noise being sneaky, a Ghoul hiding in the darkness close to you leaps and attacks!
 **Thief :** Bugger!
-**DM :** Initiative time! Everyone test their Dexterity, passing means you act before the Ghoul, failing means you go after. Thief you test with Disadvantage. **Warrior :** I go before.
+**DM :** Initiative time! Everyone test their Dexterity, passing means you act before the Ghoul, failing means you go after. Thief you test with Disadvantage.
+**Warrior :** I go before.
 **Conjurer :** I'm after.
 **DM :** Thief?
 **Thief :** How long was it to roll up a character again? I go after.
