@@ -42,6 +42,7 @@ if __name__ == '__main__':
             html = template.substitute(
                 body=body,
                 title=directory,
+                static='../static',
             )
             target_dir = join(build_path, directory)
             if not os.path.isdir(target_dir):
@@ -91,6 +92,7 @@ if __name__ == '__main__':
     html = template.substitute(
         body=body_html,
         title="Home",
+        static='static'
     )
     with open(join(build_path, 'index.html'), 'w') as fd:
         fd.write(html)
