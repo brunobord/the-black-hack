@@ -37,3 +37,14 @@ Congratulations, you have contributed to this project
 If you're geeky enough, you can try to use the command: ``make html`` to build HTML pages into the `build/` directory. It only requires that (a recent version of) [tox](http://tox.readthedocs.org/) is available on your system.
 
 Browse the `build/` directory with your web browser to see your translation along with the others.
+
+----
+
+## References
+
+* [David Black G+ Profile](https://plus.google.com/112905476698977529502),
+* [David Black blog](http://dngnsndrgns.blogspot.fr/),
+* [Square Hex](http://squarehex.myshopify.com/),
+* The (very successful) [Kickstarter campaign](https://www.kickstarter.com/projects/1730454032/the-black-hack),
+* [The Black Hack G+ Community](https://plus.google.com/communities/107832933727516137622),
+* [The Open Gaming License](http://www.opengamingfoundation.org/ogl.html).
