@@ -408,7 +408,7 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 
 ## Divine spells
 
-### 1
+**1**
 
 * **Cure Light Wounds :** Heal 1d8 HP to a Nearby target.
 * **Detect Evil :** Everything Nearby that is evil glows - 5mins.
@@ -416,7 +416,7 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 * **Protection from Evil :** Advantage on all harmful tests from an Evil source - 1hr.
 * **Purify Food and Drink :** Removes all diseases from all Nearby food and drink.
 
-### 2
+**2**
 
 * **Bless :** Nearby allies gain +1 to stats when making attacks and saves - 1hr.
 * **Find Traps :** Notice all nearby traps - 10mins.
@@ -424,7 +424,7 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 * **Silence :** Magical silence covering everything Nearby to a target - 1hr.
 * **Speak with Animals :** Can understand and talk with animals - 1hr.
 
-### 3
+**3**
 
 * **Daylight :** A nearby area is illuminated by sunlight - 1hr.
 * **Cure Disease :** Cures a Nearby target of all diseases.
@@ -433,14 +433,14 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 * **Remove Curse :** Removes a curse from a Nearby target.
 * **Speak with Dead :** Ask a Nearby corpse 3 questions.
 
-### 4
+**4**
 
 * **Create Food/Water :** Create enough food/water for all Nearby creatures for a day.
 * **Cure Serious Wounds :** Heal 3d8+3 HP to a Nearby target.
 * **Neutralise Poison :** Remove/Immunise poison from a Nearby target - 10mins.
 * **Protection from Evil :** Nearby allies gain 6 temp AP against evil creatures - 10mins.
 
-### 5
+**5**
 
 * **Commune :** The Cleric's deity truthfully answers 3 questions - 10mins.
 * **Dispel Evil :** Removes a Nearby Divine (Evil) spell.
@@ -449,7 +449,7 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 * **Quest :** Force a Nearby creature to obey an order.
 * **Raise Dead :** Return a Nearby willing target to life, who's died within the last 7 days.
 
-### 6
+**6**
 
 * **Animate Object :** Give a Nearby object motion and a simple intelligence - 10mins.
 * **Blade Barrier :** Wall covers a Nearby area, **WIS** to attack Close targets (3d8) - 10mins.
@@ -458,7 +458,7 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 * **Speak with Monsters :** Can understand and talk with monsters - 1hr.
 * **Word of Recall :** Give ability to teleport back to the location this spell was cast - 1year.
 
-### 7
+**7**
 
 * **Aerial Servant :** Summons a servant to recover a distant object.
 * **Astral Spell :** Projects an avatar of the caster onto a chosen plane - 1hr.
@@ -472,7 +472,7 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 
 ## Arcane spells
 
-### 1
+**1**
 
 * **Charm :** A Nearby target obeys commands. Test **WIS** each turn to see if the effect lasts.
 * **Detect Magic :** Everything Nearby that is magic glows - 5mins.
@@ -481,7 +481,7 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 * **Shield :** Gain 2 AP/ level.
 * **Sleep :** Puts 4d6 HD 'worth' of beings to sleep - 8hrs.
 
-### 2
+**2**
 
 * **Darkness :** Creates darkness covering a Nearby area that blocks all types of vision - 1hr.
 * **Invisibility :** A nearby creature is made invisible until it attacks or dispelled.
@@ -489,7 +489,7 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 * **Levitate :** The caster floats up to 6 feet from the ground - 10mins/level.
 * **Web :** Traps a Nearby area, stopping movement. Test **WIS**/hr
 
-### 3
+**3**
 
 * **Darkvision :** See in absolute darkness - 10min/level.
 * **Dispel Magic :** Removes a Nearby Arcane spell.
@@ -497,7 +497,7 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 * **Read Language/Magic :** Read all languages and magic - 10mins.
 * **Magic Mouth :** Creates an illusory mouth that repeats a phrase to all Nearby creatures.
 
-### 4
+**4**
 
 * **Confusion :** 2d6 Nearby targets immediately make a Reaction roll.
 * **Dimension Door :** Teleport a target to a Distant Location.
@@ -506,7 +506,7 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 * **Wall of Fire/Ice :** Wall covers a Nearby area, **WIS** to attack Close targets (3d6) - 10mins.
 * **Wall of Stone/Iron :** A wall covers a Nearby area - 1hr.
 
-### 5
+**5**
 
 * **Animate Dead :** Create 2d4 Skeletons/Zombies with HD/level, from nearby bodies.
 * **Cloudkill :** Anyone with less than 5HD that touches it must test INT or be OofA – 1hr.
@@ -516,14 +516,14 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 * **Telekinesis :** Move Nearby objects - 1hr.
 * **Teleport :** Transports a Nearby target to any place known to the caster.
 
-### 6
+**6**
 
 * **Anti Magic Shell :** Creates a Nearby Zone around the caster blocking all magic. * Death Spell :** 2d8 Nearby targets with 7HD or fewer die.
 * **Disintegrate :** Makes one Nearby target or object turn into a fine powder.
 * **Invisible Stalker :** Summons an extra-dimensional monster to perform one task.
 * **Stone to Flesh :** Turns a Nearby target into stone (or vice versa).
 
-### 7
+**7**
 
 * **Limited Wish :** Change reality in a limited way or time.
 * **Power Word, Kill :** A Nearby target with 50HP or fewer dies and cannot be resurrected.
