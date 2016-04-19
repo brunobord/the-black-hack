@@ -46,18 +46,30 @@ if __name__ == '__main__':
             with open(target_filepath, 'w') as fd:
                 fd.write(html)
 
-    body = []
-    body.append('<h1>The Black Hack available texts</h1>')
-    body.append('<ul>')
+    # Homepage
+    with open(join('index.md')) as fd:
+        template_string = fd.read()
+    homepage_md = Template(template_string)
+
+    # Build text list
+    text_list = []
+    text_list.append('')
     for language in languages:
-        body.append(
-            '<a href="{language}/">{language}</a>'.format(
+        text_list.append(
+            '* [{language}]({language}/)'.format(
                 language=language
             )
         )
-    body.append('</ul>')
+    text_list.append('')
+    # Build generated body using text_list
+    body_md = homepage_md.substitute(text_list='\n'.join(text_list))
+    body_html = markdown.markdown(
+        body_md,
+        extensions=[GithubFlavoredMarkdownExtension()]
+    )
+    # Build html page content
     html = template.substitute(
-        body='\n'.join(body),
+        body=body_html,
         title="Home",
     )
     with open(join(build_path, 'index.html'), 'w') as fd:
