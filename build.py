@@ -2,8 +2,11 @@ import shutil
 import os
 from string import Template
 from os.path import join
+
 import markdown
 from mdx_gfm import GithubFlavoredMarkdownExtension
+import yaml
+
 
 if __name__ == '__main__':
 
@@ -24,6 +27,7 @@ if __name__ == '__main__':
     shutil.copytree('static', static_path)
 
     languages = []
+    meta = {}
 
     for directory in dir_list:
         filepath = join(directory, 'the-black-hack.md')
@@ -45,6 +49,12 @@ if __name__ == '__main__':
             target_filepath = join(target_dir, 'index.html')
             with open(target_filepath, 'w') as fd:
                 fd.write(html)
+        # Search for meta
+        filepath = join(directory, 'meta.yaml')
+        if os.path.exists(filepath):
+            with open(filepath) as fd:
+                content = fd.read()
+            meta[directory] = yaml.load(content)
 
     # Homepage
     with open(join('index.md')) as fd:
@@ -55,11 +65,21 @@ if __name__ == '__main__':
     text_list = []
     text_list.append('')
     for language in languages:
-        text_list.append(
-            '* [{language}]({language}/)'.format(
-                language=language
-            )
+        label = language
+        author = None
+        if language in meta:
+            label = meta[language].get('label', label)
+            author = meta[language].get('author', None)
+        item = '* [{label}]({language}/)'.format(
+            label=label,
+            language=language
         )
+
+        # Add optional author
+        if author:
+            item = '{}, by {}'.format(item, author)
+        text_list.append(item)
+
     text_list.append('')
     # Build generated body using text_list
     body_md = homepage_md.substitute(text_list='\n'.join(text_list))
