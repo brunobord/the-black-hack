@@ -22,9 +22,10 @@ Let's say you want to translate "The Black Hack" into Klingon.
 
 1. fork this project on github,
 2. on your local copy, create a `klingon` directory,
-3. in this directory, create a `the-black-hack.md` file and start translating. This file should fit the [Github Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/) syntax,
-4. when you're done, submit a [pull-request](https://help.github.com/articles/creating-a-pull-request/),
-5. there may be a few discussion about your translation (mostly about the Markdown syntax). When the pull-request is "ok", it'll be merged into the main repository.
+3. in this directory, create a ``meta.yaml`` file. This file is plain text and should be exactly like the [english/meta.yaml](english/meta.yaml) file, See the "meta" for more details.
+4. in this directory, create a `the-black-hack.md` file and start translating. This file should fit the [Github Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/) syntax,
+5. when you're done, submit a [pull-request](https://help.github.com/articles/creating-a-pull-request/),
+6. there may be a few discussion about your translation (mostly about the Markdown syntax). When the pull-request is "ok", it'll be merged into the main repository.
 
 ##### If you don't know how Github is working
 
@@ -37,6 +38,21 @@ Congratulations, you have contributed to this project
 If you're geeky enough, you can try to use the command: ``make html`` to build HTML pages into the `build/` directory. It only requires that (a recent version of) [tox](http://tox.readthedocs.org/) is available on your system.
 
 Browse the `build/` directory with your web browser to see your translation along with the others.
+
+#### The Meta file
+
+The meta file is a [YAML](http://yaml.org/), but it shouldn't be a problem. Your "klingon" meta file should look like this:
+
+```yaml
+label: Klingon
+author: B'Elanna Torres
+```
+
+**Important**
+
+* The meta file is completely optional, but it'll help improve the look'n'feel of the homepage.
+* the words `label` and `author` are case sensitive, so they'll *have* to be written exactly like this.
+* the `author` information is optional, although I'd recommend to provide it, in order to receive feedback (including praises from the community).
 
 ----
 
