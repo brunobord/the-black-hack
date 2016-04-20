@@ -1,5 +1,9 @@
 # Changelog
 
+## master
+
+* Added badges on the README.
+
 ## 1.0rc1
 
 This is a pre-release.
