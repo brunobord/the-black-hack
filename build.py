@@ -1,3 +1,8 @@
+"""
+The Black Hack OGL content Python builder.
+
+This script is Public Domain.
+"""
 import shutil
 import os
 from string import Template
