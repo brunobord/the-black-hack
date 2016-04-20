@@ -621,4 +621,4 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 
 ----
 
-Cue to the OGL text.
+[This website OGL](../license.html)

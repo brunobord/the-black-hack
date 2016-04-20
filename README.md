@@ -6,6 +6,11 @@ It means that anyone can use this *open game content* and make derivative works 
 
 [![GitHub tag](https://img.shields.io/github/tag/brunobord/the-black-hack.svg?maxAge=2592000)]() [![Travis](https://img.shields.io/travis/brunobord/the-black-hack.svg?maxAge=2592000)]()
 
+The name "The Black Hack" is used here with kind permission of the author.
+
+See the [License](LICENSE) for more details.
+
+
 ## Contribute
 
 ### Fix
@@ -26,6 +31,7 @@ Let's say you want to translate "The Black Hack" into Klingon.
 2. on your local copy, create a `klingon` directory,
 3. in this directory, create a ``meta.yaml`` file. This file is plain text and should be exactly like the [english/meta.yaml](english/meta.yaml) file, See the "meta" for more details.
 4. in this directory, create a `the-black-hack.md` file and start translating. This file should fit the [Github Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/) syntax,
+5. Don't forget to add your name in the LICENSE file, in the last section ``"15 COPYRIGHT NOTICE"`` like this: *"Klingon translation Copyright 2016, B'Elanna Torres"*.
 5. when you're done, submit a [pull-request](https://help.github.com/articles/creating-a-pull-request/),
 6. there may be a few discussion about your translation (mostly about the Markdown syntax). When the pull-request is "ok", it'll be merged into the main repository.
 
