@@ -4,6 +4,8 @@ This project publishes the "raw text" of the Roleplaying game "The Black Hack", 
 
 It means that anyone can use this *open game content* and make derivative works without asking for permission, as long as this derivative fits the [Open Gaming License terms](http://www.opengamingfoundation.org/ogl.html).
 
+[![GitHub tag](https://img.shields.io/github/tag/brunobord/the-black-hack.svg?maxAge=2592000)]() [![Travis](https://img.shields.io/travis/brunobord/the-black-hack.svg?maxAge=2592000)]()
+
 ## Contribute
 
 ### Fix
