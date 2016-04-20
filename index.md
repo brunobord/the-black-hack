@@ -4,6 +4,12 @@ This project offers the *open game content* related to the Roleplaying Game "The
 
 Since the text and tables are *open game content*, it's reproduced here so anybody can pick this content, play with it, hack it, translate it, etc. without having to ask for permission. Any usage of this *open game content* not covered by the License is strictly prohibited.
 
+"The Black Hack" and all artwork, logos and layout are product identity and are not *open game content*.
+
+The name "The Black Hack" is used here with kind permission of the author.
+
+See the [License page](license.html) for more details.
+
 ## List of available texts
 
 $text_list

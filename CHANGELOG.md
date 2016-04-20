@@ -3,6 +3,7 @@
 ## master
 
 * Added badges on the README.
+* Added an updated version of the License, and linked it from the homepage.
 
 ## 1.0rc1
 

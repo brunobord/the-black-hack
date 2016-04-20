@@ -101,3 +101,19 @@ if __name__ == '__main__':
     )
     with open(join(build_path, 'index.html'), 'w') as fd:
         fd.write(html)
+
+    # Build License page
+    with open('LICENSE') as fd:
+        license_md = fd.read()
+    license_html = markdown.markdown(
+        license_md,
+        extensions=[GithubFlavoredMarkdownExtension()]
+    )
+    # Build html page content
+    html = template.substitute(
+        body=license_html,
+        title="Open Gaming License",
+        static='static'
+    )
+    with open(join(build_path, 'license.html'), 'w') as fd:
+        fd.write(html)
