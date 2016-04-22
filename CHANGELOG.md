@@ -3,6 +3,7 @@
 ## master (unreleased)
 
 * More mobile-friendly layout / font size handling (#19).
+* French translation of The Black Hack (#10).
 
 ## 1.0.1 (2016-05-03)
 
