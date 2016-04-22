@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.0
+## 1.0.0 (2016-04-22)
 
 This is the first version of the *open gaming content* "SRD" of "The Black Hack" roleplaying game. Please refer to the [README](README.md) for more information.
 
