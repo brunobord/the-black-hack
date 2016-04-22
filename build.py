@@ -11,9 +11,13 @@ from os.path import join
 import markdown
 from mdx_gfm import GithubFlavoredMarkdownExtension
 import yaml
+from shell import shell
 
 
 if __name__ == '__main__':
+
+    version = shell('git describe --tags --abbrev=0').output(raw=True).strip()
+    git_version = shell('git describe --tags').output(raw=True).strip()
 
     build_path = 'build'
     static_path = join(build_path, 'static')
@@ -48,6 +52,8 @@ if __name__ == '__main__':
                 body=body,
                 title=directory,
                 static='../static',
+                version=version,
+                git_version=git_version,
             )
             target_dir = join(build_path, directory)
             if not os.path.isdir(target_dir):
@@ -97,7 +103,9 @@ if __name__ == '__main__':
     html = template.substitute(
         body=body_html,
         title="Home",
-        static='static'
+        static='static',
+        version=version,
+        git_version=git_version,
     )
     with open(join(build_path, 'index.html'), 'w') as fd:
         fd.write(html)
@@ -113,7 +121,9 @@ if __name__ == '__main__':
     html = template.substitute(
         body=license_html,
         title="Open Gaming License",
-        static='static'
+        static='static',
+        version=version,
+        git_version=git_version,
     )
     with open(join(build_path, 'license.html'), 'w') as fd:
         fd.write(html)
