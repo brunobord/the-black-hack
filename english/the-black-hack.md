@@ -487,7 +487,7 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 * **Invisibility :** A nearby creature is made invisible until it attacks or dispelled.
 * **Knock :** A Nearby door or lock is opened.
 * **Levitate :** The caster floats up to 6 feet from the ground - 10mins/level.
-* **Web :** Traps a Nearby area, stopping movement. Test **WIS**/hr
+* **Web :** Traps a Nearby area, stopping movement. Test **WIS**/hr to see if the effect lasts.
 
 **3**
 
