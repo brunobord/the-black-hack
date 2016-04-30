@@ -5,6 +5,7 @@
 * added the automatic version number on the built HTML page footer (#9).
 * small typo fixes in english text.
 * Builder refactor (#13).
+* Moved link to OGL text out of the "raw" text (#14).
 
 ## 1.0.0 (2016-04-22)
 

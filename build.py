@@ -68,12 +68,13 @@ class Builder(object):
         if not os.path.isdir(path):
             os.makedirs(path)
 
-    def write_html(self, target_filepath, body, title, static='static'):
+    def write_html(self, target_filepath, body, title, prefix=''):
         "Write HTML page (body & title) in the target_filepath"
         html = self.main_template.substitute(
             body=body,
             title=title,
-            static=static,
+            static=prefix + 'static',
+            license=prefix + 'license.html',
             version=self.version,
             git_version=self.git_version,
         )
@@ -93,7 +94,7 @@ class Builder(object):
                 target_filepath,
                 body,
                 directory,
-                "../static",
+                "../",
             )
 
     def update_meta(self, directory):

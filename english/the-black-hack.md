@@ -618,7 +618,3 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 **DM :** Yes. Conjurer, you see the Thief fall rigid to the floor, what do you do?
 **Conjurer :** I'll start backing away slowly.
 **Thief :** I'll get you in the next life you git!
-
-----
-
-[This website OGL](../license.html)
