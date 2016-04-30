@@ -2,8 +2,9 @@
 
 ## master (unreleased)
 
-* added the automatic version number on the built HTML page footer (#9)
+* added the automatic version number on the built HTML page footer (#9).
 * small typo fixes in english text.
+* Builder refactor (#13).
 
 ## 1.0.0 (2016-04-22)
 
