@@ -6,13 +6,16 @@ This script is Public Domain.
 import shutil
 import os
 from string import Template
-from os.path import join, abspath
+from os.path import join, abspath, basename
 
 from cached_property import cached_property
 import markdown
 from mdx_gfm import GithubFlavoredMarkdownExtension
 from shell import shell
 import yaml
+
+
+SOURCE_FILE_TEXT = '<p><a href="{source_file}">Link to {source_file_basename}</a></p>'  # noqa
 
 
 class Builder(object):
@@ -68,8 +71,15 @@ class Builder(object):
         if not os.path.isdir(path):
             os.makedirs(path)
 
-    def write_html(self, target_filepath, body, title, prefix=''):
+    def write_html(self, target_filepath, body, title,
+                   prefix='', source_file=''):
         "Write HTML page (body & title) in the target_filepath"
+        if source_file:
+            source_file_basename = basename(source_file)
+            source_file = SOURCE_FILE_TEXT.format(
+                source_file=source_file,
+                source_file_basename=source_file_basename
+            )
         html = self.main_template.substitute(
             body=body,
             title=title,
@@ -77,11 +87,13 @@ class Builder(object):
             license=prefix + 'license.html',
             version=self.version,
             git_version=self.git_version,
+            source_file=source_file,
         )
         with open(target_filepath, 'w') as fd:
             fd.write(html)
 
     def get_page_title(self, directory):
+        "Extract page title form meta information"
         if directory in self.meta:
             meta = self.meta[directory]
             if 'label' in meta:
@@ -102,7 +114,10 @@ class Builder(object):
                 body=body,
                 title=title,
                 prefix="../",
+                source_file='the-black-hack.md',
             )
+            # Copy source to the target_dir
+            shutil.copyfile(filepath, join(target_dir, 'the-black-hack.md'))
 
     def update_meta(self, directory):
         "Update meta information dictionary"
@@ -132,6 +147,13 @@ class Builder(object):
             # Add optional author
             if author:
                 item = '{}, by {}'.format(item, author)
+
+            # Add link to source
+            item = '{item} ([source]({language}/the-black-hack.md))'.format(
+                item=item,
+                language=language,
+            )
+
             text_list.append(item)
 
         text_list.append('')
