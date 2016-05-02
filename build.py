@@ -81,20 +81,27 @@ class Builder(object):
         with open(target_filepath, 'w') as fd:
             fd.write(html)
 
+    def get_page_title(self, directory):
+        if directory in self.meta:
+            meta = self.meta[directory]
+            if 'label' in meta:
+                return meta.get('label', None)
+
     def build_dir(self, directory):
         "Build the directory"
         filepath = join(directory, 'the-black-hack.md')
         if os.path.exists(filepath):
             self.languages.append(directory)
+            title = self.get_page_title(directory) or directory
             body = self.convert_md(filepath)
             target_dir = join(self.build_path, directory)
             self.mkdir(target_dir)
             target_filepath = join(target_dir, 'index.html')
             self.write_html(
                 target_filepath,
-                body,
-                directory,
-                "../",
+                body=body,
+                title=title,
+                prefix="../",
             )
 
     def update_meta(self, directory):
@@ -140,8 +147,8 @@ class Builder(object):
         # Build html page content
         self.write_html(
             join(self.build_path, 'index.html'),
-            body_html,
-            "Home"
+            body=body_html,
+            title="Home",
         )
 
     def build_license(self):
@@ -149,8 +156,8 @@ class Builder(object):
         license_html = self.convert_md('LICENSE')
         self.write_html(
             join(self.build_path, 'license.html'),
-            license_html,
-            "Open Gaming License",
+            body=license_html,
+            title="Open Gaming License",
         )
 
     def build(self):
@@ -163,8 +170,8 @@ class Builder(object):
         self.main_template = self.get_template(join('templates', 'base.html'))
 
         for directory in self.dir_list:
-            self.build_dir(directory)
             self.update_meta(directory)
+            self.build_dir(directory)
         self.build_homepage()
         self.build_license()
 
