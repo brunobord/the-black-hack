@@ -518,7 +518,8 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 
 **6**
 
-* **Anti Magic Shell :** Creates a Nearby Zone around the caster blocking all magic. * Death Spell :** 2d8 Nearby targets with 7HD or fewer die.
+* **Anti Magic Shell :** Creates a Nearby Zone around the caster blocking all magic.
+* **Death Spell :** 2d8 Nearby targets with 7HD or fewer die.
 * **Disintegrate :** Makes one Nearby target or object turn into a fine powder.
 * **Invisible Stalker :** Summons an extra-dimensional monster to perform one task.
 * **Stone to Flesh :** Turns a Nearby target into stone (or vice versa).
