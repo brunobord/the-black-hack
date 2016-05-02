@@ -147,6 +147,13 @@ class Builder(object):
             # Add optional author
             if author:
                 item = '{}, by {}'.format(item, author)
+
+            # Add link to source
+            item = '{item} ([source]({language}/the-black-hack.md))'.format(
+                item=item,
+                language=language,
+            )
+
             text_list.append(item)
 
         text_list.append('')
