@@ -8,6 +8,7 @@
 * Moved link to OGL text out of the "raw" text (#14).
 * Page title extracted from the ``meta.yaml`` file (#15).
 * Added link to source for the SRD pages and on the homepage (#11).
+* Fix display bug with table headers that contain numbers (#16).
 
 ## 1.0.0 (2016-04-22)
 
