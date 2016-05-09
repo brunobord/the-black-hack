@@ -1,5 +1,9 @@
 # Changelog
 
+## master (unreleased)
+
+* More mobile-friendly layout / font size handling (#19).
+
 ## 1.0.1 (2016-05-03)
 
 * added the automatic version number on the built HTML page footer (#9).
