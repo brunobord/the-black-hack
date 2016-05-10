@@ -2,6 +2,7 @@
     <head>
         <title>The Black Hack -- $title</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name=viewport content="width=device-width, initial-scale=1">
     </head>
 <style>
 @font-face {
@@ -15,11 +16,25 @@
     font-style: normal;
 }
 
+/**
+ * Layout
+ */
+html {
+  overflow-y: scroll;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+body {
+  padding: 1em;
+  margin: auto;
+  max-width: 42em;
+}
+/**
+ * Styles
+ */
 body {
     font-family: Alegreya, serif;
-    width: 980px;
-    margin-right: auto;
-    margin-left: auto;
     color: #252525;
 }
 h1, h2, h3, h4, h5, h6, th {
