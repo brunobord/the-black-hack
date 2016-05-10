@@ -40,8 +40,7 @@ Every new character starts with 3d6 x 10 coins with which to buy their equipment
 
 ## Armor points
 
-Armor provides protection by reducing all incoming damage. Each type will reduce damage by a limited amount. **Armor Points** are regained after a character rests. Once the player or monster has used armor to absorb its maximum amount, they are too tired or wounded to make effective use of
-it again - they then begin taking full damage.
+Armor provides protection by reducing all incoming damage. Each type will reduce damage by a limited amount. **Armor Points** are regained after a character rests. Once the player or monster has used armor to absorb its maximum amount, they are too tired or wounded to make effective use of it again - they then begin taking full damage.
 
 |     Type     | Points |
 |:------------:|:------:|
