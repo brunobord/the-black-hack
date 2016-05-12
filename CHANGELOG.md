@@ -4,6 +4,7 @@
 
 * More mobile-friendly layout / font size handling (#19).
 * French translation of The Black Hack (#10).
+* Added a `make clean` target to clean the `build/` directory (#22).
 
 ## 1.0.1 (2016-05-03)
 
