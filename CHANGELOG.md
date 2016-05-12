@@ -5,6 +5,7 @@
 * More mobile-friendly layout / font size handling (#19).
 * French translation of The Black Hack (#10).
 * Added a `make clean` target to clean the `build/` directory (#22).
+* Added a `.htaccess` file to serve `.md` files with the utf-8 encoding (#23).
 
 ## 1.0.1 (2016-05-03)
 

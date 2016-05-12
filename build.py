@@ -16,6 +16,10 @@ import yaml
 
 
 SOURCE_FILE_TEXT = '<p><a href="{source_file}">Link to {source_file_basename}</a></p>'  # noqa
+HTACCESS = """
+# Serving .md files as UTF-8.
+AddType 'text/plain; charset=UTF-8' md
+""".strip()
 
 
 class Builder(object):
@@ -188,6 +192,9 @@ class Builder(object):
         if os.path.isdir(self.static_path):
             shutil.rmtree(self.static_path)
         shutil.copytree('static', self.static_path)
+        # Write an .htaccess file
+        with open(join(self.build_path, '.htaccess'), 'w') as fd:
+            fd.write(HTACCESS)
 
         self.main_template = self.get_template(join('templates', 'base.html'))
 
