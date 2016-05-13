@@ -369,7 +369,7 @@ Une fois qu'un sort est lancé le Clerc / Conjureur doit faire un test de **SAG 
 
 Après un ***repos d'environ 8 heures***, tous les quotas d'un personnage sont de nouveau à leur maximum.
 
-Si un sort en provenance d'un jeu OSR traditionnel ou de l'ère héroïque exige que la créature fasse un jet de sauvegarde, le personnage devra alors faire un test sous son **INT** ou **SAG** - pour voir si la projection de la magie a été suffisamment puissante pour vaincre la résistance de l'ennemi (n'oubliez pas la règle sur les **Oppositions puissantes**).
+Si un sort en provenance d'un jeu OSR traditionnel ou de l'ère héroïque exige que la créature fasse un jet de sauvegarde, le personnage devra alors faire un test sous son **INT** ou **SAG** - pour voir si la projection de la magie a été suffisamment puissante pour vaincre la résistance de l'ennemi (n'oubliez pas la règle sur les **Oppositions puissantes**).
 
 ## Sorts quotidiens du Clerc
 
