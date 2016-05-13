@@ -140,9 +140,11 @@ class Builder(object):
         for language in self.languages:
             label = language
             author = None
+            version = None
             if language in self.meta:
                 label = self.meta[language].get('label', label)
                 author = self.meta[language].get('author', None)
+                version = self.meta[language].get('version', None)
             item = '* [{label}]({language}/)'.format(
                 label=label,
                 language=language
@@ -151,6 +153,10 @@ class Builder(object):
             # Add optional author
             if author:
                 item = '{}, by {}'.format(item, author)
+
+            # Add optional version
+            if version:
+                item = '{} (v{})'.format(item, version)
 
             # Add link to source
             item = '{item} ([source]({language}/the-black-hack.md))'.format(
