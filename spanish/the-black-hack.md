@@ -18,6 +18,8 @@ Texto en castellano v0.3
 
 Traducido por Rafael Pardo Macías
 
+----
+
 ## ¿Qué es esto?
 
 *The Black Hack (TBH)* es un juego de rol de mesa tradicional, jugado con papel, lápices y dados – que emplea el *Original 1970s Fantasy Roleplaying Game* como base. Aunque ese es su origen, se le añaden y eliminan diversos elementos para obtener una versión más moderna conservando el sabor del juego original.
@@ -519,8 +521,6 @@ Nota: las columnas son niveles de conjuros y las líneas niveles de personaje.
 * **Enjambre de Meteoros:** Es el mismo efecto que conjurar una Bola de Fuego 4 veces.
 * **Detener el tiempo:** El tiempo se detiene completamente en un área Cercana – 1d4+1 Momentos.
 
-----
-
 | Criaturas                  |   DG   | Acciones y Habilidades especiales |                                                                                                                                 |
 |:---------------------------|:------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Berserker Humano           |   1    | Desventaja en tiradas de defensa cuando ataca el Berserker.                                                                                                         |
@@ -562,8 +562,6 @@ Nota: las columnas son niveles de conjuros y las líneas niveles de personaje.
 | Babosa gigante             |   12   | Escupe ácido – d4+2 objetivos Cercanos (1d12) prueba de DES para 1/2 daño.                                                                                          |
 | Golem de piedra            |   12   | Sólo los conjuros que afecten a roca o piedra funcionan, las armas deben ser +2 o mejores para dañarlo.                                                             |
 | Dragon                     | 9 a 11 | 2 Garras (1d8) + Mordisco (1d10), aliento de fuego – d4+2 objetivos Cercanos (3d8) Puede lanzar 1d4 conjuros de nivel 1 + 1d2 conjuros de nivel 2.                  |
-
-----
 
 ## Ejemplo de juego
 

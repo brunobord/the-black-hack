@@ -60,8 +60,6 @@ Les monstres ont 1 point d'armure pour chaque **DV** au-dessus de 1. Retirez sim
 
 Si un personnage porte une armure qui est absente de sa liste de classe, il doit ajouter le total de **Points d'armure** (qu'ils aient été consommés ou non) à tous ses jets **d'Attaque** ou d'**Évitement de dégâts**.
 
-----
-
 | Article                        |  Coût  | Dé d'usure |             Notes              |
 |:-------------------------------|:------:|:----------:|:------------------------------:|
 | Jaque / Gambison               |   50   |     -      |       2 points d'armure        |
@@ -91,8 +89,6 @@ Si un personnage porte une armure qui est absente de sa liste de classe, il doit
 | Perche de 3m                   |   1    |     -      |               -                |
 | Carquois de flèches / carreaux |   10   |    d10     |               -                |
 | Arme à deux mains              |   50   |     -      |               -                |
-
-----
 
 ## Conversion des jets de sauvegarde
 
@@ -131,8 +127,6 @@ Quand un combat démarre, on doit connaître l'ordre dans lequel tout le monde p
 ## DV des monstres
 
 Les **DV** représentent le niveau d'un monstre et le nombre de d8 qu'il faut lancer pour déterminer ses PV.
-
-----
 
 ## Attaque, défense et dégâts
 
@@ -175,8 +169,6 @@ Quand un personnage voit ses **Points de vie (PV)** réduits à zéro, il est co
 
 Pour chaque **DV** au-dessus du niveau du personnage, ajoutez +1 à tous les jets de dé du joueur dans ses tests de caractéristiques pour déterminer le résultat du conflit entre lui et un PNJ. *- Un personnage de niveau 3 qui se bat contre un monstre de DV 5 devra ajouter +2 à tous ses jets*.
 
-----
-
 ## Soins
 
 Les personnages peuvent regagner leurs points de vie à l'aide de sorts, de potions, ou de capacités. Ils ne peuvent pas avoir plus que leur maximum - et ils ne peuvent pas aller en-dessous de zéro non plus. Quand on soigne un personnage **HdC**, partez simplement de zéro et incrémentez. Ce personnage est désormais sur pieds et n'est plus **HdC**.
@@ -217,8 +209,6 @@ Un personnage peut transporter un nombre d'objets égal à sa **FOR** sans probl
 ## Armes de classe
 
 Lorsqu'il utilise une arme non autorisée par sa classe, tous les tests de combat d'un personnage subissent un **Désavantage**.
-
-----
 
 ## Rencontres aléatoires
 
@@ -406,7 +396,6 @@ Note: les colonnes représentent les *niveaux des sorts*, et les lignes représe
 | 9  | 4   | 3   | 3   | 2   | 2   | 1   | -   |
 | 10 | 4   | 3   | 3   | 2   | 2   | 2   | 1   |
 
-----
 
 ## Sorts divins
 
@@ -470,8 +459,6 @@ Note: les colonnes représentent les *niveaux des sorts*, et les lignes représe
 * **Nuée :** Se change en brouillard et revient à sa forme naturelle à volonté - 1 jour.
 * **Restauration :** Récupère tous les niveaux perdus à cause des monstres qui absorbent les niveaux.
 
-----
-
 ## Sorts d'arcane
 
 **1**
@@ -534,8 +521,6 @@ Note: les colonnes représentent les *niveaux des sorts*, et les lignes représe
 * **Nuée de météores :** Effets identiques à 4 lancers de boules de feu en simultané.
 * **Arrêt du temps :** Arrête totalement le temps dans une zone Proche - 1d4+1 Moments.
 
-----
-
 | Créature                     |   DV   | Actions et notes                                                                                                                                                                |
 |:-----------------------------|:------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Scarabée de feu              |   1    | Ses glandes lumineuses ont d8 de dé d'usure.                                                                                                                                    |
@@ -577,8 +562,6 @@ Note: les colonnes représentent les *niveaux des sorts*, et les lignes représe
 | Golem de pierre              |   12   | Seules les sorts qui affectent la pierre fonctionnent, les armes doivent être au moins à +2 pour l'endommager.                                                                  |
 | Limace géante                |   12   | Crache de l'acide - d4+2 cibles Proches (1d12) test de DEX pour ne recevoir que la moitié des dégâts.                                                                           |
 | Dragon                       | 9 à 11 | 2 griffes (1d8) + morsure (1d10), Crache du feu - d4+2 cibles Proches (3d8) Peut lancer 1d4 sorts du niveau 1 + 1d2 sorts de niveau 2.                                          |
-
-----
 
 ## Example de jeu
 

@@ -57,7 +57,6 @@ Monsters have 1 point of armor for every **HD** above 1, to figure this out quic
 
 If a character wears armor that is not listed in their class, they add their total **Armor points** (despite how many they have used) to any rolls to **Attack** or **Avoid Damage**.
 
-----
 
 | ITEM                     |  COST  | USAGE DIE |           NOTES            |
 |:-------------------------|:------:|:---------:|:--------------------------:|
@@ -89,7 +88,6 @@ If a character wears armor that is not listed in their class, they add their tot
 | Quiver of Arrows / Bolts |   10   |    d10    |             -              |
 | 2-Handed Weapon          |   50   |     -     |             -              |
 
-----
 
 ## Converting saves
 
@@ -129,7 +127,6 @@ When combat breaks out, everyone must be sorted into an order so they each get t
 
 **HD** represents a monster's level and the number of d8 rolled to determine its HP.
 
-----
 
 ## Attacking, defending & damage
 
@@ -172,8 +169,6 @@ When a character is reduced to zero **Hit Points (HP)** they are taken **Out of 
 
 For every **HD** above the character’s level, add +1 to every roll the player makes for any attribute test that would determine the outcome of a conflict between them and an NPC. *- A level 3 character defending against a HD 5 monsters attack would add +2 to their roll*.
 
-----
-
 ## Healing
 
 Characters can gain Hit Points from Spells, Potions, and Abilities. They can never gain more than their maximum - and can never go below zero either. When healing a character who is **OofA**, just start at zero and count up. That character is now back on their feet and no longer **OofA**.
@@ -214,8 +209,6 @@ A character can carry a number of items equal to their **STR** with no issues. C
 ## Class weapons
 
 When using a weapon not listed in their class, combat tests have Disadvantage.
-
-----
 
 ## Random encounters
 
@@ -403,8 +396,6 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 | 9  | 4   | 3   | 3   | 2   | 2   | 1   | -   |
 | 10 | 4   | 3   | 3   | 2   | 2   | 2   | 1   |
 
-----
-
 ## Divine spells
 
 **1**
@@ -466,8 +457,6 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 * **Holy Word :** Nearby creatures with less than 5HD die, 6-10HD paralysed for 1d4 turns.
 * **Wind Walk :** Turn into mist and back, at will - 1day.
 * **Restoration :** Returns all levels lost to monsters with level drain.
-
-----
 
 ## Arcane spells
 
@@ -531,8 +520,6 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 * **Meteor Swarm :** Effects the same as casting Fireball 4 times.
 * **Time Stop :** Stops time completely in a Nearby area - 1d4+1 Moments.
 
-----
-
 | Creature          |   HD    | Actions and Specials                                                                                                                           |
 |:------------------|:-------:|:-----------------------------------------------------------------------------------------------------------------------------------------------|
 | Fire Beetle       |    1    | Light glands have a usage die of d8.                                                                                                           |
@@ -574,8 +561,6 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 | Stone Golem       |   12    | Only spells that affect rock or stone work, weapons must be +2 or better to damage it.                                                         |
 | Giant Slug        |   12    | Spit Acid - d4+2 nearby targets (1d12) test DEX for 1/2 damage.                                                                                |
 | Dragon            | 9 to 11 | 2 Claws (1d8) + Bite (1d10), Breathes fire - d4+2 nearby targets (3d8) Can cast 1d4 1st level spells + 1d2 2nd level spells.                   |
-
-----
 
 ## Example of play
 
