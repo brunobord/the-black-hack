@@ -54,13 +54,15 @@ The meta file is a [YAML](http://yaml.org/), but it shouldn't be a problem. Your
 ```yaml
 label: Klingon
 author: B'Elanna Torres
+version: '1.1.2'
 ```
 
 **Important**
 
+* All the field **names** are case-sensitive, so be careful if you're writing this file yourself.
 * The meta file is completely optional, but it'll help improve the look'n'feel of the homepage.
-* the words `label` and `author` are case sensitive, so they'll *have* to be written exactly like this.
-* the `author` information is optional, although I'd recommend to provide it, in order to receive feedback (including praises from the community).
+* None of the fields are required you can only specify one, two or all of them ; your choice.
+* even though the `author` information is optional, although I'd recommend to provide it, in order to receive feedback (including praises from the community).
 
 ----
 
