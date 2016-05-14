@@ -10,6 +10,7 @@ from os.path import join, abspath, basename
 
 from cached_property import cached_property
 import markdown
+from markdown.extensions.toc import TocExtension
 from mdx_gfm import GithubFlavoredMarkdownExtension
 from shell import shell
 import yaml
@@ -60,7 +61,10 @@ class Builder(object):
         "Convert Markdown content into HTML"
         html = markdown.markdown(
             source,
-            extensions=[GithubFlavoredMarkdownExtension()]
+            extensions=[
+                GithubFlavoredMarkdownExtension(),
+                TocExtension(permalink=True)
+            ]
         )
         return html
 

@@ -8,6 +8,7 @@
 * Added a `make clean` target to clean the `build/` directory (#22).
 * Added a `.htaccess` file to serve `.md` files with the utf-8 encoding (#23).
 * Indicate the translation version if mentioned in the `meta.yaml` file (#20).
+* Added an anchor in the headers from h1 to h6 (#26).
 
 ## 1.0.1 (2016-05-03)
 
