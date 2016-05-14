@@ -1,6 +1,6 @@
 # Changelog
 
-## master (unreleased)
+## 1.1.0 (2016-05-14)
 
 * French translation of The Black Hack (#10).
 * Spanish translation of The Black Hack (#18).
