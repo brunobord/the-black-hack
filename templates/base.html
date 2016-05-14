@@ -52,6 +52,19 @@ a.headerlink {
 a.headerlink:hover {
     color: #888;
 }
+/* Converting saves trick to have tables aligned */
+/* english */
+    #converting-saves + p + table,
+    #converting-saves + p + table + table,
+/* french */
+    #conversion-des-jets-de-sauvegarde + p + table,
+    #conversion-des-jets-de-sauvegarde + p + table + table,
+/* spanish */
+    #convirtiendo-tiradas-de-salvacion + p + table,
+    #convirtiendo-tiradas-de-salvacion + p + table + table
+{
+    display: table;
+}
 /**
  * Tables
  */
