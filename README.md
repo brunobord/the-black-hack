@@ -64,6 +64,33 @@ version: '1.1.2'
 * None of the fields are required you can only specify one, two or all of them ; your choice.
 * even though the `author` information is optional, although I'd recommend to provide it, in order to receive feedback (including praises from the community).
 
+### Specific styles
+
+**Note:** If you think that the following is too complicated for you, don't worry, I'll take care of this.
+
+In order to get the "Converting saves" tables aligned and pretty, we're using the following CSS style:
+
+```css
+#converting-saves + p + table, #converting-saves + p + table + table {
+    display: table;
+}
+```
+
+It might look a bit complicated, but it goes like this: it's using the *anchor name* of the "Converting saves" header, skips the next paragraph, and changes the `display` CSS attribute for the next two tables.
+
+Whenever you're adding a new language directory, or if you're modifiying your translation of "Converting saves", the anchor name also changes, if you want the styles to fit.
+
+Let's say I'm adding French. The translation reads "Conversion des jets de sauvegarde". The anchor name will be: `conversion-des-jets-de-sauvegarde`. To check it, just build the HTML files and go to this specific section. The anchor link would appear when you roll your mouse over the "¶" sign next to the title.
+
+In order to have the next two tables correctly aligned, here's my new CSS instructions:
+
+```css
+#converting-saves + p + table, #converting-saves + p + table + table,
+#conversion-des-jets-de-sauvegarde + p + table, #conversion-des-jets-de-sauvegarde + p + table + table {
+    display: table;
+}
+```
+
 ----
 
 ## References
