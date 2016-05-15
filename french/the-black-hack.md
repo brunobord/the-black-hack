@@ -563,7 +563,7 @@ Note: les colonnes représentent les *niveaux des sorts*, et les lignes représe
 | Limace géante                |   12   | Crache de l'acide - d4+2 cibles Proches (1d12) test de DEX pour ne recevoir que la moitié des dégâts.                                                                           |
 | Dragon                       | 9 à 11 | 2 griffes (1d8) + morsure (1d10), Crache du feu - d4+2 cibles Proches (3d8) Peut lancer 1d4 sorts du niveau 1 + 1d2 sorts de niveau 2.                                          |
 
-## Example de jeu
+## Exemple de jeu
 
 **MJ :** Vous voilà dans les égouts, dans la fange jusqu'aux genoux, il fait sombre et au Nord il y a portail en fer forgé, que voulez-vous faire ?
 **Voleur :** Est-ce que le portail est Proche ?

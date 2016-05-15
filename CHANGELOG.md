@@ -1,5 +1,9 @@
 # Changelog
 
+## master (unreleased)
+
+* typo fix in the french text ("exemple" instead of "example").
+
 ## 1.1.0 (2016-05-14)
 
 * French translation of The Black Hack (#10).
