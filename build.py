@@ -21,6 +21,7 @@ HTACCESS = """
 # Serving .md files as UTF-8.
 AddType 'text/plain; charset=UTF-8' md
 """.strip()
+DEFAULT_PAGE = {}
 
 
 class Builder(object):
@@ -107,25 +108,49 @@ class Builder(object):
             if 'label' in meta:
                 return meta.get('label', None)
 
+    def page_update(self, language, page):
+        """
+        Update the page dict, to be shared by the individual pages & homepage.
+        """
+        page['language'] = language
+        if 'filename' not in page:
+            page['filename'] = 'the-black-hack.md'
+
+        basefile, _ = os.path.splitext(page['filename'])
+        if page['filename'] == 'the-black-hack.md':
+            page['target_filename'] = 'index'
+        else:
+            page['target_filename'] = basefile
+        page['raw_filename'] = basefile
+
+    def page_build(self, directory, page):
+        "Build individual page."
+        title = self.get_page_title(directory) or directory
+        source_filepath = join(directory, page['filename'])
+        body = self.convert_md(source_filepath)
+        target_dir = join(self.build_path, directory)
+        target_filename = page['target_filename']
+        self.mkdir(target_dir)
+        target_filepath = join(target_dir, '{}.html'.format(target_filename))
+        self.write_html(
+            target_filepath,
+            body=body,
+            title=title,
+            prefix="../",
+            source_file=page['filename'],
+        )
+        # Copy source to the target_dir
+        shutil.copyfile(source_filepath, join(target_dir, page['filename']))
+
     def build_dir(self, directory):
         "Build the directory"
-        filepath = join(directory, 'the-black-hack.md')
-        if os.path.exists(filepath):
+        mandatory_file = join(directory, 'the-black-hack.md')
+        if os.path.exists(mandatory_file):
             self.languages.append(directory)
-            title = self.get_page_title(directory) or directory
-            body = self.convert_md(filepath)
-            target_dir = join(self.build_path, directory)
-            self.mkdir(target_dir)
-            target_filepath = join(target_dir, 'index.html')
-            self.write_html(
-                target_filepath,
-                body=body,
-                title=title,
-                prefix="../",
-                source_file='the-black-hack.md',
-            )
-            # Copy source to the target_dir
-            shutil.copyfile(filepath, join(target_dir, 'the-black-hack.md'))
+            meta_language = self.meta.get(directory, {})
+            for page in meta_language.get('pages', [DEFAULT_PAGE]):
+                self.page_update(directory, page)
+                self.page_build(directory, page)
 
     def update_meta(self, directory):
         "Update meta information dictionary"
@@ -136,6 +161,37 @@ class Builder(object):
                 content = fd.read()
             self.meta[directory] = yaml.load(content)
 
+    def get_item_homepage(self, language, page):
+        label = page.get('label', page['raw_filename'])
+        if page['target_filename'] != 'index':
+            target = '{}.html'.format(page['target_filename'])
+        else:
+            target = ''
+        item = '* [{label}]({language}/{target})'.format(
+            label=label,
+            language=language,
+            target=target,
+        )
+
+        # Add optional author
+        author = page.get('author', None)
+        if author:
+            item = '{}, by {}'.format(item, author)
+
+        # Add optional version
+        version = page.get('version', None)
+        if version:
+            item = '{} (v{})'.format(item, version)
+
+        # Add link to source
+        item = '{item} ([source]({language}/{filename}))'.format(
+            item=item,
+            language=language,
+            filename=page['filename'],
+        )
+
+        return item
+
     def build_homepage_text_list(self):
         "Build the full text list for the homepage"
         # Build text list
@@ -143,32 +199,12 @@ class Builder(object):
         text_list.append('')
         for language in self.languages:
             label = language
-            author = None
-            version = None
-            if language in self.meta:
-                label = self.meta[language].get('label', label)
-                author = self.meta[language].get('author', None)
-                version = self.meta[language].get('version', None)
-            item = '* [{label}]({language}/)'.format(
-                label=label,
-                language=language
-            )
-
-            # Add optional author
-            if author:
-                item = '{}, by {}'.format(item, author)
-
-            # Add optional version
-            if version:
-                item = '{} (v{})'.format(item, version)
-
-            # Add link to source
-            item = '{item} ([source]({language}/the-black-hack.md))'.format(
-                item=item,
-                language=language,
-            )
-
-            text_list.append(item)
+            meta_language = self.meta.get(language, {})
+            label = meta_language.get('label', label)
+            text_list.append('### {}'.format(label))
+            for page in meta_language.get('pages', [DEFAULT_PAGE]):
+                item = self.get_item_homepage(language, page)
+                text_list.append(item)
 
         text_list.append('')
         return text_list

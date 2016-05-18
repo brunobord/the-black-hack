@@ -1,3 +1,6 @@
 label: English
-author: David Black
-version: '1.2'
+pages:
+    -
+        label: The Black Hack
+        author: David Black
+        version: '1.2'
