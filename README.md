@@ -53,16 +53,28 @@ The meta file is a [YAML](http://yaml.org/), but it shouldn't be a problem. Your
 
 ```yaml
 label: Klingon
-author: B'Elanna Torres
-version: '1.1.2'
+pages:
+    -
+        label: The Black Hack in Klingon
+        author: B'Elanna Torres
+        version: '1.1.2'
+    -
+        label: Additional Things
+        author: B'Ellana Torres
+        filename: additional-things.md
+
 ```
 
 **Important**
 
+* The meta file is completely optional, but it'll help improve the look'n'feel of the homepage & build the extra content. If you don't have this `meta.yaml` file, the site builder will create the main page (The Black Hack rules) but it won't build the other contents. If you have difficulties creating this YAML file, don't worry, I'll take care of it.
 * All the field **names** are case-sensitive, so be careful if you're writing this file yourself.
-* The meta file is completely optional, but it'll help improve the look'n'feel of the homepage.
-* None of the fields are required you can only specify one, two or all of them ; your choice.
 * even though the `author` information is optional, although I'd recommend to provide it, in order to receive feedback (including praises from the community).
+
+*Required fields:*
+
+* *label*: This will be displayed on the homepage, it's the language label (that is to say "Français" for "French"),
+* the *filename* field is optional if your language only has the main translation (The Black Hack ruleset) ; if you want to build extra pages (for example *Additional Things*, you **must** provide the filename).
 
 ### Specific styles
 

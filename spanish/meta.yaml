@@ -1,3 +1,6 @@
 label: Castellano
-author: Rafael Pardo Macías
-version: '0.3'
+pages:
+    -
+        label: Le Black Hack
+        author: Rafael Pardo Macías
+        version: '0.3'
