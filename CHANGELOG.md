@@ -5,6 +5,7 @@
 * typo fix in the french text ("exemple" instead of "example").
 * Allow to build extra pages ; the `meta.yaml` file must now provide a list of pages to be built (#27 ; was a requirement for #24).
 * Additional Things (english) added (#24).
+* Additional Things (french) added (#25).
 
 ## 1.1.0 (2016-05-14)
 

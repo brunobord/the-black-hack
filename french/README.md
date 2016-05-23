@@ -1,6 +1,8 @@
 # Notes de la traduction
 
-Relecture: Raskal Raskalis, David Grossoleil & Éric Nieudan.
+Relecture:
+
+* Pour "Le Black Hack", Raskal Raskalis, David Grossoleil & Éric Nieudan.
 
 ## Traduction du titre
 
