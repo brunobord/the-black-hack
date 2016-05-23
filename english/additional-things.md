@@ -43,15 +43,6 @@ Whilst exploring subterranean places light is incredibly important, if a charact
 
 At the start of their turn they must roll on the **Panic!** table, and at the end of their turn they may make a **WIS** test to overcome act normally. This continues until the make a successful **WIS** test.
 
-*I think the Panic! rules are a worthy inclusion in any dungeon delving scenario - but might not be for everyone's taste, so were cut for space in the main rulebook. Also if you don't like the 'party game' vibe of the Fumble result, consider changing that to something more boring.*
-
-## Weaker warriors
-
-Originally Warriors were a little weaker, but received a 'buff' in power - based on feedback given early on in the Kickstarter. To bring them back to where they were, rule that every additional target they attack must be a new target with equal or lower HD than the last.
-
-*This reduces the number of opportunities to use their special ability and forces the damage to be spread out. A target can be attacked twice, but an additional target must be attacked between the attacks - this entirely stops the high level Warriors 'damage dumping' on single targets.*
-
-
 |   | PANIC!                                                                              |
 |:-:|:------------------------------------------------------------------------------------|
 | 1 | **Gritted Teeth** - Make a free **WIS** test in order to end the Panic.             |
@@ -61,6 +52,13 @@ Originally Warriors were a little weaker, but received a 'buff' in power - based
 | 5 | **Life before the eyes** - **CON** is reduced by 2.                                 |
 | 6 | **Heart Attack** - Taken **Out of Action**                                          |
 
+*I think the Panic! rules are a worthy inclusion in any dungeon delving scenario - but might not be for everyone's taste, so were cut for space in the main rulebook. Also if you don't like the 'party game' vibe of the Fumble result, consider changing that to something more boring.*
+
+## Weaker warriors
+
+Originally Warriors were a little weaker, but received a 'buff' in power - based on feedback given early on in the Kickstarter. To bring them back to where they were, rule that every additional target they attack must be a new target with equal or lower HD than the last.
+
+*This reduces the number of opportunities to use their special ability and forces the damage to be spread out. A target can be attacked twice, but an additional target must be attacked between the attacks - this entirely stops the high level Warriors 'damage dumping' on single targets.*
 
 ## Blocking
 
