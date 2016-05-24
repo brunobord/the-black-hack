@@ -88,8 +88,6 @@ Each character is created with one point of Luck - they can trade this in at any
 
 If a player fails a roll and a GM suggests it, they may treat the outcome of that action as a success - but they must accept a cost or penalty from the list below, chosen and adapted to fit the narrative by the GM.
 
-*Some people scorn failing forward, I find myself using it when I’m looking to engage a story focused player or when i'm feeling generous and the situation is dire - so some mechanical hooks are useful things to have worked up in advance.*
-
 | Cost of success                                                                              |
 |:--------------------------------------------------------------------------------------------:|
 | Roll a d10, this item in the PCs inventory is destroyed/lost.                                |
@@ -100,6 +98,7 @@ If a player fails a roll and a GM suggests it, they may treat the outcome of tha
 | Rolls of 1-2 when counting coins are obvious counterfeits.                                   |
 | +1 to the next **Out of Action** roll the PC makes.                                          |
 
+*Some people scorn failing forward, I find myself using it when I’m looking to engage a story focused player or when i'm feeling generous and the situation is dire - so some mechanical hooks are useful things to have worked up in advance.*
 
 ## Paralysed
 
