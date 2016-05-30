@@ -114,9 +114,9 @@ An alternative method of checking for random encounters is to roll a d4 every ti
 
 ## Morale
 
-If the number of opponents engaged in combat with the players drops by 50% they are 'broken' and a Reaction roll should be made to determine their new attitude.
+If the number of opponents engaged in combat with the players drops by 50% they are 'broken' and a **Reaction roll** should be made to determine their new attitude.
 
-If a character can make a successful CHA test the broken opponents will attempt to flee the combat as quickly as possible. If they have a leader fighting amongst them, the CHA test is taken with Disadvantage.
+If a character can make a successful **CHA** test the broken opponents will attempt to flee the combat as quickly as possible. If they have a leader fighting amongst them, the **CHA** test is taken with **Disadvantage**.
 
 *This is a very 'wargamey' feeling rule, which will add an interesting tactical element to combats, if you're so inclined. And remember if the new reaction roll is favourable, yet the NPC's were trying to kill the players a moment before - its no hard stretch to imagine that they are now grovelling for their lives! All of this should be used as a guide, its recommended a GM should exercise their 'narrative common sense'.*
 
