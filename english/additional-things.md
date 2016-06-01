@@ -142,14 +142,6 @@ If you feel like the current Armor system is too weak - here's the first of two 
 
 Armor Points (AP) reduce damage in the same way, however they don't run out - so each hit is reduced by the Armor points amount. Every piece of Armor now has a Usage Die (UD)- *see the table opposite*.
 
-Immediately after a fight where armor has been used to reduce damage, its Usage Die must be rolled. If the roll is a 1 or 2 the Usage Die reduces as per normal, and the Armor then has the AP of the armor above it in the table. So for example failing a UD roll for Chain would reduce it to having 2 AP (Leather).
-
-If the UD is a d4 and fails, it's considered destroyed and should be removed from a players inventory. Armor can be repaired however- roll its current Usage Die and multiply the amount by 10, this is the cost to upgrade the Usage Die to the next die up in the chain.
-
-## Reach weapons
-
-When a creature moves so they are **Close** to a PC who has a long weapon, the defence roll against the creatures first attack is at Advantage.
-
 | Type         | UD  | AP |
 |:------------:|:---:|:--:|
 | Gambeson     | d4  | 1  |
@@ -158,6 +150,15 @@ When a creature moves so they are **Close** to a PC who has a long weapon, the d
 | Plate & Mail | d10 | 4  |
 | Small Shield | d4  | 1  |
 | Large Shield | d4  | 2  |
+
+Immediately after a fight where armor has been used to reduce damage, its Usage Die must be rolled. If the roll is a 1 or 2 the Usage Die reduces as per normal, and the Armor then has the AP of the armor above it in the table. So for example failing a UD roll for Chain would reduce it to having 2 AP (Leather).
+
+If the UD is a d4 and fails, it's considered destroyed and should be removed from a players inventory. Armor can be repaired however- roll its current Usage Die and multiply the amount by 10, this is the cost to upgrade the Usage Die to the next die up in the chain.
+
+## Reach weapons
+
+When a creature moves so they are **Close** to a PC who has a long weapon, the defence roll against the creatures first attack is at Advantage.
+
 
 ## More armor
 
