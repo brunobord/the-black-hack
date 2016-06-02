@@ -153,7 +153,7 @@ Armor Points (AP) reduce damage in the same way, however they don't run out - so
 
 Immediately after a fight where armor has been used to reduce damage, its Usage Die must be rolled. If the roll is a 1 or 2 the Usage Die reduces as per normal, and the Armor then has the AP of the armor above it in the table. So for example failing a UD roll for Chain would reduce it to having 2 AP (Leather).
 
-If the UD is a d4 and fails, it's considered destroyed and should be removed from a players inventory. Armor can be repaired however- roll its current Usage Die and multiply the amount by 10, this is the cost to upgrade the Usage Die to the next die up in the chain.
+If the UD is a d4 and fails, it's considered destroyed and should be removed from a players inventory. Armor can be repaired however - roll its current Usage Die and multiply the amount by 10, this is the cost to upgrade the Usage Die to the next die up in the chain.
 
 ## Reach weapons
 
