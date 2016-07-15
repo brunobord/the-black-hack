@@ -1,4 +1,4 @@
-# En complément
+# Trucs en plus
 
 par David Black
 
@@ -8,11 +8,11 @@ v1.0
 
 ## Merci
 
-Je ne pense pas me tromper si je me dis que, si vous lisez ce qui suit, vous avez apporté votre soutien sur Kickstarter / acheté le PDF sur RPG.now. Donc, merci. Merci beaucoup. Ça peut paraître sarcastique, alors que non. Je suis vraiment reconnaissant. Voici un petit supplément qui vous montrera à quel point j'apprécie le soutien que vous avez montré pour LBH ! Oh, et si vous n'avez pas financé le Kickstarter ou acheté le PDF, je suppose que vous avez une copie pirate, par exemple. Franchement, je suis flatté que vous ayiez autant d'attention pour moi.
+Si vous lisez ce qui suit, il est plus que probable que vous ayez soutenu le projet sur Kickstarter ou acheté le PDF sur RPGNow. Donc, merci. Merci beaucoup. Ça peut paraître sarcastique, mais ça ne l'est pas. Je vous en suis vraiment reconnaissant. Voici un petit supplément qui vous montrera à quel point j'apprécie le soutien que vous avez apporté au projet "LBH" ! Oh, si vous n'avez ni financé le Kickstarter, ni acheté le PDF, c'est que vous avez peut-être mis la main sur une copie piratée. Franchement, je suis flatté que vous ayiez autant d'attention pour moi.
 
 ## Règles alternatives
 
-**En complément** est une compilation de règles optionnelles, notes, suggestions et autres idées qui, pour une raison ou une autre n'ont pas été incluses dans le livret des règles du Black Hack. Le plus souvent par manque de place, peut-être aussi parce qu'elles sont idiotes - je vous laisse décider. Choisissez ou non de les inclure dans vos parties. Certaines de ces règles sont apparues sur mon blog ou sur les réseaux sociaux - mais ces media sont, enfin... vous voyez, quoi ?
+**Trucs en plus** est une compilation de règles optionnelles, notes, suggestions et autres idées qui, pour une raison ou une autre n'ont pas été incluses dans le livret des règles du Black Hack. Le plus souvent par manque de place, peut-être aussi parce qu'elles sont idiotes - je vous laisse décider. Choisissez ou non de les inclure dans vos parties. Certaines de ces règles sont apparues sur mon blog ou sur les réseaux sociaux - mais ces media sont, enfin... vous voyez, quoi ?
 
 ## Encombrement
 
@@ -20,25 +20,25 @@ Les règles de base sont conçues pour modéliser simplement le poids et la diff
 
 Chaque élément peut avoir plusieurs mots-clés issus de la liste ci-dessous et chacun rajoute "1" poids supplémentaire :
 
-* **Fragile** - Les objets se brisent ou s'endommagent facilement.
-* **Grand** - Les objets de plus de d'1.5m dans n'importe quelle longueur.
+* **Fragile** - Les objets fragiles ou facilement endommagés.
+* **Grand** - Les objets de plus de d'1.5m sur un ou plusieurs côtés.
 * **Encombrant** - Les choses qui ont une forme incommode ou inhabituelle.
-* **Lourd** - Les objets qui malgré leurs tailles demandent un effort pour être soulevés.
+* **Lourd** - Les objets soulevés avec plus d'efforts que ne le laisse penser leur taille.
 * **Difficile** - Les objets difficiles à garder ou manipuler, parce qu'ils sont brûlants ou dangereux, par exemple.
 
-*Vous noterez que ces changements vont grandement surcharger les personnages, et tout le monde n'aime pas devoir gérer la logistique. Si vous utilisez ceci, estimez la possibilité d'inclure dans votre jeu des objets qui ignorent cette règle, le rendant plus désirable. Par exemple, une armure de plaques et cottes-de-mailles serait "Lourde" et "Encombrante" dans mon jeu, aussi il faudrait l'oeuvre d'un Artisan Experimenté pour qu'elle ne soit pas Encombrante, et celle d'un Maître Forgeron pour qu'elle n'aie aucun de ces attributs - la rendant super-attirante.*
+*Vous noterez que ces changements surchargent grandement les personnages, et tout le monde n'aime pas gérer la logistique. Si vous utilisez ceci, considérez la possibilité d'inclure dans votre jeu des objets ignorant ces règles, les rendant ainsi plus désirables. Par exemple, une armure de plaques et cottes-de-mailles serait "Lourde" et "Encombrante" dans mon jeu, aussi il faudrait l'oeuvre d'un Artisan Experimenté pour qu'elle ne soit pas Encombrante, et celle d'un Maître Forgeron pour qu'elle n'aie aucun de ces attributs - la rendant particulièrement attirante.*
 
 ## Variante pour la magie
 
 Voici une petite entorse "narrative" qui change complètement la manière d'obtenir et d'utiliser les sorts.
 
-Chaque sort est unique. À la manière d'un objet magique connu ou d'une relique, une seule instance du sort existe. Il peut être volé, oublié et redécouvert, on peut le chercher et le situer - mais il ne peut pas y avoir plus d'une copie de ce sort (dans un livre) dans le monde du jeu. Un sort peut être mémorisé à partir du livre d'un autre magicien - et lancé. Le lanceur de sort doit faire un test d'**INT**, comme à l'accoutumée, pour vérifier sa capacité à lancer ce sort à ce niveau.
+Chaque sort est unique. À la manière d'un objet magique connu ou d'une relique, une seule instance du sort existe. Il peut être volé, oublié et redécouvert, on peut le chercher et le localiser - mais il ne peut pas y avoir plus d'une copie de ce sort (dans un livre) dans le monde du jeu. Un sort peut être mémorisé à partir du livre d'un autre magicien - et lancé. Le lanceur de sort doit faire un test d'**INT**, comme à l'accoutumée, pour vérifier sa capacité à lancer ce sort à ce niveau.
 
 *Ces changements ont un impact énorme sur la montée en puissance des utilisateurs de la magie - discutez de ceci avec vos joueurs avant de gâcher complètement leur plaisir.*
 
 ## Panique et lumière
 
-Alors qu'il explore des souterrains et qu'à ces profondeurs la lumière est un élément incroyablement important, si un personnage se retrouve dans le noir le plus total, il doit immédiatement faire un test de **SAG**. S'il réussit il peut continuer à avancer, mais s'il échoue, il **Panique !**
+L'exploration de souterrains profonds rend la lumière spécialement importante, aussi, si un personnage se retrouve dans le noir le plus total, il doit immédiatement faire un test de **SAG**. S'il réussit il peut continuer à avancer, mais s'il échoue, il **Panique !**
 
 Au début de son tour il doit faire un jet sur la table de **Panique !**, et à la fin de son tour il doit faire un test de **SAG** pour vaincre sa peur et revenir à la normale. Ceci continue jusqu'à ce qu'il réussisse un test de **SAG**.
 
@@ -51,11 +51,11 @@ Au début de son tour il doit faire un jet sur la table de **Panique !**, et à 
 | 5 | **La vie défile devant les yeux** - **CON** est réduite de 2 points.                       |
 | 6 | **Crise cardiaque** - Est mis **Hors de Combat**                                           |
 
-*Je pense que les règles de Panique ! ont leur place dans n'importe quel scénario d'exploration de donjon - mais peuvent ne pas être du goût de tout le monde, alors je les ai retirées du livret pour gagner de la place. Aussi, si vous n'aimez pas le côté "jeu d'ambiance" du résultat "Tâtonne", libre à vous de le remplacer par quelque chose de plus rasoir.*
+*Je pense que les règles de Panique ! ont leur place dans n'importe quel scénario d'exploration de donjon - mais peuvent ne pas être du goût de tout le monde, alors je les ai retirées du livret pour gagner de la place. De même, si vous n'aimez pas le côté "jeu d'ambiance" du résultat "Tâtonne", libre à vous de le remplacer par quelque chose de plus rasoir.*
 
 ## Guerriers faibles
 
-Les Guerriers d'origine étaient un peu faibles, mais recevaient un "boost" en puissance - suite aux retours reçus pendant le Kickstarter. Pour les remettre à leur niveau, établissons la règle suivante : la prochaine cible attaquée doit avoir un DV inférieur ou égal au précédent.
+Les Guerriers d'origine étaient un peu plus faibles, mais ils ont reçu un "boost" en puissance - suite aux retours faits pendant le Kickstarter. Pour les remettre à leur niveau, établissons la règle suivante : la prochaine cible attaquée doit avoir un DV inférieur ou égal au précédent.
 
 *Ceci réduit les possibilité de sur-utilisation des capacités spéciales et force à répartir les dommages. Une cible peut être attaquée deux fois, mais toute cible additionnelle doit être attaquée entre les attaques - ce qui empêche le guerrier de haut niveau de faire du "dégât de masse" sur une cible unique.*
 
@@ -63,7 +63,7 @@ Les Guerriers d'origine étaient un peu faibles, mais recevaient un "boost" en p
 
 Une fois par tour, quand un PNJ se déplace vers un endroit **Proche** et qu'à la fin du mouvement il se trouve **Au contact** d'un allié, un personnage peut se déplacer pour barrer la route du PNJ. Le personnage ne doit *pas* avoir utilisé son mouvement dans son tour. Cette action empêche le PNJ de déclencher son action sur l'allié, cependant le personnage peut recevoir l'attaque du PNJ à sa place.
 
-*J'aime bien utiliser des miniatures de temps en temps (quand je peux jouer dans le monde réel... quelle plaie !). Aussi ça me plaît de pouvoir autoriser quelques actions tactiques pendant les combats - pour tirer parti du côté "wargame" qui peut être amusant à petites doses.*
+*J'aime bien utiliser des miniatures de temps en temps (quand je peux jouer dans le monde réel... pauvre de moi !). Aussi ça me plaît de pouvoir autoriser quelques actions tactiques pendant les combats - pour tirer parti du côté "wargame" qui peut être amusant à petites doses.*
 
 ## Argent
 
@@ -83,9 +83,9 @@ Chaque personnage reçoit à sa création un point de Chance - il peut l'échang
 
 *Vous savez déjà si vous aimez les systèmes de Chance ou pas et celui-ci n'est ni fou-fou ni révolutionnaire.*
 
-## Échouer et avancer
+## Succès avec coût
 
-Si un joueur rate son jet et que le MJ le lui suggère, il peut transformer cette action en succès, mais le joueur doit accepter le coût ou la pénalité tirée de la liste ci-dessous, au choix ou adaptée à l'histoire par le MJ.
+Si un joueur rate son jet et que le MJ le lui propose, il peut transformer cette action en succès, mais le joueur doit accepter le coût ou la pénalité tirée de la liste ci-dessous, au choix ou adaptée à l'histoire par le MJ.
 
 |                                        Coût du succès                                         |
 |:---------------------------------------------------------------------------------------------:|
@@ -97,7 +97,7 @@ Si un joueur rate son jet et que le MJ le lui suggère, il peut transformer cett
 |          Quand il compte ses pièces et qu'il lance 1-2, c'est de la fausse monnaie.           |
 |                 +1 au prochain jet **Hors de Combat** que devra faire le PJ.                  |
 
-*Certains dédaignent "l'échec pour avancer" ; je l'utilise quand j'essaie d'impliquer un joueur dans la narration ou quand je me sens magnanime et que la situation est extrême - il peut être intéressant de préparer quelques effets dramatiques à l'avance.*
+*Certains dédaignent ce "succès avec coût" ; je l'utilise quand j'essaie d'impliquer un joueur qui apprécie la narration ou quand je me sens magnanime et que la situation est extrême - il peut être intéressant de préparer quelques effets dramatiques à l'avance.*
 
 ## Paralysie
 
@@ -113,11 +113,11 @@ Une autre méthode pour les rencontres aléatoires consiste à lancer 1d4 chaque
 
 ## Moral
 
-Si le nombre d'adversaire engagés dans un combat a chuté de 50% leur moral est brisé et on doit faire un **jet de Réaction** pour déterminer leur nouvelle attitude.
+Si le nombre d'adversaires engagés dans un combat a chuté de 50% leur moral est brisé et on doit faire un **jet de Réaction** pour déterminer leur nouvelle attitude.
 
 Si un personnage peut faire un test sous **CHA** les opposants "brisés" tenteront de s'échapper aussi vite que possible. Si leur leader est toujours engagé dans le combat, le test de **CHA** se fait avec un **Désavantage**.
 
-*Si elle donne un aspect assez "wargame", cette règle produit des éléments tactiques intéressants, si le coeur vous en dit. Et souvenez-vous que si le nouveau jet de réaction est favorable, même si l'instant d'avant les PNJ essayaient de tuer les joueurs, il n'est pas improbable qu'ils se mettent à détaler pour sauver leurs vies ! Tout ceci est utilisable en tant que simple guide, le MJ pouvant faire preuve de "bon sens narratif" pour s'adapter.*
+*Si elle donne un aspect assez "wargame", cette règle produit des éléments tactiques intéressants, si le coeur vous en dit. Et souvenez-vous que si le nouveau jet de réaction est favorable, alors même que l'instant d'avant les PNJ essayaient de tuer les joueurs, il n'est pas improbable qu'ils se mettent à détaler pour sauver leurs vies ! Tout ceci n'est qu'un simple guide, le MJ peut faire preuve de "bon sens narratif" pour s'adapter.*
 
 ## Faim & nourriture
 
@@ -125,19 +125,20 @@ Au début de la session chaque personnage jette un **Dé d'usure** de sa ration 
 
 Dès qu'ils mangent une portion, les personnages gagnent 1 **Dé de vie de PV**, ils peuvent manger plus si ça colle à l'histoire, mais leur gain en **PV** ne peut pas avoir lieu plus d'une fois par session.
 
-*C'est probablement une approche assez abstraite de la faim - utilisez ceci si vous vous emballez ou aimez simuler ces "aspects pénibles de la vie de tous les jours".*
+*C'est une approche assez abstraite de la faim - utilisez ceci si vous appréciez une gestion simple des "aspects pénibles de la vie de tous les jours".*
 
 ## Des ennemis plus faibles
 
-Les ennemis sans nom sont juste des *uniformes rouges* et un bon *uniforme rouge* meurt au premier coup reçu. Dès lors qu'il prend un point de dommage, il tombe. Toutefois, donnez-leur un DV pour connaître les dégâts qu'il inflige quand il touche.
+Les ennemis sans nom sont juste des *uniformes rouges* <sup>[1](#uniformerouge)</sup> et un bon *uniforme rouge* meurt au premier coup reçu. Il tombe au premier point de dommage. Toutefois, donnez-lui un DV pour connaître les dégâts qu'il inflige quand il touche.
 
 De même, quand le joueur a la chance de faire un 1 sur une attaque, une créature *nommée* est tuée sur le coup - de préférence de manière sanguinolante.
 
 *Ceci donne aux personnages l'impression qu'ils sont un tout petit peu plus puissants. J'emploierai également des monstres de niveau plus faible, parce que si j'utilise cette règle, c'est pour voir la scène de la tondeuse dans Braindead.*
 
+
 ## Une "meilleure" armure
 
-S'il vous semble que le système d'Armure est trop faible, voici une ou deux alternatives.
+Si le système des points d'Armure vous paraît trop faible, voici une ou deux alternatives.
 
 Les Points d'Armure (PA) réduisent des dégâts de la même manière, mais ils ne diminuent pas - chaque coup reçu est diminué par le total des points d'armure. Chaque Armure a son Dé d'usure (*voir la table ci-dessous*).
 
@@ -156,7 +157,7 @@ Si le DU est un d4 et échoue, l'armure est considérée comme détruite et doit
 
 ## Arme à allonge
 
-Quand une créature se déplace jusqu'à être **Au contact** d'un PJ qui a une arme longue, le jet de défense contre la première attaque est fait avec un Avantage.
+Quand une créature vient **Au contact** d'un PJ qui a une arme longue, le jet de défense contre la première attaque de la créature est fait avec un Avantage.
 
 ## Encore des armures
 
@@ -174,7 +175,7 @@ Le concept de bonus de CA ascendant peut toujours être utilisé avec Le Black H
 
 Par exemple dans un système de CA ascendant, l'armure de cuir ajoute +2 sur une base de 10 (ce qui donne une CA de 12) - avec LBH, vous devrez lancer sous votre attribut pour voir si vous touchez ou êtes capables d'éviter les dégâts, et ajoutez +2 à votre jet de dés. Pour faire vite, il suffit de lire la score de CA dans les modules existants et de n'utiliser que le dernier chiffre comme bonus.
 
-*Ceci est une interprétation plus simple de la règle originale, et il peut paraître étrange que ce ne soit pas celle choisie pour les règles basiques, mais un de mes principaux objectifs personnels au moment de la création du Black Hack était de supprimer les "modificateurs de jets de dé à répétition", ce que j'ai pratiquement réussi faire - si vous tolérez ces petites formules mathématiques - les puristes pourront se référer à la proposition ci-dessus.*
+*Ceci est une interprétation plus simple de la règle originale, et il peut paraître étrange que ce ne soit pas celle choisie pour les règles basiques, mais un de mes principaux objectifs personnels au moment de la création du Black Hack était de supprimer les "modificateurs de jets de dé à répétition", ce que j'ai pratiquement réussi à faire - si vous tolérez ces petites formules mathématiques - les puristes pourront se référer à la proposition ci-dessus.*
 
 ## FAQ
 
@@ -182,9 +183,9 @@ Par exemple dans un système de CA ascendant, l'armure de cuir ajoute +2 sur une
 
 En partant du principe qu'aucun sort n'a été jeté sur vous, ou toute autre mésaventure : 2 fois, si vous laissez votre action de côté. Ceci vous permet de vous déplacer vers un endroit **Loin**.
 
-***Faut-il vraiment qu'on aie un résultat strictement inférieur ? pourquoi pas inférieur ou égal ?***
+***Pourquoi les succès demandent-ils un jet strictement inférieur à l'attribut ? Pourquoi pas inférieur ou égal ?***
 
-Oui, pour que même si vous avez une stat à 20, il y ait toujours une probabilité d'échec.
+Pour que l'échec soit toujours possible, même avec une stat à 20.
 
 ***L'Armure, comment ça marche ?***
 
@@ -196,7 +197,7 @@ Dans mes parties, les joueurs doivent activement trouver des sorts - mais vous p
 
 ***Si un PJ invoque une créature, et que je veux que le joueur fasse les jets d'attaque / défense de cette créature, dois-je utiliser une des caractéristiques du PJ ou doit-on avoir une suite de statistiques + DV pour elle ?***
 
-J'aurais utilisé la caractéristique du PJ qui correspond - spécialement pour les créatures à usage limité. Peut-être que si un membre de la troupe a un rôle plus régulier (comme la panthère d'un Elfe noir, par exemple), je lui donnerai un DV + une capacité spéciale tenant sur une ligne qui colle à l'histoire.
+J'aurais utilisé la caractéristique du PJ qui correspond - spécialement pour les créatures à usage limité. Peut-être que si un membre de la troupe a un rôle plus régulier (comme la panthère d'un Elfe noir, par exemple), je lui donnerai un DV + une capacité spéciale tenant sur une ligne en rapport avec l'histoire.
 
 ***Comment résoudre la situation X ?***
 
@@ -237,3 +238,9 @@ J'ajouterai des choses au fur et à mesure sur ce document. Le numéro de versio
 Pour plus de contenus liés au Black Hack, rendez-vous sur le site au nom évocateur :
 
 http://dngnsndrgns.blogspot.co.uk/
+
+----
+
+#### Notes
+
+<a name="uniformerouge" href="#des-ennemis-plus-faibles">1</a> -- Note du traducteur : l'expression ["uniformes rouges"](https://fr.wikipedia.org/wiki/Redshirt_(fiction)) provient de la série Star Trek. Les membres de l'équipage de l'Enterprise (généralement jamais vus auparavant) vêtus d'uniformes de couleur rouge avaient la fâcheuse habitude de mourir plus fréquemment en mission que les autres figurants. De la chair à canon, quoi.

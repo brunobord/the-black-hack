@@ -3,6 +3,7 @@
 Relecture:
 
 * Pour "Le Black Hack", Raskal Raskalis, David Grossoleil & Éric Nieudan.
+* Pour "Trucs en plus", Geoffrey Sanchez.
 
 ## Traduction du titre
 
