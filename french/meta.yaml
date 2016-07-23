@@ -4,3 +4,8 @@ pages:
         label: Le Black Hack
         author: Bruno Bord
         version: '1.0'
+    -
+        label: Trucs en plus (trad. "Additional Things")
+        author: Bruno Bord
+        version: '1.0'
+        filename: additional-things.md
