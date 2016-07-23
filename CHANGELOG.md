@@ -1,6 +1,6 @@
 # Changelog
 
-## master (unreleased)
+## 2.0.0 (2016-07-23)
 
 * typo fix in the french text ("exemple" instead of "example").
 * Allow to build extra pages ; the `meta.yaml` file must now provide a list of pages to be built (#27 ; was a requirement for #24).
