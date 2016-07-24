@@ -190,7 +190,7 @@ So even if you have 20 in a stat there's always a legitimate chance of failure.
 
 ***Armor, how does that work?***
 
-You use you armor to soak damage, when armor has soaked its maximum damage you start losing HP. Only when you rest for an hour do you recover your **Amor Points**. So, for example Plate and Mail is a form of 8 temporary HP.
+You use you armor to soak damage, when armor has soaked its maximum damage you start losing HP. Only when you rest for an hour do you recover your **Armor Points**. So, for example Plate and Mail is a form of 8 temporary HP.
 
 ***How many new spells can be added to the spellbook on a level up?***
 

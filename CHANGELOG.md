@@ -1,5 +1,9 @@
 # Changelog
 
+## master (unreleased)
+
+* tiny typo fix in english "additional things".
+
 ## 2.0.0 (2016-07-23)
 
 * typo fix in the french text ("exemple" instead of "example").
