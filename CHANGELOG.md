@@ -3,6 +3,7 @@
 ## master (unreleased)
 
 * tiny typo fix in english "additional things".
+* Japanese translation of The Black Hack - temporary page linked to the RTF/PDF document (#29)
 
 ## 2.0.0 (2016-07-23)
 
