@@ -16,6 +16,7 @@ from shell import shell
 import yaml
 
 
+
 SOURCE_FILE_TEXT = '<p><a href="{source_file}">Link to {source_file_basename}</a></p>'  # noqa
 HTACCESS = """
 # Serving .md files as UTF-8.
@@ -24,9 +25,10 @@ AddType 'text/plain; charset=UTF-8' md
 DEFAULT_PAGE = {}
 
 
+
 class Builder(object):
 
-    exceptions = ('.tox', '.git', 'build', 'static', 'templates')
+    exceptions = ('.tox', '.git', 'build', 'static', 'templates', 'tests',)
 
     def __init__(self):
         self.build_path = abspath('build')
