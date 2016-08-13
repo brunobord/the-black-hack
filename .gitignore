@@ -2,3 +2,5 @@
 .tox/
 build/
 
+# py.test related
+.cache/

@@ -15,6 +15,8 @@ from mdx_gfm import GithubFlavoredMarkdownExtension
 from shell import shell
 import yaml
 
+from toolbox import slugify
+
 
 SOURCE_FILE_TEXT = '<p><a href="{source_file}">Link to {source_file_basename}</a></p>'  # noqa
 HTACCESS = """
@@ -26,7 +28,7 @@ DEFAULT_PAGE = {}
 
 class Builder(object):
 
-    exceptions = ('.tox', '.git', 'build', 'static', 'templates')
+    exceptions = ('.tox', '.git', 'build', 'static', 'templates', 'tests',)
 
     def __init__(self):
         self.build_path = abspath('build')
@@ -64,7 +66,7 @@ class Builder(object):
             source,
             extensions=[
                 GithubFlavoredMarkdownExtension(),
-                TocExtension(permalink=True)
+                TocExtension(permalink=True, slugify=slugify)
             ]
         )
         return html
