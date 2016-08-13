@@ -1,6 +1,6 @@
 # Changelog
 
-## master (unreleased)
+## 2.1.0 (2016-08-13)
 
 * tiny typo fix in english "additional things".
 * Japanese translation of The Black Hack added - thanks to Toshiya Nakamura (#29).
