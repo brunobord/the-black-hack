@@ -7,7 +7,7 @@ def test_slugify_english():
 
 
 def test_slugify_french():
-    assert slugify("De quoi s'agit-il ?", '-') == 'de-quoi-sagit-il'
+    assert slugify("De quoi s'agit-il ?", '-') == 'de-quoi-s-agit-il'
 
 
 def test_slugify_castellano():
@@ -15,11 +15,11 @@ def test_slugify_castellano():
 
 
 def test_slugify_japanese():
-    assert slugify("これは何？", '-') == 'これは何'
+    assert slugify("これは何？", '-') == 'korehahe'
 
 
 def test_slugify_converting_saves():
     assert slugify('Converting Saves', '-') == 'converting-saves'
     assert slugify('Conversion des jets de sauvegarde', '-') == 'conversion-des-jets-de-sauvegarde'  # noqa
     assert slugify('Convirtiendo tiradas de salvación', '-') == 'convirtiendo-tiradas-de-salvacion'  # noqa
-    assert slugify('セーブの変換', '-') == 'セーブの変換'
+    assert slugify('セーブの変換', '-') == 'sebunobian-huan'

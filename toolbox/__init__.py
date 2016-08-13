@@ -1,1 +1,1 @@
-from markdown.extensions.headerid import slugify
+from slugify import slugify  # noqa
