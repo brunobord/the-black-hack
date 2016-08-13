@@ -3,7 +3,8 @@
 ## master (unreleased)
 
 * tiny typo fix in english "additional things".
-* Japanese translation of The Black Hack - temporary page linked to the RTF/PDF document (#29)
+* Japanese translation of The Black Hack added - thanks to Toshiya Nakamura (#29).
+* New slugification library to handle Japanese - or other non-latin-based languages - (#31).
 
 ## 2.0.0 (2016-07-23)
 
