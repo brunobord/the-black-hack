@@ -1,0 +1,11 @@
+label: English
+pages:
+    -
+        label: The Black Hack
+        author: David Black
+        version: '1.2'
+    -
+        label: Additional Things
+        author: David Black
+        version: '1.0'
+        filename: additional-things.md
