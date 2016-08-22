@@ -11,7 +11,7 @@ Con elementi presi in prestito dall'era ‘originale’ dei giochi di ruolo e da
 
 **GRAZIE A**  
 
-In ordine sparso - Peter Regan, Tony Tucker, Olav Nygård, Chris McDowall, Mick Reddick, Eric Nieudan, Brian Wille, Jarret Crader, Greg Welty, All the work the Grognards have put into the game, UK OSR Hangouts crew, Tutti quelli che hanno partecipato al Kickstarter (you're all ace!) più tutte le altre persone che hanno dato iuna mano nello sviluppo dell'hobby dal quale ci siamo andati di così tanti chilometri.
+In ordine sparso - Peter Regan, Tony Tucker, Olav Nygård, Chris McDowall, Mick Reddick, Eric Nieudan, Brian Wille, Jarret Crader, Greg Welty, All the work the Grognards have put into the game, UK OSR Hangouts crew, Tutti quelli che hanno partecipato al Kickstarter (you're all ace!) più tutte le altre persone che hanno dato una mano nello sviluppo dell'hobby dal quale ci siamo andati di così tanti chilometri.
 
 ----
 
@@ -21,7 +21,7 @@ The Black Hack (TBH) è un gioco di ruolo da tavola tradizionale, si gioca con c
 
 ## La meccanica di base
 
-Tutto cio che un personaggio potrebbe tentare di fare, che può concludersi con un fallimento, si risolve con un test sulla stat dell'attributo; per testare con successo una stat - il giocatore deve tirare al di ***sotto*** di essa con un  d20.
+Tutto ciò che un personaggio potrebbe tentare di fare, che può concludersi con un fallimento, si risolve con un test sulla stat dell'attributo; per testare con successo una stat - il giocatore deve tirare al di ***sotto*** di essa con un  d20.
 
 I Mostri non fanno dei test - il personaggio deve evitare i loro attacchi facendo un test; l'unico caso in cui un mostro tira il dato, è per calcolare il Danno.
 
@@ -31,7 +31,7 @@ Le **Stat** sono generate con 3d6 nel seguente ordine: **Forza (STR), Destrezza 
 
 ## Scegliere una Classe
 
-Ci sono 4 scelte. Guerriero, Chierico, Mago, Ladro - la tua classe detemina quanto danno fai, i tuoi Punti Danno (HP) ed alcune abilità speciali.
+Ci sono 4 scelte. Guerriero, Chierico, Mago, Ladro - la tua classe determina quanto danno fai, i tuoi Punti Danno (HP) ed alcune abilità speciali.
 
 ## Acquistare Equipaggiamento
 
@@ -39,7 +39,7 @@ Ogni nuovo personaggio nasce con 3d6 x 10 monete con le quali può acquistare de
 
 ## Punti Armatura
 
-L'Armatura fornisce protezione riducendo tutti i danni ricevuti. Ogni tipo riduce i danni per una quantità limitata. **I punti armatura** vengono riguadagnati qunado il personaggio si riposa. Quando un personaggio o un mostro hanno usato l'armatura per assorbire la sua massima quantità, sono troppo stanchi o feriti per utilizzarla di nuovo in modo efficace - inizieranno quindi a prendre danni pieni.
+L'Armatura fornisce protezione riducendo tutti i danni ricevuti. Ogni tipo riduce i danni per una quantità limitata. **I punti armatura** vengono riguadagnati quando il personaggio si riposa. Quando un personaggio o un mostro hanno usato l'armatura per assorbire la sua massima quantità, sono troppo stanchi o feriti per utilizzarla di nuovo in modo efficace - inizieranno quindi a prendere danni pieni.
 
 |     Tipo     | Punti |
 |:------------:|:-----:|
@@ -50,7 +50,7 @@ L'Armatura fornisce protezione riducendo tutti i danni ricevuti. Ogni tipo riduc
 | Piccolo Scudo |   2   |
 | Grande scudo |   4   |
 
-I Mostri hanno 1 punto di armatura per ogni **HD** al di sopra del primo, per calcolarlo velocemente sottrai semplcemente 1 dalla loro **HD** - Possono anche portare degli scudi. (Tutto fino ad un massimo di 10)
+I Mostri hanno 1 punto di armatura per ogni **HD** al di sopra del primo, per calcolarlo velocemente sottrai semplicemente 1 dalla loro **HD** - Possono anche portare degli scudi. (Tutto fino ad un massimo di 10)
 
 ## Utilizzo dell'Armatura
 
@@ -73,7 +73,7 @@ Se un personaggio indossa un'armatura che non è nella lista della sua Classe, d
 | Lanterna                 |   10   |     -     |             -              |
 | Specchio Portatile       |   5    |     -     |             -              |
 | Razioni Conservanti      |   15   |    d8     |             -              |
-| Razioni Freche           |   5    |    d4     |             -              |
+| Razioni Fresche          |   5    |    d4     |             -              |
 | 18m Corda                |   1    |     -     |             -              |
 | Sacco Piccolo            |   1    |     -     |             -              |
 | Sacco Grande             |   2    |     -     |             -              |
@@ -90,11 +90,11 @@ Se un personaggio indossa un'armatura che non è nella lista della sua Classe, d
 
 ## Convertire i Tiri Salvezza
 
-Il sistema The Black Hach ignora i tiri Salvezza e li sostituisce con dei tiri sugli attributi quando una magia, una trappola o altri effetti avrebbero un impatto sul personaggio - usando la guida qui sotto. Ricorda i suggerimenti nel capitolo **Potenti Avversari**.
+Il sistema The Black Hach ignora i tiri Salvezza e li sostituisce con dei tiri sugli attributi quando una magia, una trappola o altri effetti avrebbero un impatto sul personaggio - usando la guida qui sotto. Ricorda i suggerimenti nel capitolo  **Potenti Avversari**.
 
 |                  STR                   |                 DEX                 |            CON            |
 |:--------------------------------------:|:-----------------------------------:|:-------------------------:|
-| Danni fisici che *non possono* essere schivati. | Danni fisici che *possono* essere schivati. | Veleni, malattie o Morte. |
+| Danni fisici che *non possono*  essere schivati. | Danni fisici che *possono*  essere schivati. | Veleni, malattie o Morte. |
 
 |             INT             |           WIS            |        CHA        |
 |:---------------------------:|:------------------------:|:-----------------:|
@@ -102,15 +102,15 @@ Il sistema The Black Hach ignora i tiri Salvezza e li sostituisce con dei tiri s
 
 ## Turno di Gioco
 
-Durante il turno di un Giocatore un personaggio può muoversi ed effettuare un'azione. Può attaccare, cercare indizzi, parlare ad un NPC, lanciare un incantesimo - interagire con il mondo è un'azione. Spesso è necessario effettuare un test su un attributo per determinare l'esito dell'azione.
+Durante il turno di un Giocatore un personaggio può muoversi ed effettuare un'azione. Può attaccare, cercare indizi, parlare ad un NPC, lanciare un incantesimo - interagire con il mondo è un'azione. Spesso è necessario effettuare un test su un attributo per determinare l'esito dell'azione.
 
 ## Tempo e Turni
 
-Ci sono 2 importanti tipi di periodi tracciabili - i **Momenti** (*round*) ed i **Minuti** (*turni*). I **Momenti** vengono usati durante il combattimento e le veloci scene di pericolo mentre i **Minuti** vengono usati durante l'esplorazione e mentre si va in cerca di avventura. Il GM può far avanzare l'orologio in base alla necessità sostiuendo i **Minuti** con le **Ore**, i **Giorni** o addirittura i **Mesi** se l'avventura dovesse richiederlo.
+Ci sono 2 importanti tipi di periodi tracciabili - i **Momenti** (*round*) ed i **Minuti** (*turni*). I **Momenti** vengono usati durante il combattimento e le veloci scene di pericolo mentre i **Minuti** vengono usati durante l'esplorazione e mentre si va in cerca di avventura. Il GM può far avanzare l'orologio in base alla necessità sostituendo i **Minuti** con le **Ore**, i **Giorni** o addirittura i **Mesi** se l'avventura dovesse richiederlo.
 
 ## Movimento e Distanza
 
-Invece di tracciare numeri precisi, TBH utilizza 4 intervalli astratti per misurare le distanze. **Vicino**, **Nelle Vicinanze**, **Lontano** e **Distante**. Nel suo turno ogni personaggio può muoversi **Nelle Vicinanze** come parte di un'azione, eseguendo quell'azione in ogni momento della sua mossa. In alternativa utilizzando completamente un'azione ci si può muovere **Lontano**. Tutto ciò che sta oltre **Lontano** può essere classificato come **Distante** e ci vogliono tre mosse per raggiungerlo.
+Invece di tracciare numeri precisi, TBH utilizza 4 intervalli astratti per misurare le distanze. **Vicino**, **Nelle Vicinanze**, **Lontano** e **Distante**. Nel suo turno ogni personaggio può muoversi **Nelle Vicinanze** come parte di un'azione, eseguendo quell'azione in ogni momento della sua mossa. In alternativa utilizzando completamente un'azione ci si può muovere **Lontano**. Tutto ciò che sta oltre  **Lontano** può essere classificato come **Distante** e ci vogliono tre mosse per raggiungerlo.
 
 Questo sistema è stato disegnato per supportare lo stile narrativo del ‘teatro della mente’, ed è meno concentrato sul tracciare quadrati e distanze complicate. Per convertire le distanze ed i raggi d'azione esistenti (per magie ed aree di effetto) utilizzare questa tabella:
 
@@ -129,21 +129,21 @@ Quando irrompe un combattimento, tutti devono essere messi in ordine in modo che
 
 ## Attaccare, difendersi e danni
 
-Quando un personaggio attacca una creature deve tirare un d20 al di sotto della sua stat **STR** per un **Attacco in Mischia** o **DEX** per un **Attacco a Distanza**. In modo simile, quando una creatura attacca, il personaggio deve tirare al di sotto della sua **STR** contro un attacco in mischia e **DEX** contro un attacco a distanza per evitare di prendere danni. Il GM spesso darà le stat adeguate per il test.
+Quando un personaggio attacca una creature deve tirare un d20 al di sotto della sua stat **STR** per un **Attacco in Mischia** o **DEX** per un **Attacco a Distanza**. In modo simile, quando una creatura attacca, il personaggio deve tirare al di sotto della sua  **STR** contro un attacco in mischia e **DEX** contro un attacco a distanza per evitare di prendere danni. Il GM spesso darà le stat adeguate per il test.
 
 Il danno prodotto da un attacco è basato sulla classe del personaggio o sul numero di **HD** del mostro.
 
-Per un  **Attacco in Mischia** l'avversario deve essere **Vicino**. Un **Attacco a Distanza** contro un avversario **Vicino** è possibile, ma l'attaccante soffre uno **Svantaggio**.
+Per un  **Attacco in Mischia** l'avversario deve essere **Vicino**. Un **Attacco a Distanza**  contro un avversario **Vicino** è possibile, ma l'attaccante soffre uno **Svantaggio**.
 
 I **Mostri** fanno danno in base al loro **HD** - *fare riferimento alla tavola qui sotto*, ma se invece si preferisce utilizzare le stat di danni di un modulo che si sta già giocando, si può certo fare.
 
 ## Armi a due mani
 
-Armi più grandi e mortali, vengono gestite semplicemnte aggiungendo +2 ad ogni dado tirato da chi le utilizza. Fanno più danno, ma con loro è più difficile colpire.
+Armi più grandi e mortali, vengono gestite semplicemente aggiungendo +2 ad ogni dado tirato da chi le utilizza. Fanno più danno, ma con loro è più difficile colpire.
 
 ## Danno Critico
 
-Se un giocatore, effettuando un attacco, tira un 1, il risultato del dado del danno tirato viene dupplicato. Se viene tirato un 20 quando si cerca di evitare un attacco, si prende il doppio del danno. I **Punti Armature** vengono usati normalmente.
+Se un giocatore, effettuando un attacco, tira un 1, il risultato del dado del danno tirato viene duplicato. Se viene tirato un 20 quando si cerca di evitare un attacco, si prende il doppio del danno. I **Punti Armature** vengono usati normalmente.
 
 | HD del mostro |    Danno    |
 |:----------:|:--------------:|
@@ -162,7 +162,7 @@ Se un giocatore, effettuando un attacco, tira un 1, il risultato del dado del da
 
 Quando un personaggio è ridotto a 0 **Punti Danno (HP)** viene messo **Fuori Gioco (OofA)**, è in stato di incoscienza e non può effettuare alcuna azione. Quando la battaglia termina o quando si è fuori pericolo, un personaggio che è **OofA** può tirare sulla tabella di *pagina seguente* per vedere che gli accade. **Se sopravvive guadagna 1d4 HP**.
 
-*Se il personagio perde il combattimento o non è possibile recuperare il corpo del personaggio, questo è perso per sempre!*
+*Se il personaggio perde il combattimento o non è possibile recuperare il corpo del personaggio, questo è perso per sempre!*
 
 ## Avversari Potenti
 
@@ -175,8 +175,8 @@ Quel personaggio è di nuovo in piedi e non più **OofA**.
 
 |  | Fuori Gioco                                                           |
 |:---:|:--------------------------------------------------------------------|
-|  1  | **KO’d** - Semplicemente buttato giù.                               |
-|  2  | **Testa pesante** - Svantaggio su tutti i tire per la prossima ora. |
+|  1  | **KO** - Semplicemente buttato giù.                               |
+|  2  | **Testa pesante** - Svantaggio su tutti i tiri per la prossima ora. |
 |  3  | **Ossa Rotte** - STR, DEX e CON sono temporaneamente a -2 fino al giorno seguente. |
 |  4  | **Storpio** - STR o DEX è permanentemente ridotta di 2              |
 |  5  | **Sfigurato** - CHA ridotto di 4.                                   |
@@ -184,19 +184,19 @@ Quel personaggio è di nuovo in piedi e non più **OofA**.
 
 ## Vantaggi & svantaggi
 
-Il GM può decidere che una particolare linea di condotta o compito ha una probabilità di successo più alta o piu bassa. Chiederà quindi al giocatore di tirare un dado addizionale d20 per effettuare il test - con **vantaggio** viene usato il risultato più basso e con **svantaggio**, il più alto.
+Il GM può decidere che una particolare linea di condotta o compito ha una probabilità di successo più alta o più bassa. Chiederà quindi al giocatore di tirare un dado addizionale d20 per effettuare il test - con **vantaggio** viene usato il risultato più basso e con **svantaggio**, il più alto.
 
 ## Riposo
 
-Quando i personaggi si riposano per almeno un'ora, riguadagnano l'uso di tutti i Punti Armatura. Inoltre una volta al giorno, dopo aver riposato, si può tirare un **Dato per Colpire** associato alla loro classe per riguadagnare il risultato del tiro in **HP**.
+Quando i personaggi si riposano per almeno un'ora, riguadagnano l'uso di tutti i Punti Armatura. Inoltre una volta al giorno, dopo aver riposato, si può tirare un  **Dato per Colpire** associato alla loro classe per riguadagnare il risultato del tiro in  **HP**.
 
 ## Esperienza
 
-Gli avventurieri guadagnano esperienza sconfiggendo o superando ostacoli. Uccidere un noioso Coboldo non porterà una rivelazione o particolari insegamenti a qualcuno... Sopravvivere ad un Dungeon, completare una missione  o sopravvivere per raccontare la storia sono cose che portano ad una nuova prospettiva ed alla crescita. Il vecchio sistema di esperienza è stato completamente scartato.
+Gli avventurieri guadagnano esperienza sconfiggendo o superando ostacoli. Uccidere un noioso Coboldo non porterà una rivelazione o particolari insegnamenti a qualcuno... Sopravvivere ad un Dungeon, completare una missione  o sopravvivere per raccontare la storia sono cose che portano ad una nuova prospettiva ed alla crescita. Il vecchio sistema di esperienza è stato completamente scartato.
 
-Per ogni sessione / livello di dungeon / missione / evento fondamentale al quale il personaggio sopravvive esso avanza di un livello.
+Per ogni sessione / livello di Dungeon / missione / evento fondamentale al quale il personaggio sopravvive esso avanza di un livello.
 
-*Il GM sceglie quando, e la raccomandazione è che questa decisione rimanda all'incirca costante per tutta la campagna - ed un GM dovrebbe mettererlo in chiaro con i giocatori dal principio così che loro abbiano dei chiari punti di riferimento.*
+*Il GM sceglie quando, e la raccomandazione è che questa decisione rimanda all'incirca costante per tutta la campagna - ed un GM dovrebbe metterlo in chiaro con i giocatori dal principio così che loro abbiano dei chiari punti di riferimento.*
 
 ## Guadagnare livelli
 
@@ -249,7 +249,7 @@ Le armi magiche tipicamente aggiungono +1 ad ogni attributo testato mentre si us
 
 Le Armature Magiche raddoppiano la quantità di **Punti Armatura** che darebbero normalmente, per esempio la Cotta di Maglia Magica ha 12 **Punti Armatura**. Esse operano secondo le normali regole dei **Punti Armatura**.
 
-I giochi tradizionali OSR gestiscono gli oggetti magici aggiungendo +1 o +2 al tiro di attacco e Classe Armatura. Se il GM intende dare armature piu potenti (+2/3) ai giocatori di alto livello, considerare con attenzione il triplicare i **Punti Armatura**.
+I giochi tradizionali OSR gestiscono gli oggetti magici aggiungendo +1 o +2 al tiro di attacco e Classe Armatura. Se il GM intende dare armature più potenti (+2/3) ai giocatori di alto livello, considerare con attenzione il triplicare i **Punti Armatura**.
 
 ----
 
@@ -261,7 +261,7 @@ I giochi tradizionali OSR gestiscono gli oggetti magici aggiungendo +1 o +2 al t
 
 ### Caratteristiche Speciali
 
-Una volta all'ora, pure in combattimento, il guerriero può riguadagnare un d8 di **HP** persi.
+Una volta all'ora, pure in combattimento, il guerriero può riguadagnare un d8 di  **HP** persi.
 
 Come parte di un'azione un guerriero può fare 1 attacco per livello.
 
@@ -298,7 +298,7 @@ Tirare per verificare se gli attributi aumentano, tirare due volte per **DEX** *
 
 - **HP Iniziali :** d8 + 4
 - **HP Per Livello/Riposo :** 1d8
-- **Armi e Armature :** Tutte le Armi Non da Taglio, Cotta Imbottira, Armatura di Pelle, Cotta di Maglia, Tutti gli Scudi
+- **Armi e Armature :** Tutte le Armi Non da Taglio, Cotta Imbottita, Armatura di Pelle, Cotta di Maglia, Tutti gli Scudi
 - **Danni Attacco :** 1d6 / 1d4 se Disarmato o Improvvisando
 
 ### Caratteristiche Speciali
@@ -350,15 +350,15 @@ I Maghi iniziano con un grande Libro di Magie contenente un totale di 1d4+2 inca
 
 Maghi e Chierici hanno l'abilità di lanciare incantesimi scelti appropriatamente dalla lista della loro Classe (nelle pagine seguenti).
 
-Possono lanciare qualunque Incantesimo conoscano leggendola dal loro Libro degli Incantesimi oppure memorizzare un numero di Incantesimi uguale al loro **Livello** e lanciarle senza Libro.
+Possono lanciare qualunque Incantesimo conoscano leggendola dal loro Libro degli Incantesimi oppure memorizzare un numero di Incantesimi uguale al loro  **Livello** e lanciarle senza Libro.
 
 Hanno un numero preciso di  'Spazzi Incantesimo' che possono lanciare ogni giorno - come visibile nelle tabelle seguenti. Queste rappresentano l'energia magica utilizzabile e la natura gravosa del lanciare Incantesimi per un periodo lungo di tempo. Quando gli spazzi magia terminano, non è più possibile per loro lanciare alcun Incantesimo.
 
-Quando un Incantesimo viene Lanciato il Chierico/Mago deve testare il suo **WIS/INT** - aggiungendo il livello dell'incantesimo al tiro. Se fallisce si riduce il numero di 'spazi incantesimo' corrispondenti al livello dell'incantesimo apena lanciato di 1. Quando un Incantesimo lanciato viene memorizzato esso non viene dimenticato.
+Quando un Incantesimo viene Lanciato il Chierico/Mago deve testare il suo  **WIS/INT** - aggiungendo il livello dell'incantesimo al tiro. Se fallisce si riduce il numero di 'spazi incantesimo' corrispondenti al livello dell'incantesimo appena lanciato di 1. Quando un Incantesimo lanciato viene memorizzato esso non viene dimenticato.
 
-Dopo all'incirca ***8 ore di riposo***, il nunero di 'spazzi incantesimo' di un personaggio vengono riportati al massimo possibile.
+Dopo all'incirca ***8 ore di riposo***, il numero di 'spazi incantesimo' di un personaggio vengono riportati al massimo possibile.
 
-Se una magia di un OSR tradizionale o di un un gioco originale dell'era richiede che la creatura tenti un tiro salvezza, il personaggio deve fare un test di **INT** o **WIS** - per vedere se l'evocazione magica è abbastanza potente per supereare le difese (ricordarso della regola degli **Avversari Potenti**).
+Se una magia di un OSR tradizionale o di un un gioco originale dell'era richiede che la creatura tenti un tiro salvezza, il personaggio deve fare un test di **INT** o **WIS** - per vedere se l'evocazione magica è abbastanza potente per superare le difese (ricordarsi della regola degli **Avversari Potenti**).
 
 ## Incantesimi giornalieri del Chierico
 
@@ -427,12 +427,12 @@ Nota: le colonne sono i *Livelli degli Incantesimi*, le linee sono i *Livelli de
 * **Creare Cibo/Acqua :** Crea abbastanza Cibo/Acqua per tutte le creature nelle vicinanze per un giorno.
 * **Curare Ferite Gravi :** Cura 3d8+3 HP ad un personaggio *Nelle Vicinanze*.
 * **Neutralizza Veleno :** Rimuove/Immunizza dai veleni un personaggio *Nelle Vicinanze* - 10 minuti.
-* **Protezione Dal Male :** Gli alleati *Nelle Vicinanze* gudagnano 6 *Punti Armatura* temporaneamente contro le creature del Male - 10 minuti.
+* **Protezione Dal Male :** Gli alleati *Nelle Vicinanze* guadagnano 6 *Punti Armatura*  temporaneamente contro le creature del Male - 10 minuti.
 
 **5**
 
 * **Entrare In Contatto :** La Divinità del Chierico risponde in modo veritiero a 3 domande - 10 minuti.
-* **Disperdere il Male :** Rimuove un incantedimo Divino (del male) *Nelle Vicinanze*.
+* **Disperdere il Male :** Rimuove un incantesimo Divino (del male) *Nelle Vicinanze*.
 * **Tocco della Morte :** Scegli un bersaglio *Nelle Vicinanze* ed effettua un test con la sua **WIS**, se hai successo il personaggio è OofA (Fuori Gioco).
 * **Peste :** Effettua un test di **WIS** per tutte le creature *Nelle Vicinanze*, queste perdono 2d8 HP per i successivi 1d6 turni.
 * **Ricerca :** Costringi una creatura *Nelle Vicinanze* ad obbedire ad un tuo ordine.
@@ -450,7 +450,7 @@ Nota: le colonne sono i *Livelli degli Incantesimi*, le linee sono i *Livelli de
 **7**
 
 * **Servo Volante :** Evoca un servitore per recuperare un oggetto distante.
-* **Incantesimo Astrale :** Proietta un avatar dell'evocatorein un altro piano di esistenza da lui scelto - 1 ora.
+* **Incantesimo Astrale :** Proietta un avatar dell'evocatore in un altro piano di esistenza da lui scelto - 1 ora.
 * **Controllo del Tempo :** Controlla il tempo *Nelle Vicinanze* in tutti i modi - 10 minuti.
 * **Terremoto :** Effettua un test su **WIS** per tutte le creature *Nelle Vicinanze*, quelli che hanno successo mandano le creature OofA (Fuori Gioco).
 * **Parola Sacra :** Le creature *Nelle Vicinanze* fino a 5HD muoiono, da 6HD a 10HD vengono paralizzate per 1d4 turni.
@@ -461,8 +461,8 @@ Nota: le colonne sono i *Livelli degli Incantesimi*, le linee sono i *Livelli de
 
 **1**
 
-* **Fascino :** Un bersaglio *Nelle Vicinanze* obbedisce ai comandi. Fai un test sulla **WIS** ogni turno per verificare che l'effettuo prosegua.
-* **Rintraccia Magia :** Tutto ciò che è magico Nelle Vicinanze* brilla - 5 miuti.
+* **Fascino :** Un bersaglio *Nelle Vicinanze* obbedisce ai comandi. Fai un test sulla  **WIS** ogni turno per verificare che l'effettuo prosegua.
+* **Rintraccia Magia :** Tutto ciò che è magico Nelle Vicinanze* brilla - 5 minuti.
 * **Luce :** Crea una luce fioca da un punto o un oggetto Nelle Vicinanze* - 1 ora.
 * **Missile Magico :** Un bersaglio *Nelle Vicinanze*, Lontano, o Distante riceve 1d4 danni/livello.
 * **Scudo :** Guadagna 2 Punti Armatura / livello.
@@ -471,10 +471,10 @@ Nota: le colonne sono i *Livelli degli Incantesimi*, le linee sono i *Livelli de
 **2**
 
 * **Oscurità :** Crea un'oscurità che copre un'area *Nelle Vicinanze* che blocca ogni tipo di visione - 1hr.
-* **Invisibilità :** Una creatura *Nelle Vicinanze* è resa Invisibile finchè non attacca o viene elimianto l'incantesimo.
+* **Invisibilità :** Una creatura *Nelle Vicinanze* è resa Invisibile finché non attacca o viene eliminato l'incantesimo.
 * **Bussare :** Una porta o serratura *Nelle Vicinanze* viene aperta.
 * **Levitare :** L'incantatore fluttua nell'aria fino a 2 metri da terra - 10 minuti/livello.
-* **Rete :** Intrapola in una zona *Nelle Vicinanze*, impedendo il movimento. Effettua un test su **WIS** ogni ora per vedere se l'effetto persiste.
+* **Rete :** Intrappola in una zona *Nelle Vicinanze*, impedendo il movimento. Effettua un test su **WIS** ogni ora per vedere se l'effetto persiste.
 
 **3**
 
@@ -488,9 +488,9 @@ Nota: le colonne sono i *Livelli degli Incantesimi*, le linee sono i *Livelli de
 
 * **Confusione :** 2d6 bersagli *Nelle Vicinanze* fanno immediatamente un *Tiro di Reazione.
 * **Porta Dimensionale :** Teletrasporta un bersaglio in un posto *Lontano*.
-* **Metamorfosi di Se/Altri :** Trasforma una cretura facendola sembrare come un'altra.
+* **Metamorfosi di Se/Altri :** Trasforma una creatura facendola sembrare come un'altra.
 * **Rimuove Maledizione :** Rimuove una maledizione da un bersaglio nelle vicinanze.
-* **Muro di Fuoco/Ghiaccio :** Il muro ricopre un'area *Nelle Vicinanze*, test su **WIS** per attaccare un bersaglio *Nelle Vicinanze* (3d6) - 10 minuti.
+* **Muro di Fuoco/Ghiaccio :** Il muro ricopre un'area *Nelle Vicinanze*, test su **WIS**  per attaccare un bersaglio *Nelle Vicinanze* (3d6) - 10 minuti.
 * **Muro di Pietra/Ferro :** Un muro che copre un'area *Nelle Vicinanze* - 1hr.
 
 **5**
@@ -505,7 +505,7 @@ Nota: le colonne sono i *Livelli degli Incantesimi*, le linee sono i *Livelli de
 
 **6**
 
-* **Guscio Anti Magia :** Crea una zona Nelle Vicianze intorno al Mago che blocca qualunque magia.
+* **Guscio Anti Magia :** Crea una zona *Nelle Vicinanze* intorno al Mago che blocca qualunque magia.
 * **Incantesimo di Morte :** 2d8 bersagli *Nelle Vicinanze* con 7HD o meno muoiono.
 * **Disintegrare :** Trasforma un bersaglio o un oggetto *Nelle Vicinanze* in fine polvere.
 * **Inseguitore Invisibile :** Evoca un Mostro Extra-Dimensionale per fargli effettuare un compito.
@@ -522,13 +522,13 @@ Nota: le colonne sono i *Livelli degli Incantesimi*, le linee sono i *Livelli de
 | Creatura          |   HD    | Azioni e speciali |
 |:------------------|:-------:|:------------------|
 | Scarafaggio di Fuoco       |    1    | Le ghiandole di Fuoco hanno un Dato Utilizzo di d8.  |
-| Pipistrello Vampiro Gigante |    1    | 1d6 danni il **Momento** successico all'attacco. |
+| Pipistrello Vampiro Gigante |    1    | 1d6 danni il **Momento** successivo all'attacco. |
 | Centipete Mortale  |    1    | Morso (0) più test su **CON** oppure Fuori Gioco (OofA) - ha solo 1-2hp. |
 | Demone Criniera       |    1    | 2 Artigli (1d2) + 1 Morso (1d4), Danno dimezzato con armi non magiche |
 | Goblin            |    1    | Ha solo 1d6 hp.     |
 | Hobgoblin         |    1    | Di solito ha uno scudo di riserva se il primo si rompe. |
 | Berserker Umano  |    1    | Svantaggio sui tiri di difesa quando il Berserker attacca.  |
-| Formica Gigante Guerriera |    2    | Morso Velenoso (1d6) + test su **CON**oppure aggiungi 2d6 danni all'attacco. |
+| Formica Gigante Guerriera |    2    | Morso Velenoso (1d6) + test su **CON** oppure aggiungi 2d6 danni all'attacco. |
 | Carogna di Creeper   |    2    | Morso (1) + 6 Tentacoli (0) + test su **CON** o Paralizzato. |
 | Ghoul             |    2    | 2 artigli (1d3) + 1 morso (1d4) + test su **CON** o Paralizzato.  |
 | Sanguisuga Gigante  |    2    | Succhia un Livello il momento successivo ad aver colpito.  |
@@ -554,7 +554,7 @@ Nota: le colonne sono i *Livelli degli Incantesimi*, le linee sono i *Livelli de
 | Spettro |    8    | Un personaggio ucciso da uno Spettro diventa uno Spettro a sua volta in 1d6 minuti.  |
 | Chimera           |    8    | 2 Artigli (1d3) + 2 Corna di Capra (1d4) + 1 Morso di Leone (2d4) + 1 Morso del Drago (3d4) o Respiro di Fuoco come Dragone (3d8). |
 | Demone Balor       |    9    | Spada (1d12+2) + Frusta (0) test di **DEX** o essere trascinati vicino a Balor bruciati di 3d6 danni dal fuoco.|
-| Demone Hezrou      |    9    | 2 Artigli (1d3) + 1 morso (2d8), Causa Paura (come per Cacciare) o Oscurità (magia) - ogniuno, una volta per combattimento.|
+| Demone Hezrou      |    9    | 2 Artigli (1d3) + 1 morso (2d8), Causa Paura (come per Cacciare) o Oscurità (magia) - ognuno, una volta per combattimento.|
 | Sanguinaccio     |   10    | Gli oggetti metallici che lo toccano si sciolgono il momento successivo.|
 | Gigante del Gelo       |   10    | Lancia massi o pezzi di ghiaccio giganti.|
 | Golem di Pietra       |   12    | Funzionano solo le magie che colpiscono la pietra o i massi, le armi devono avere +2 o meglio per danneggiarlo. |
@@ -580,22 +580,22 @@ Nota: le colonne sono i *Livelli degli Incantesimi*, le linee sono i *Livelli de
 **DM :** Esattamente.  
 **Conjurer :** Dannazione, ho fallito.  
 **DM :** Sfortuna! Al di là delle sbarre di ferro piegate c'è un tunnel fognario lungo e scuro che porta in profondità. Che cosa volete fare?  
-**Warrior :** Eploriamo giù dal tunnel..?  
+**Warrior :** Esploriamo giù dal tunnel..?  
 **Thief :** Concordo! Mi muovo avanti in modo furtivo.  
-**Conjurer :** E io proteggo dale retrovie!  
+**Conjurer :** E io proteggo dalle retrovie!  
 **DM :** Ok Thief, ti muovi giù dal tunnel, sempre vicino ai tuoi amici, per favore fai un test di Destrezza per vedere quanto sei silenzioso - ricorda che ottieni un Vantaggio sui test quando ti muovi in modo Furtivo, tira due d20 e scegli il risultato che preferisci.  
-**Thief :** \*tira\* nonostrante abbia tirato due dadi ho ottenuto un 17 e un 19. Quali sono le probabilità?  
+**Thief :** \*tira\* nonostante abbia tirato due dadi ho ottenuto un 17 e un 19. Quali sono le probabilità?  
 **DM :** Aiiaaa. Fai così tanto rumore muovendoti in modo furtivo che un Ghoul che si nasconde nell'oscurità vicino a te salta fuori ed attacca!  
 **Thief :** Schifoso!  
 **DM :** Tempo di Iniziativa! Tutti lancino per la loro Destrezza, il successo significa che agite prima del Ghoul, fallire significa che agite dopo. Thief tu fai il test con Svantaggio.  
-**Warrior :** Io vado prima. 
-**Conjurer :** Io vado dopo. 
+**Warrior :** Io vado prima.  
+**Conjurer :** Io vado dopo.  
 **DM :** Thief?  
-**Thief :** QUanto tempo ci va prima di creare un nuovo personaggio? I vado dopo.  
-**Warrior :** Voglio correre giu per il cunicolo e distruggere il Ghoul con il mio Spadone.  
+**Thief :** Quanto tempo ci va prima di creare un nuovo personaggio? I vado dopo.  
+**Warrior :** Voglio correre giù per il cunicolo e distruggere il Ghoul con il mio Spadone.  
 **DM :** Ok Warrior, ti muovi vicino al Ghoul. Fai il test della Forza **STR** per vedere se lo colpisci, devi aggiungere +1 al tiro, visto che il Ghoul è un Avversario Potente.  
 **Warrior :** \*tira\* Ho fatto un 7! \*tira di nuovo\* Quindi sono 8HP di danno.  
-**DM :** Bel Colpo! Ora è il turno del Ghoul. Thief del di Destrezza **Dex** per cercare di difenderti dalla paralisi, dagli artigli e dal morso. Ricorda il +1.  
+**DM :** Bel Colpo! Ora è il turno del Ghoul. Thief vai di Destrezza **Dex** per cercare di difenderti dalla paralisi, dagli artigli e dal morso. Ricorda il +1.  
 **Thief :** \*tira\* Ops! 18.  
 **DM :** Oh caro. Senti una dolorosa sensazione di torpore che corre lungo tutto il tuo corpo. Test di Costituzione, se fallisci il Ghoul ti paralizza.  
 **Thief :** \*tira\* Devo aggiungere +1 anche a questo tiro?  
