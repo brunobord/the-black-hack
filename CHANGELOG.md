@@ -1,5 +1,9 @@
 # Changelog
 
+## master (unreleased)
+
+* started a small checklist on how to contribute (#37)
+
 ## 2.1.0 (2016-08-13)
 
 * tiny typo fix in english "additional things".
