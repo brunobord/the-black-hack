@@ -5,7 +5,7 @@ pages:
         author: Bruno Bord
         version: '1.0'
     -
-        label: Trucs en plus (trad. "Additional Things")
+        label: Trucs en plus ("Additional Things")
         author: Bruno Bord
         version: '1.0'
         filename: additional-things.md
