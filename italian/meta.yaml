@@ -1,11 +1,11 @@
-label: English
+label: Italiano
 pages:
     -
         label: The Black Hack
-        author: David Black
-        version: '1.2'
+        author: Fabio Gemesio
+        version: '1.0'
     -
         label: Additional Things
-        author: David Black
+        author: Fabio Gemesio
         version: '1.0'
         filename: additional-things.md
