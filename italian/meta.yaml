@@ -5,7 +5,7 @@ pages:
         author: Fabio Gemesio
         version: '1.0'
     -
-        label: Additional Things
+        label: Cose Addizionali ("Additional Things")
         author: Fabio Gemesio
         version: '1.0'
         filename: additional-things.md
