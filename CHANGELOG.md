@@ -1,11 +1,11 @@
 # Changelog
 
-## master (unreleased)
+## 2.2.0 (2016-09-02)
 
-* Started a small checklist on how to contribute (#37).
 * Italian translation of *The Black Hack* and *Additional Things* by Fabio Gemesio (#35).
-* Little cleanup in `meta.yml` - french and italian (#38).
 * Updated Japanese translation, fixing typos and errors (#36).
+* Little cleanup in `meta.yml` - french and italian (#38).
+* Started a small checklist on how to contribute (#37).
 * Fixed word-wrap issue with Japanese bestiary table (#39).
 
 ## 2.1.0 (2016-08-13)
