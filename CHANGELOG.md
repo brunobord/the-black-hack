@@ -1,5 +1,9 @@
 # Changelog
 
+## master (unreleased)
+
+* Fix the Italian "Cockatrice" translation (#40).
+
 ## 2.2.0 (2016-09-02)
 
 * Italian translation of *The Black Hack* and *Additional Things* by Fabio Gemesio (#35).
