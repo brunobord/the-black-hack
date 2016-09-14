@@ -525,40 +525,40 @@ Nota: as colunas são *nível de espaço de magia*, linhas são *nível de perso
 | Besouro de Fogo           |    1   | Glândulas luminosas têm um dado de uso de d8.                                                                                                          |
 | Morcego Vampiro Gigante   |    1   | dano de 1d6 no momento seguinte ao ataque.                                                                                                             |
 | Centopeia Mortal          |    1   | Mordida (0) mais teste de CON ou ‘FdA’ - tem apenas 1-2 PV.                                                                                            |
-| Demônio Manes             |    1   | 2 Garras (1d2) + 1 Mordida (1d4), Recebe metade do dano proveniente de armas não mágicas.                                                              |
+| Demônio Manes             |    1   | 2 Garras (1d2) + 1 Mordida (1d4), Recebe metade do dano causado por armas não mágicas.                                                                 |
 | Goblin                    |    1   | Tem apenas 1d6 PV.                                                                                                                                     |
-| Hobgoblin                 |    1   | Geralmente tem um escudo reserva se um for quebrado.                                                                                                   |
+| Hobgoblin                 |    1   | Geralmente tem um escudo reserva se o principal for quebrado.                                                                                          |
 | Berserker Humano          |    1   | Desvantagem em jogada de defesa quando o Berserker ataca.                                                                                              |
-| Formiga Gigante Guerreira |    2   | Mordida Venenosa (1d6) + teste de CON ou causar mais 2d6 de dano com o ataque.                                                                         |
+| Formiga Gigante Guerreira |    2   | Mordida Venenosa (1d6) + Teste de CON ou causar mais 2d6 de dano com o ataque.                                                                         |
 | Verme da Carniça          |    2   | Mordida (1) + 6 Tentáculos (0) + Teste de CON ou ficar Paralisado.                                                                                     |
 | Ghoul                     |    2   | 2 Garras (1d3) + 1 Mordida (1d4) + Teste de CON ou ficar Paralisado.                                                                                   |
 | Sanguessuga Gigante       |    2   | Drena um Nível um Momento após causar o dano.                                                                                                          |
-| Bugbear                   |    3   | Todos os testes de DES são rolados com Desvantagem.                                                                                                    |
+| Bugbear                   |    3   | Todos os testes de DES têm com Desvantagem.                                                                                                            |
 | Harpia                    |    3   | Canção - teste de CAR ou os PJs movem-se em direção a ela.                                                                                             |
 | Homem rato                |    3   | Não é possível ter Vantagem ao tentar surpreender um Homem rato.                                                                                       |
 | Sombra                    |    3   | Toque (1d4 e -1 FOR), só é ferida por armas mágicas.                                                                                                   |
 | Doppelganger              |    3   | Alterar a forma em um momento, desvantagem contra testes de magia.                                                                                     |
 | Inumano                   |    3   | Só podem ser atingidos por armas mágicas ou de prata Drena 1 Nível quando acerta.                                                                      |
 | Cão teleportador          |    4   | Teleporta-se para um local próximo uma vez por luta.                                                                                                   |
-| Urso pardo                |    4   | 2 Garras (1d3) + se as duas acertarem abraçar e causar mais 1d8 de dano.                                                                               |
+| Urso pardo                |    4   | 2 Garras (1d3) + se as duas garras acertarem abraçar e causar mais 1d8 de dano.                                                                        |
 | Gárgula                   |    4   | 2 Garras (1d3) + 1 Mordida (1d4) + 1 chifre (1d6).                                                                                                     |
 | Cubo Gelatinoso           |    4   | Se tocar, realizar um teste de CON ou ficar Paralisado, imune a frio e relâmpago.                                                                      |
 | Lobisomem                 |    4   | Só pode ser ferido por armas de prata.                                                                                                                 |
 | Ogro                      |    4   | Concede vantagem em todos os testes de CAR feitos contra ele.                                                                                          |
-| Cocatrice                 |    5   | Mordida (1d3) e teste de CON ou Petrificação.                                                                                                          |
+| Cocatrice                 |    5   | Mordida (1d3) + Teste de CON ou Petrificação.                                                                                                          |
 | Urso coruja               |    5   | 2 Garras (1d6) + 1 Mordida (2d6) + Abraço causando 2d8 de dano se a jogada de ataque for 1-4.                                                          |
-| Basilisco                 |    6   | Teste de CON em contato visual ou ser petrificado.                                                                                                     |
+| Basilisco                 |    6   | Se houver contato visual Teste de CON ou ser Petrificado                                                                                               |
 | Succubus/Incubus          |    6   | 2 Garras (1d3), Vantagem em testes de magia, imune a armas não mágicas, drena nível (-1) com beijo. Pode conjurar Enfeitiçar (magia) uma vez por hora. |
 | Múmia                     |    6   | Ataques interrompem a cura natural até que curar ferimentos seja aplicado, imune a armas normais, metade do dano de armas mágicas.                     |
 | Banshee                   |    7   | Guincho - teste de CON ou Paralisia por 2d6 momentos.                                                                                                  |
 | Gênio                     |    7   | Pode assumir forma Gasosa, Criar Objetos, Criar Ilusões, Conjurar Invisibilidade (magia) como uma ação.                                                |
 | Espectro                  |    8   | Uma pessoa morta por um Espectro torna-se um Espectro em 1d6 minutos.                                                                                  |
 | Quimera                   |    8   | 2 Garras (1d3) + 2 Chifres de bode (1d4) + 1 Mordida de Leão (2d4) + 1 Mordida de Dragão (3d4) ou Baforada de fogo como um Dragão (3d8).               |
-| Demônio Balor             |    9   | Espada (1d12+2) + Chicote (0) teste de DES ou ser puxado para Perto do Balor e queimar com 3d6 dano por fogo.                                          |
+| Demônio Balor             |    9   | Espada (1d12+2) + Chicote (0) + Teste de DES ou ser puxado para Perto do Balor e queimar com 3d6 dano por fogo.                                        |
 | Demônio Hezrou            |    9   | 2 Garras (1d3) + 1 Mordida (2d8), Causar Medo (como em Banir) ou Escuridão (magia) - cada um uma vez por luta.                                         |
 | Pudim Negro               |   10   | Objetos de Metal que tocam-no são derretidos no próximo momento.                                                                                       |
 | Gigante do Gelo           |   10   | Arremessa grandes pedregulhos ou grandes blocos de gelo.                                                                                               |
-| Gigante de Pedra          |   12   | Apenas magias que afetam pedra ou trabalho em pedra, armas devem ser +2 ou melhores para causar dano a ele.                                            |
+| Gigante de Pedra          |   12   | Apenas magias que afetam pedra ou objetos de pedra, armas devem ser +2 ou melhores para causar dano a ele.                                             |
 | Lesma Gigante             |   12   | Cuspir Ácido - d4+2 alvos próximos (1d12) teste de DES para 1/2 do dano.                                                                               |
 | Dragão                    | 9 a 11 | 2 Garras (1d8) + Mordida (1d10), Baforada de fogo - d4+2 alvos próximos (3d8) Pode conjurar 1d4 magias de nível 1 + 1d2 magias de nível 2.             |
 
