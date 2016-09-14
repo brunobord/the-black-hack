@@ -1,0 +1,11 @@
+label: Português Brasileiro
+pages:
+    -
+        label: The Black Hack
+        author: Fernando Guedes
+        version: '1.2'
+    -
+        label: Additional Things
+        author: Fernando Guedes
+        version: '1.0'
+        filename: additional-things.md
