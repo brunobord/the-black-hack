@@ -40,7 +40,7 @@ Todo novo personagem começa com 3d6 x 10 moedas com as quais podem comprar seus
 
 ## Pontos de Armadura
 
-Armadura fornece proteção reduzindo dano recebido. Cada tipo reduz o dano por uma quantia limitada. **Pontos de Armadura** são recuperados quando um personagem descansa. Uma vez que o jogador ou monstro tenha utilizado sua armadura para absorver todo o dano permitido, ficam muito cansados ou feridos para utilizar o equipamento de forma eficaz – por isso começam a receber todo o dano.
+Armadura fornece proteção reduzindo dano recebido. Cada tipo reduz o dano por uma quantia limitada. **Pontos de Armadura** são recuperados quando um personagem descansa. Se um PJ ou monstro usa sua armadura pra absorver todo o dano permitido, estará muito cansado ou ferido para utilizar o equipamento de forma eficaz – a partir daí, recebem todo o dano.
 
 |      Tipo      | Pontos |
 |:--------------:|:------:|
@@ -102,11 +102,11 @@ The Black Hack não possui jogadas de proteção. Ao invés disso, o jogador dev
 
 ## Turno dos jogadores
 
-Durante a rodada de um jogador, um personagem pode mover-se e executar uma ação. Eles podem atacar, procurar uma pista, conversar com um NPC, conjurar um feitiço – interagir com o mundo é uma ação. Frequentemente eles testarão seus atributos para determinar o resultado.
+Durante o turno de um jogador, um personagem pode mover-se e executar uma ação. Ele pode atacar, procurar uma pista, conversar com um PNJ, conjurar um feitiço – interagir com o mundo é uma ação. Frequentemente ocorrerão testes de atributos para definir o que acontece.
 
 ## Tempo & turnos
 
-Há dois tipos importante de tempo considerado - **Momentos** (*rodadas*) e **Minutos** (*turnos*). **Momentos** são utilizados durante combate e cenas rápidas de perigo e **Minutos** para exploração e aventura. Um MJ pode alterar essa percepção conforme a necessidade trocando **Minutos** por **Horas**, **Dias** ou até mesmo **Meses** se houver essa necessidade na aventura.
+Há dois tipos importante de tempo considerado - **Momentos** (*rodadas*) e **Minutos** (*turnos*). **Momentos** são utilizados durante combate e cenas rápidas de perigo e **Minutos** para exploração e aventura. O MJ pode alterar essa percepção conforme a necessidade trocando **Minutos** por **Horas**, **Dias** ou até mesmo **Meses** se houver essa necessidade na aventura.
 
 ## Movimento & distância
 
@@ -167,7 +167,7 @@ Quando um personagem é reduzido a zero **Pontos de Vida (PV)** é colocado **Fo
 
 ## Adversários poderosos
 
-Para cada **DV** acima do nível de um personagem, somar +1 a toda jogada que o mesmo realizar para qualquer teste de atributo que determine o resultado de um conflito entre o próprio e o NPC. *- Um personagem de nível 3 defendendo-se de ataques de monstros com 5 DV soma +2 a sua jogada*.
+Para cada **DV** acima do nível de um personagem, somar +1 a toda jogada que o mesmo realizar para qualquer teste de atributo que determine o resultado de um conflito entre o próprio e o PNJ. *- Um personagem de nível 3 defendendo-se de ataques de monstros com 5 DV soma +2 a sua jogada*.
 
 ## Cura
 
@@ -184,7 +184,7 @@ Personagens podem receber Pontos de Vida de Feitiços, Poções, e Habilidades. 
 
 ## Vantagem e desvantagem
 
-Um MJ pode decidir que uma ação ou tarefa tenha chances maiores ou menores de sucesso. Nesse caso pede-se ao jogador que role um d20 adicional quando realizar o teste. Com **Vantagem** utiliza-se o menor resultado e com **Desvantagem**, o maior.
+O MJ pode decidir que uma ação ou tarefa tenha chances maiores ou menores de sucesso. Nesse caso pede-se ao jogador que role um d20 adicional quando realizar o teste. Com **Vantagem** utiliza-se o menor resultado e com **Desvantagem**, o maior.
 
 ## Descanso
 
@@ -216,7 +216,7 @@ O MJ deve rolar um d4 a cada 15 minutos de tempo real (você *está* prestando a
 
 ## Reações de criaturas
 
-Alguns monstros e NPCs terão personalidades predeterminadas e objetivos que orientarão o MJ a escolher suas ações e sentimentos em relação aos personagens. Aqueles que não tiverem, como criaturas de encontros aleatórios, fazem uma **Jogada de reação** na seguinte tabela:
+Alguns monstros e PNJs terão personalidades predeterminadas e objetivos que orientarão o MJ a escolher suas ações e sentimentos em relação aos personagens. Aqueles que não tiverem, como criaturas de encontros aleatórios, fazem uma **Jogada de reação** na seguinte tabela:
 
 | Rolagem | Reação                          |
 |:--------|:--------------------------------|
@@ -231,7 +231,7 @@ Alguns monstros e NPCs terão personalidades predeterminadas e objetivos que ori
 
 ## Banir mortos-vivos
 
-Clérigos podem tentar banir todos os mortos-vivos que estiverem perto utilizando uma ação. Eles devem passar em um teste de **SAB** para cada grupo de criaturas que tentarem banir, adicionando o **DV** da criatura à jogada. Um MJ determinará que criaturas pertencem a cada grupo particular.
+Clérigos podem tentar banir todos os mortos-vivos que estiverem perto utilizando uma ação. Eles devem passar em um teste de **SAB** para cada grupo de criaturas que tentarem banir, adicionando o **DV** da criatura à jogada. O MJ determinará que criaturas pertencem a cada grupo particular.
 
 Monstros mortos-vivos que são **Banidos** por Clérigos devem gastar todo o seu movimento (e converter ações em movimentos) para fugir para longe do Clérigo por 2d4 **Momentos** após serem **Banidos**.
 
@@ -322,7 +322,7 @@ Clérigos iniciam com um grande Livro de Magias contendo um total de 1d4 magias 
 
 ----
 
-## Feiticeiro
+## Conjurador
 
 **PV Inicial :** d4 + 4
 **PV Por Nível/Descansando :** 1d4
@@ -339,31 +339,31 @@ Role para ver se os atributos aumentam, role duas vezes para **INT** *ou* **SAB*
 
 ### Conjuração Arcana
 
-Feiticeiros podem conjurar um número de Magias Arcanas por dia, ver a seção de Conjuração.
+Conjuradores podem conjurar um número de Magias Arcanas por dia, ver a seção de Conjuração.
 
 ### Livro de Magias
 
-Feiticeiros iniciam com um grande Livro de Magias contendo um total de 1d4+2 magias da lista de Conjuração Arcana de níveis 1 e 2.
+Conjuradores iniciam com um grande Livro de Magias contendo um total de 1d4+2 magias da lista de Conjuração Arcana de níveis 1 e 2.
 
 -----
 
 ## Conjuração
 
-Feiticeiros e Clérigos possuem a habilidade de conjurar magias que são escolhidas de sua lista de classe apropriada (nas páginas seguintes).
+Conjuradores e Clérigos possuem a habilidade de conjurar magias que são escolhidas de sua lista de classe apropriada (nas páginas seguintes).
 
 Eles podem conjurar qualquer magia lendo de seu livro de magias ou podem memorizar uma quantidade de magias igual ao seu **Nível** e conjurá-las sem ter que ler.
 
-Eles possuem um número de ‘espaços de magia’ (*spell slots*) que podem utilizar diariamente - conforme mostrado nas duas tabelas a seguir. Esse valor representa a ‘energia’ do conjurador e como é desgastante conjurar magias durante um longo período. Quando os ‘espaços de magia’ se esgotam, não é mais possível conjurar magias.
+Eles possuem um número de ‘cargas mágicas’ (*spell slots*) que podem utilizar diariamente - conforme mostrado nas duas tabelas a seguir. Esse valor representa a ‘energia’ do conjurador e como é desgastante conjurar magias durante um longo período. Quando as ‘cargas mágicas’ se esgotam, não é mais possível conjurar magias.
 
-Uma vez que uma magia seja conjurada, o Clérigo/Feiticeiro deve testar sua **SAB/INT** - somando o nível da magia à jogada. Se falharem, reduzem o número de ‘espaços de magia’ correspondente ao nível da magia que acabaram de conjurar em 1. Quando uma magia memorizada é conjurada, não é esquecida.
+Uma vez que uma magia seja conjurada, o Clérigo/Conjurador deve testar sua **SAB/INT** - somando o nível da magia à jogada. Se falharem, reduzem o número de ‘cargas mágicas’ correspondente ao nível da magia que acabaram de conjurar em 1. Quando uma magia memorizada é conjurada, não é esquecida.
 
-Após aproximadamente ***8 horas de descanso***, a quantidade de ‘espaços de magia’ de um personagem volta ao seu valor máximo.
+Após aproximadamente ***8 horas de descanso***, a quantidade de ‘cargas mágicas’ de um personagem volta ao seu valor máximo.
 
 Se uma magia de um jogo tradicional da era OSR pede que uma criatura realize uma jogada de proteção, o personagem deve testar sua **INT** ou **SAB** - para ver se a conjuração foi poderosa o suficiente para vencer sua resistência (lembre-se da regra de **Adversários Poderosos**).
 
 ## Magias clericais diárias
 
-Nota: as colunas são *nível de espaço de magia*, linhas são *nível de personagem*.
+Nota: as colunas são *nível de carga mágica*, linhas são *nível de personagem*.
 
 |    | *1* | *2* | *3* | *4* | *5* | *6* | *7* |
 |:---|:----|:----|:----|:----|:----|:----|:----|
@@ -380,7 +380,7 @@ Nota: as colunas são *nível de espaço de magia*, linhas são *nível de perso
 
 ## Feitiços diários
 
-Nota: as colunas são *nível de espaço de magia*, linhas são *nível de personagem*.
+Nota: as colunas são *nível de carga mágica*, linhas são *nível de personagem*.
 
 
 |    | *1* | *2* | *3* | *4* | *5* | *6* | *7* |
@@ -569,28 +569,28 @@ Nota: as colunas são *nível de espaço de magia*, linhas são *nível de perso
 **MJ :** Sim.
 **Ladrão :** Vou me mover até ela como minha ação e verificar se há armadilhas.
 **Guerreiro :** Se for seguro tentarei entortar as barras.
-**Feiticeiro :** E eu conjurarei Luz no meu cajado.
+**Conjurador :** E eu conjurarei Luz no meu cajado.
 **MJ :** Ok, Ladrão, teste sua Sabedoria rolando um d20 abaixo de seu atributo SAB - para verificar se há armadilhas na porta.
 **Ladrão :** \*rola o dado\* Consegui!
 **MJ :** Você tem certeza de que não há nada pra te machucar ali, Guerreiro, você ainda quer entortar as barras? Se sim, teste sua Força!
 **Guerreiro :** \*rola o dado\* Essa foi fácil!
-**MJ :** Muito bem, agora Feiticeiro, você conjura Luz no seu cajado. É uma magia de nível 1 certo?
-**Feiticeiro :** Aham.
-**MJ :** Ok, então teste sua Inteligência e some 1 à sua jogada no d20, se você falhar, perderá um espaço de magia de nível um pelo resto do dia.
-**Feiticeiro :** \*rola o dado\* Eu tenho que rolar abaixo e não abaixo ou igual certo?
+**MJ :** Muito bem, agora Conjurador, você conjura Luz no seu cajado. É uma magia de nível 1 certo?
+**Conjurador :** Aham.
+**MJ :** Ok, então teste sua Inteligência e some 1 à sua jogada no d20, se você falhar, perderá uma carga mágica de nível um pelo resto do dia.
+**Conjurador :** \*rola o dado\* Eu tenho que rolar abaixo e não abaixo ou igual certo?
 **MJ :** Correto
-**Feiticeiro :** Maldição, Eu falhei.
+**Conjurador :** Maldição, Eu falhei.
 **MJ :** Azarado! Além das barras entortadas há um longo e escuro túnel de esgoto descendo profundamente. O que vocês querem fazer?
 **Guerreiro :** Explorar o túnel abaixo..?
 **Ladrão :** Concordo! Eu espreitarei à frente.
-**Feiticeiro :** E eu protegerei a retaguarda!
+**Conjurador :** E eu protegerei a retaguarda!
 **MJ :** Ok Ladrão, você desce pelo esgoto, ainda Próximo a seus amigos, por favor teste sua Destreza para ver o quão silencioso você está sendo - lembre-se que você tem Vantagem em testes de furtividade, role dois d20's e escolha o resultado que preferir.
 **Ladrão :** \*rola o dado\* apesar de rolar dois dados, tirei um 17 e um 19. Quais as más notícias?
 **MJ :** Hmm. Você fez tanto barulho tentando ser silencioso, um Ghoul escondido nas sombras perto de você avança e ataca!
 **Ladrão :** Maldito!
 **MJ :** Hora de iniciativa! Todo mundo testando sua Destreza, passar significa que vocês agem antes do Ghoul, falhar significa que vão depois. Ladrão, você rola com Desvantagem.
 **Guerreiro :** Eu vou antes.
-**Feiticeiro :** E eu depois.
+**Conjurador :** E eu depois.
 **MJ :** Ladrão?
 **Ladrão :** Quanto tempo pra eu poder rolar outro personagem? Eu vou depois.
 **Guerreiro :** Quero descer pelo esgoto e esmagar o Ghoul com minha Espada larga.
@@ -601,5 +601,5 @@ Nota: as colunas são *nível de espaço de magia*, linhas são *nível de perso
 **MJ :** Ah meu caro. Você sente uma sensação de dormência por todo o seu corpo. Teste sua Constituição, se você falhar, o Ghoul te paralisou.
 **Ladrão :** \*rola o dado\* Somo o +1 a isso também?
 **MJ :** Sim. Conjurador, você vê o Ladrão cair duro no chão, o que você faz?
-**Feiticeiro :** Vou começar a me afastar lentamente.
+**Conjurador :** Vou começar a me afastar lentamente.
 **Ladrão :** Te pego na próxima vida, seu idiota!

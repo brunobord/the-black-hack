@@ -6,15 +6,15 @@ v1.0
 
 ## Obrigado
 
-Posso assumir que se você está lendo isso, você apoiou o Kickstarter / Comprou um PDF da RPG.now. Então obrigado. Obrigado mesmo. Pode soar sarcástico, mas não é, Eu estou realmente grato. Aqui há um extra pra mostrar como eu aprecio todo o suporte que vocês têm dedicado ao TBH! Ah e se você não apoiou o Kickstarter / comprou o PDF Eu acho que deve ter pirateado de alguma forma. Sinceramente, estou lisonjeado que tenha se dado ao trabalho.
+Posso assumir que se você está lendo isso, você apoiou o Kickstarter / Comprou um PDF da RPG.now. Então obrigado, de verdade. Pode soar sarcástico, mas não é, eu estou realmente grato. O que segue é um material extra pra mostrar como eu aprecio todo o suporte que vocês têm dedicado ao TBH! Ah e se você não apoiou o Kickstarter / comprou o PDF então deve ter pirateado de alguma forma. Sinceramente, estou lisonjeado que tenha se dado ao trabalho.
 
 ## Regras alternativas
 
-**Outras Coisas** é uma coletânea de regras opcionais, anotações, sugestões e outras ideias que, por uma razão ou outra não foram incluídas no minilivro de regras do TBH. Principalmente por causa de espaço, e possivelmente porque elas são estúpidas - Você é quem vai decidir. Escolha as que quiser, se escolher alguma, pra incluir no seu jogo. Algumas dessas já apareceu no meu blog ou mídias sociais - mas é legal ter tudo organizado né?
+**Outras Coisas** é uma coletânea de regras opcionais, anotações, sugestões e outras ideias que, por uma razão ou outra não foram incluídas no minilivro de regras do TBH. Principalmente por causa de espaço, e possivelmente porque elas são estúpidas - Você é quem vai decidir. Escolha as que quiser, se é que vai escolher alguma, pra incluir no seu jogo. Algumas dessas já apareceram no meu blog ou mídias sociais - mas é legal ter tudo organizado né?
 
 ## Sobrecarga
 
-As regras existentes foram pensadas como uma forma rápida de simular o peso em conjunto com a dificuldade de carregar um monte de coisas. Se você procura mais profundidade/complicação utilize a seguinte modificação.
+As regras existentes foram pensadas como uma forma rápida de simular peso e a dificuldade de carregar um monte de coisas. Se você procura mais profundidade/complicação utilize a seguinte modificação.
 
 Todo item pode ter múltiplos rótulos da seguinte lista, para cada um desses o item pesa '1' a mais:
 
@@ -25,23 +25,23 @@ Todo item pode ter múltiplos rótulos da seguinte lista, para cada um desses o 
 * **Difícil** - Objetos que são difíceis de se armazenar e manusear, por exemplo coisas quentes ou perigosas.
 
 
-*Você notará que essa modificação vai punir os personagens bastante, e nem todo mundo aprecia os mecanismos de gerenciar equipamento. Se você utilizar isso, considere adicionar itens ao seu jogo que ignoram essas regras, fazendo esses itens mais desejáveis. Por exemplo Armadura de Placas e Malha sempre será Desajeitada e Pesada no meu jogo - então eu faria uma forjada por um especialista que não é Desajeitada, e uma forjada por um Mestre que não é nenhuma das duas coisas - tornando-a muito desejável.*
+*Perceba que essa modificação pune bastante os personagens, e nem todo mundo se diverte gerenciando equipamento. Se for utilizar essa regra, considere adicionar itens ao seu jogo que ignoram essas regras, fazendo esses itens mais desejáveis. Por exemplo Armadura de Placas e Malha sempre será Desajeitada e Pesada no meu jogo - então eu faria uma forjada por um especialista que não é Desajeitada, e uma forjada por um Mestre que não é nenhuma das duas coisas, ou seja, um item muito desejado.*
 
 
 ## Variação mágica
 
 Um toque ‘narrativo’ muito simples pode alterar dramaticamente a forma com que as magias são obtidas e tratadas.
 
-Cada magia é um item único. Assim como um item mágico ou relíquia ‘nomeados’, apenas uma instância da magia existe. Podem ser roubadas, esquecidas e redescobertas. Podem ser pesquisadas e localizadas - mas não pode haver mais de uma cópia daquela magia (em um livro) no mundo do jogo. Uma magia pode ser memorizada a partir do livro de outra pessoa - e conjurada e o conjurador testa sua **INT** normalmente, para saber se perdem a habilidade de conjurar uma magia daquele nível.
+Cada magia é um item único. Assim como um item mágico ou relíquia ‘nomeados’, apenas uma instância da magia existe. Podem ser roubadas, esquecidas e redescobertas. Podem ser pesquisadas e localizadas - mas não pode haver mais de uma cópia daquela magia (em um livro) no mundo do jogo. Uma magia pode ser memorizada a partir do livro de outra pessoa - e conjurada e o conjurador testa sua **INT** normalmente, para saber se perde um ‘espaco de magia’ daquele nível.
 
-*Essas alterações têm um impacto massivo na forma como usuários de magia avançam em poder - converse com seus jogadores antes de estragar sua diversão.*
+*Essas alterações impactam massivamente na forma como usuários de magia avançam em poder - converse com seus jogadores antes de estragar sua diversão.*
 
 
 ## Pânico e luz
 
 Quando explorar locais subterrâneos, a luz é muito importante. Se um personagem termina seu turno em um local de escuridão total, deve fazer um teste de **SAB** imediatamente. Se passar, pode continuar a agir normalmente, mas se falhar, eles entram em **Pânico!**
 
-No início do seu turno eles devem rolar na tabela de **Pânico!**, e no final de seu turno devem fazer um teste de **SAB** para superar e agir normalmente. Isso continua a acontecer até que ocorra um sucesso em um teste de **SAB**.
+No início do turno deve rolar na tabela de **Pânico!**, e no final do turno testar sua **SAB** para voltar a agir normalmente. Testar novamente em cada rodada até que passe no teste de **SAB**.
 
 |   | PANICO!                                                                             |
 |:-:|:------------------------------------------------------------------------------------|
@@ -52,39 +52,39 @@ No início do seu turno eles devem rolar na tabela de **Pânico!**, e no final d
 | 5 | **Vida diante dos olhos** - **CON** é reduzida em 2.                                |
 | 6 | **Ataque de Coração** - Colocado **Fora de Ação**.                                  |
 
-*Eu acho que regras de Pânico! são uma inclusão válida em qualquer cenário de exploração de subterrâneos - mas pode não ser para o gosto de todo mundo, e por isso foram deixadas de lado no livro de regras principal. De forma semelhante, se você não gosta do estilo ‘party game’ do resultado Atrapalhado, considere trocar por algo mais chato.*
+*Acho que regras de Pânico! são uma inclusão válida em qualquer cenário de exploração subterrânea - mas pode não agradar a todos, e por isso foram excluídas do livro de regras principal. Outra coisa, se você achar que a proposição do resultado **Atrapalhado** é muito ‘party game’, troque por algo mais chato.*
 
 ## Guerreiros mais fracos
 
-Originalmente, Guerreiros eram um pouco mais fracos, mas receberam um ‘buff’ de poder - baseado no parecer recebido no início do Kickstarter. Para retornar as regras ao que eram, considere que cada alvo adicional que eles atacam deve ser um novo alvo com DV menor ou igual que o do último.
+Originalmente, Guerreiros eram um pouco mais fracos, mas receberam um ‘boost’ de poder baseado no parecer recebido no início do Kickstarter. Para retornar as regras ao que eram, considere que cada alvo adicional que eles atacam deve ser um novo alvo com DV menor ou igual que o do último.
 
-*Isso reduz a quantidade de oportunidades de utilizar sua habilidade especial e força-o a espalhar o dano. Um alvo pode ser atacado duas vezes, mas deve-se alvejar outro adversário entre os ataques - isso impede totalmente os Guerreiros de nível alto de ‘descarregar o dano’ em apenas um alvo.*
+*Isso reduz a quantidade de oportunidades de utilizar essa habilidade especial e força que se distribua o dano. Um alvo pode ser atacado duas vezes, mas deve-se alvejar outro adversário entre os ataques - isso impede os Guerreiros de nível alto de causar ‘dano em massa’ em apenas um alvo.*
 
 ## Bloquear
 
-Uma vez por turno, quando um NPC faz um movimento para algum lugar **Próximo**, e no final do movimento estiverem **Perto** de um aliado - um personagem pode se mover e bloquear o caminho do NPC. O personagem *não* pode ter utilizado esse movimento nesse turno. Essa ação impede o NPC de atacar seu aliado, porém, provavelmente o NPC atacará quem o bloqueou.
+Uma vez por turno, quando um PNJ faz um movimento para algum lugar **Próximo**, e no final do movimento estiverem **Perto** de um aliado - um personagem pode se mover e bloquear o caminho do PNJ. O personagem *não* pode ter utilizado esse movimento nesse turno. Essa ação impede o PNJ de atacar seu aliado, porém, provavelmente o PNJ atacará quem o bloqueou.
 
-*Eu gosto de utilizar miniaturas ocasionalmente (quando eu posso estar cara a cara com um grupo.. Ai de mim!) Então às vezes é legal permitir algumas ações táticas durante o combate - para tirar vantagem desse ‘aspecto de wargame’ que pode ser legal em doses pequenas.*
+*Eu gosto de usar miniaturas ocasionalmente (quando posso estar cara a cara com um grupo.. Quem dera!) Então às vezes é bom ter algumas ações táticas durante o combate - para explorar esse ‘aspecto de wargame’ que pode ser divertido em pequenas doses.*
 
 ## Dinheiro
 
-O padrão de TBH é utilizar moedas genéricas que valem pouco dinheiro - permitindo ao MJ imprimir sua marca na campanha. Mas aqui está um toque interessante - quando jogadores pegarem dinheiro, eles não recebem um número fixo. Ao invés disso recebem um dado (d6).
+O padrão de TBH é utilizar moedas genéricas que valem pouco dinheiro - permitindo ao MJ personalizar sua campanha. Mas aqui está um toque interessante - quando jogadores pegarem dinheiro, eles não recebem um número fixo. Ao invés disso recebem um dado (d6).
 
 Eles podem contar as moedas rolando o dado, o que gasta uma ação (Máximo de 4 rolagens) e adicionar ao total de moedas que estão carregando.
 
 Para cada DV que uma criatura tem, ela carrega um d6 em moedas. Então um Rufião de nível 4 carregaria 4d6.
 
-*Essa é uma distração interessante, mas foi suprimida das regras principais por causa de espaço - Eu uso o tempo todo. Alguns jogadores gostam de contar todo o seu dinheiro assim que encontram; quando isso é uma quantia significativa de moedas (por exemplo no valor de 3d6) - isso é ok. Mas se for mais que isso, faça com que percebam que isso custará uma ação do seu turno - se quiserem fazer de forma precisa.*
+*Essa é uma brincadaira divertida, mas ficou fora das regras principais por causa de espaço - Porém, eu uso o tempo todo. Alguns jogadores gostam de contar todo o seu dinheiro assim que encontram; quando isso é uma quantia significativa de moedas (por exemplo no valor de 3d6) - isso é ok. Mas se for mais que isso, faça com que percebam que isso custará uma ação do seu turno - se quiserem fazer de forma precisa.*
 
-*De forma semelhante, se você realmente quer caprichar e tiver tempo/dinheiro, consiga quantos d6 você puder, pinte-os com spray de tinta dourada - então entregue como tesouro - os jogadores adoram!*
+*Se você realmente quer caprichar e tiver tempo/dinheiro, consiga quantos d6 você puder, pinte-os com spray de tinta dourada - então entregue como tesouro - os jogadores adoram!*
 
 ## Sorte
 
 Cada personagem é criado com um ponto de Sorte - eles podem gastá-lo em qualquer hora e rolar novamente qualquer dado, ou criar um fato de ficção que não envolva benefícios mecânicos diretos. A única forma de conseguir mais é ser recompensado pelo MJ - Eu distribuo para os meus jogadores quando eles se dão mal de verdade. Karma.
 
-*Você já sabe se gosta de sistemas de Sorte ou não, e esse aqui não é nada de novo ou genial.*
+*Você já deve saber se gosta ou não de sistemas de Sorte, e esse aqui não é novo nem genial.*
 
-## Falhando adiante
+## Falhar depois
 
 Se um jogador falha em uma jogada e o MJ sugere, eles devem tratar o resultado daquela ação como sucesso - mas devem aceitar um custo ou penalidade da lista abaixo, escolhidos e adaptados para se encaixar na narrativa pelo MJ.
 
@@ -98,19 +98,19 @@ Se um jogador falha em uma jogada e o MJ sugere, eles devem tratar o resultado d
 | Rolagens de 1-2 quando contar moedas são obviamente falsificações.                   |
 | +1 na próxima vez que o PJ rolar na tabela de **Fora de Ação**.                      |
 
-*Algumas pessoas abominam falhar adiante, Eu me vejo utilizando quando tenho jogadores focados na narrativa ou quando me sinto generoso e a situação é difícil - então alguns ganchos mecânicos são coisas úteis se preparadas com antecedência.*
+*Algumas pessoas abominam falhar depois, Eu uso quando tenho jogadores mais narrativos ou quando me sinto generoso e a situação é difícil - nesse caso é útil preparar alguns ganchos com antecedência.*
 
 ## Paralisia
 
-Alguns monstros no livro de regras principal farão com que os PJs sejam Paralisados. Enquanto estiver paralisado, um personagem não pode se mover, falar ou exercer nenhuma ação. No início de seu turno, um personagem pode fazer um teste de CON. Se suceder, não está mais paralisado e pode agir no restante do turno.
+Alguns monstros no livro de regras principal farão com que os PJs sejam Paralisados. Enquanto estiver paralisado, um personagem não pode se mover, falar ou exercer nenhuma ação. No início de seu turno, o personagem pode testar sua CON. Se passar, não está mais paralisado e pode agir no restante do turno.
 
-*Eu removi isso das regras por problemas de espaço, pensei que um MJ poderia inventar algo para lidar com ‘efeitos de status’, além disso, Clérigos têm vantagem em testes de CON. Você pode utilizar o mesmo estilo de regra para lidar com outros efeitos incapacitantes, Veneno, Fogo, Insanidade, Cegueira etc - apenas varie o atributo associado.*
+*Eu removi isso das regras por problemas de espaço, pensei que um MJ pode inventar algo para lidar com ‘efeitos de status’, além disso, Clérigos têm vantagem em testes de CON. Você pode utilizar o mesmo estilo de regra para lidar com outros efeitos incapacitantes, Veneno, Fogo, Insanidade, Cegueira etc - apenas varie o atributo associado.*
 
 ## Encontros aleatórios
 
 Um método alternativo para checar se há encontros aleatórios é rolar um d4 todas as vezes que os jogadores fizeram um barulho alto ou ficarem em uma área particularmente perigosa por mais de 5 **Minutos** (turnos). Resultados de 1 indicam um encontro aleatório.
 
-*Nem todo mundo gosta ou se lembra de rolar um dado a cada 15 minutos, essa versão provê uma aproximação bem menos rigorosa - devolvendo ao MJ algum controle.*
+*Nem todo mundo gosta ou se lembra de rolar um dado a cada 15 minutos, essa versão provê uma aproximação bem menos rigorosa - passando o controle ao MJ.*
 
 ## Moral
 
@@ -118,7 +118,7 @@ Se o número de adversários engajados em combate com os jogadores cair em 50% e
 
 Se um personagem passar em um teste de **CAR** os adversários quebrados tentarão fugir do combate assim que possível. Se eles tiverem um líder lutando entre eles, o teste de **CAR** é feito com **Desvantagem**.
 
-*Essa é uma regra bem estilo ‘wargame’, que soma um elemento tático interessante aos combates se você quiser. E lembre-se que caso a jogada de reação for favorável, não deve-se esquecer que os NPCs estavam tentando matar os jogadores momentos antes - faz sentido imaginar que agora eles implorem por suas vidas! Tudo isso deve servir apenas como um guia, recomenda-se que o MJ exerça seu ‘bom senso narrativo’.*
+*Essa é uma regra bem estilo ‘wargame’, que agrega um elemento tático interessante aos combates se você quiser. E lembre-se que se a jogada de reação for favorável, não se deve esquecer que os PNJs estavam tentando matar os jogadores momentos antes - faz sentido que agora eles implorem por suas vidas! Tudo isso deve servir apenas como um guia, o MJ deve exercer seu ‘bom senso narrativo’.*
 
 ## Fome & rações
 
@@ -138,7 +138,7 @@ De forma semelhante se um jogador é sortudo o suficiente para rolar 1 em um ata
 
 ## Armadura ‘melhor’
 
-Se você acha que o sistema de Armaduras atual é muito fraco - aqui está a primeira de duas alternativas.
+Se você acha o sistema de Armaduras oficial insuficiente, segue a primeira de duas alternativas.
 
 Pontos de Armadura (PA) reduzem o dano da mesma forma, porém eles não acabam - então cada acerto é subtraído pela quantia de PA. Todas as armaduras agora têm um Dado de Uso (DU) - *veja a tabela adiante*.
 
@@ -166,9 +166,9 @@ Se você gosta do sistema de Armadura atual, mas quer apenas aumentar um pouco a
 
 Dobrar Pontos de Armadura em tudo e remover a necessidade de descansar uma hora - faça com que os Pontos de Armadura recarreguem no final de uma luta. Simples.
 
-*As regras padrão de armadura atendem a uma atmosfera dura e mortal onde armadura é literalmente a diferença entre vida e morte, o tipo de encontros onde um punhado de PVs podem ser a escolha entre retroceder ou rolar na tabela de Fora de Ação - De acordo com o estilo OSR de jogo as consequências das escolhas dos jogadores são implacáveis.*
+*As regras padrão de armadura buscam criar um clima pesado e perigoso onde armadura é literalmente a diferença entre vida e morte, o tipo de encontros onde um punhado de PVs pedem a escolha entre retroceder ou rolar na tabela de Fora de Ação - Seguindo o espírito OSR de jogo, as consequências das escolhas dos jogadores são implacáveis.*
 
-*Considere que uma criatura de DV 1 causa apenas d4 (2) pontos de dano, então como ela machucaria um herói vestindo Cota de Malha ou Placas? Tudo bem se o progresso de qualidade da armadura acompanha os Níveis dos Monstros em dificuldade, porém se jogadores de níveis baixos já possuem armaduras de alta qualidade - o MJ vai ter dificuldades em fornecer ameaças e desafios de verdade e eles não vão nem sentir a maioria, se não todo o dano vindo de criaturas de baixo nível.*
+*Considere que uma criatura de DV 1 causa apenas d4 (2) pontos de dano, então como ela machucaria um herói vestindo Cota de Malha ou Placas? Isso não é problema se o progresso da qualidade das armaduras acompanha os Níveis dos Monstros em dificuldade, porém se jogadores de níveis baixos já possuem armaduras de alta qualidade, o MJ vai ter dificuldades em fornecer ameaças e desafios de verdade e eles não vão nem sentir a maioria, se não todo o dano vindo de criaturas de baixo nível.*
 
 ## Armadura original
 
