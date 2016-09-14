@@ -1,4 +1,4 @@
-# Coisas Adicionais
+# Outras Coisas
 
 por David Black
 
@@ -10,7 +10,7 @@ Posso assumir que se você está lendo isso, você apoiou o Kickstarter / Compro
 
 ## Regras alternativas
 
-**Coisas Adicionais** é uma coletânea de regras opcionais, anotações, sugestões e outras ideias que, por uma razão ou outra não foram incluídas no minilivro de regras do TBH. Principalmente por causa de espaço, e possivelmente porque elas são estúpidas - Eu deixo pra você julgar. Escolha as que quiser, se escolher alguma, pra incluir no seu jogo. Algumas dessas já apareceu no meu blog ou mídias sociais - mas é legal ter tudo organizado né?
+**Outras Coisas** é uma coletânea de regras opcionais, anotações, sugestões e outras ideias que, por uma razão ou outra não foram incluídas no minilivro de regras do TBH. Principalmente por causa de espaço, e possivelmente porque elas são estúpidas - Você é quem vai decidir. Escolha as que quiser, se escolher alguma, pra incluir no seu jogo. Algumas dessas já apareceu no meu blog ou mídias sociais - mas é legal ter tudo organizado né?
 
 ## Sobrecarga
 
@@ -25,7 +25,7 @@ Todo item pode ter múltiplos rótulos da seguinte lista, para cada um desses o 
 * **Difícil** - Objetos que são difíceis de se armazenar e manusear, por exemplo coisas quentes ou perigosas.
 
 
-*Você notará que essa modificação vai punir os personagens bastante, e nem todo mundo aprecia os mecanismos de gerenciar equipamento. Se você utilizar isso, considere adicionar itens ao seu jogo que ignoram essas regras, fazendo esses itens mais desejáveis. Por exemplo Armadura de Placas sempre será Desajeitada e Pesada no meu jogo - então eu faria uma forjada por um especialista que não é Desajeitada, e uma forjada por um Mestre que não é nenhuma das duas coisas - tornando-a muito desejável.*
+*Você notará que essa modificação vai punir os personagens bastante, e nem todo mundo aprecia os mecanismos de gerenciar equipamento. Se você utilizar isso, considere adicionar itens ao seu jogo que ignoram essas regras, fazendo esses itens mais desejáveis. Por exemplo Armadura de Placas e Malha sempre será Desajeitada e Pesada no meu jogo - então eu faria uma forjada por um especialista que não é Desajeitada, e uma forjada por um Mestre que não é nenhuma das duas coisas - tornando-a muito desejável.*
 
 
 ## Variação mágica
@@ -52,19 +52,19 @@ No início do seu turno eles devem rolar na tabela de **Pânico!**, e no final d
 | 5 | **Vida diante dos olhos** - **CON** é reduzida em 2.                                |
 | 6 | **Ataque de Coração** - Colocado **Fora de Ação**.                                  |
 
-*Eu acho que regras de Pânico! são uma inclusão válida em qualquer cenário de exploração de subterrâneos - mas pode não ser para o gosto de todo mundo, e por isso foram deixadas de lado no livro de regras principal. De forma semelhante, se você não gosta do estilo ‘jogo de festa’ do resultado Atrapalhado, considere trocar por algo mais chato.*
+*Eu acho que regras de Pânico! são uma inclusão válida em qualquer cenário de exploração de subterrâneos - mas pode não ser para o gosto de todo mundo, e por isso foram deixadas de lado no livro de regras principal. De forma semelhante, se você não gosta do estilo ‘party game’ do resultado Atrapalhado, considere trocar por algo mais chato.*
 
 ## Guerreiros mais fracos
 
-Originalmente, Guerreiros eram um pouco mais fracos, mas receberam um ‘buff’ de poder - baseado no parecer recebido no início do Kickstarter. Para retornar as regras ao que eram, considere que cada alvo adicional que eles atacam deve ser um novo algo com DV igual ou menor do que o último.
+Originalmente, Guerreiros eram um pouco mais fracos, mas receberam um ‘buff’ de poder - baseado no parecer recebido no início do Kickstarter. Para retornar as regras ao que eram, considere que cada alvo adicional que eles atacam deve ser um novo alvo com DV menor ou igual que o do último.
 
 *Isso reduz a quantidade de oportunidades de utilizar sua habilidade especial e força-o a espalhar o dano. Um alvo pode ser atacado duas vezes, mas deve-se alvejar outro adversário entre os ataques - isso impede totalmente os Guerreiros de nível alto de ‘descarregar o dano’ em apenas um alvo.*
 
 ## Bloquear
 
-Uma vez por turno, quando um NPC faz um movimento para algum lugar **Próximo**, e no final do movimento estiverem **Perto** de um aliado - um personagem pode se mover e bloquear o caminho do NPC. O personagem deve *não* ter utilizado esse movimento nesse turno. Essa ação impede o NPC de atacar seu aliado, porém, o personagem provavelmente receberá o ataque do NPC que foi bloqueado.
+Uma vez por turno, quando um NPC faz um movimento para algum lugar **Próximo**, e no final do movimento estiverem **Perto** de um aliado - um personagem pode se mover e bloquear o caminho do NPC. O personagem *não* pode ter utilizado esse movimento nesse turno. Essa ação impede o NPC de atacar seu aliado, porém, provavelmente o NPC atacará quem o bloqueou.
 
-*Eu gosto de utilizar miniaturas ocasionalmente (quando eu posso estar cara a cara com um grupo.. Ai de mim!) Então às vezes é legal permitir algumas ações táticas durante o combate - para tirar vantagem desse ‘aspecto de jogo de guerra’ que pode ser legal em doses pequenas.*
+*Eu gosto de utilizar miniaturas ocasionalmente (quando eu posso estar cara a cara com um grupo.. Ai de mim!) Então às vezes é legal permitir algumas ações táticas durante o combate - para tirar vantagem desse ‘aspecto de wargame’ que pode ser legal em doses pequenas.*
 
 ## Dinheiro
 
@@ -76,7 +76,7 @@ Para cada DV que uma criatura tem, ela carrega um d6 em moedas. Então um Rufiã
 
 *Essa é uma distração interessante, mas foi suprimida das regras principais por causa de espaço - Eu uso o tempo todo. Alguns jogadores gostam de contar todo o seu dinheiro assim que encontram; quando isso é uma quantia significativa de moedas (por exemplo no valor de 3d6) - isso é ok. Mas se for mais que isso, faça com que percebam que isso custará uma ação do seu turno - se quiserem fazer de forma precisa.*
 
-*De forma semelhante, se você realmente quer caprichar e tiver tempo/dinheiro, consiga quantos d6 você puder, pinte-os com spray de tinta dourada - então entregue como tesouro - jogadores adoram!*
+*De forma semelhante, se você realmente quer caprichar e tiver tempo/dinheiro, consiga quantos d6 você puder, pinte-os com spray de tinta dourada - então entregue como tesouro - os jogadores adoram!*
 
 ## Sorte
 
@@ -104,7 +104,7 @@ Se um jogador falha em uma jogada e o MJ sugere, eles devem tratar o resultado d
 
 Alguns monstros no livro de regras principal farão com que os PJs sejam Paralisados. Enquanto estiver paralisado, um personagem não pode se mover, falar ou exercer nenhuma ação. No início de seu turno, um personagem pode fazer um teste de CON. Se suceder, não está mais paralisado e pode agir no restante do turno.
 
-*Eu removi isso das regras por problemas de espaço, pensei que um MJ poderia inventar algo para lidar com o ‘efeito de status’, além disso, Clérigos têm vantagem em testes de CON. Você pode utilizar o mesmo estilo de regra para lidar com outros efeitos incapacitantes, Veneno, Fogo, Insanidade, Cegueira etc - apenas varie o atributo associado.*
+*Eu removi isso das regras por problemas de espaço, pensei que um MJ poderia inventar algo para lidar com ‘efeitos de status’, além disso, Clérigos têm vantagem em testes de CON. Você pode utilizar o mesmo estilo de regra para lidar com outros efeitos incapacitantes, Veneno, Fogo, Insanidade, Cegueira etc - apenas varie o atributo associado.*
 
 ## Encontros aleatórios
 
@@ -118,13 +118,13 @@ Se o número de adversários engajados em combate com os jogadores cair em 50% e
 
 Se um personagem passar em um teste de **CAR** os adversários quebrados tentarão fugir do combate assim que possível. Se eles tiverem um líder lutando entre eles, o teste de **CAR** é feito com **Desvantagem**.
 
-*Essa é uma regra bem estilo ‘jogo de guerra’, que soma um elemento tático interessante aos combates se você quiser. E lembre-se que caso a jogada de reação for favorável, não deve-se esquecer que os NPCs estavam tentando matar os jogadores momentos antes - faz sentido imaginar que agora eles implorem por suas vidas! Tudo isso deve servir apenas como um guia, recomenda-se que o MJ exerça seu ‘senso comum narrativo’.*
+*Essa é uma regra bem estilo ‘wargame’, que soma um elemento tático interessante aos combates se você quiser. E lembre-se que caso a jogada de reação for favorável, não deve-se esquecer que os NPCs estavam tentando matar os jogadores momentos antes - faz sentido imaginar que agora eles implorem por suas vidas! Tudo isso deve servir apenas como um guia, recomenda-se que o MJ exerça seu ‘bom senso narrativo’.*
 
 ## Fome & rações
 
 No início de uma sessão cada personagem rola o **Dado de uso** de sua ração. Se eles não puderem comer/beber por alguma razão, devem fazer os testes com **Desvantagem** até que consigam.
 
-Assim que eles comam sua ração, o personagem recupera 1 **DV Pontos de Vida**, eles podem comer mais se a história sugerir - mas apenas ganha o benefício da cura uma vez por sessão de jogo.
+Assim que comerem sua ração, os personagens recuperam 1 **DV Pontos de Vida**, eles podem comer mais se a história sugerir - mas recebem o benefício da cura uma vez por sessão de jogo.
 
 *Certamente essa é uma aproximação abstrata para a fome - utilize apenas se você sempre se perde ou gosta de negligenciar os ‘aspectos monótonos’ de estar vivo.*
 
@@ -134,7 +134,7 @@ Adversários que não possuem nome são apenas ‘camisas vermelhas’, e um bom
 
 De forma semelhante se um jogador é sortudo o suficiente para rolar 1 em um ataque, a criatura *nomeada* é imediatamente morta - de preferência de forma visceral e sangrenta.
 
-*Isso faz com que os personagens se sintam um pouco mais poderosos. Eu provavelmente utilizaria monstros de nível baixo também, porque se estou utilizando essas regras isso significa que quero ver a cena do cortador de gramas de Braindead.*
+*Isso faz com que os personagens se sintam um pouco mais poderosos. Nesse caso, eu provavelmente utilizaria monstros de nível baixo, porque se estou cogitando essa regra é porque quero ver cenas tipo a do cortador de gramas de Braindead.*
 
 ## Armadura ‘melhor’
 
@@ -142,14 +142,14 @@ Se você acha que o sistema de Armaduras atual é muito fraco - aqui está a pri
 
 Pontos de Armadura (PA) reduzem o dano da mesma forma, porém eles não acabam - então cada acerto é subtraído pela quantia de PA. Todas as armaduras agora têm um Dado de Uso (DU) - *veja a tabela adiante*.
 
-| Tipo               | DU  | PA |
-|:------------------:|:---:|:--:|
-| Acolchoada         | d4  | 1  |
-| Couro              | d6  | 2  |
-| Cota de Malha      | d8  | 3  |
-| Armadura de Placas | d10 | 4  |
-| Escudo Pequeno     | d4  | 1  |
-| Escudo Grande      | d4  | 2  |
+| Tipo           | DU  | PA |
+|:--------------:|:---:|:--:|
+| Acolchoada     | d4  | 1  |
+| Couro          | d6  | 2  |
+| Cota de Malha  | d8  | 3  |
+| Placas e Malha | d10 | 4  |
+| Escudo Pequeno | d4  | 1  |
+| Escudo Grande  | d4  | 2  |
 
 Logo após uma luta onde a armadura for utilizada para reduzir o dano, deve-se rolar o Dado de Uso. Se o resultado for 1 ou 2 reduz-se normalmente o Dado de Uso, e a Armadura então terá o PA de uma armadura abaixo na tabela. Então por exemplo, falhar em uma jogada de DU para uma Cota de Malha reduzirá seu PA para 2 (Couro).
 
@@ -176,7 +176,7 @@ O conceito tradicional de bônus de CA ascendente pode ser utilizado com The Bla
 
 Por exemplo em sistemas de CA ascendente, Couro tipicamente soma +2 à base de 10 (fornecendo CA 12) - com TBH você faria um teste de atributo pra ver se acertaria ou se consegue evitar receber dano, e adicionaria +2 à rolagem de dado. O jeito rápido de ler CA de recursos existentes é simplesmente utilizar o último número como um bônus.
 
-*Essa é uma interpretação mais direta e simples das regras originais, e pode parecer estranho que não tenha sido utilizado. Porém, um dos objetivos principais a que eu me propus quando desenvolvi The Black Hack foi remover totalmente os ‘modificadores repetitivos de rolagem de dados’, o que eu acho que quase consegui fazer - se você não se importa com esses pequenos cálculos aritméticos - essa pode ser a escolha purista para armadura.*
+*Essa é uma interpretação mais direta e simples das regras originais, e pode parecer estranho que não tenha sido utilizado. Porém, um dos objetivos principais a que eu me propus quando desenvolvi The Black Hack foi remover totalmente os ‘múltiplos modificadores de rolagem de dados’, o que eu acho que quase consegui fazer - se você não se importa com esses pequenos cálculos aritméticos - essa pode ser a escolha purista para armadura.*
 
 ## FAQ
 
@@ -190,7 +190,7 @@ Pra que mesmo que você tenha 20 em um atributo exista sempre uma chance legíti
 
 ***Armadura, como é que funciona?***
 
-Você utiliza sua armadura para absorver dano, quando a armadura absorveu seu máximo de dano você começa a perder PV. Apenas quando descansar por uma hora você recupera seus **Pontos de Armadura**. Então, por exemplo, Armadura de Placas é de certa forma 8 PVs temporários.
+Você utiliza sua armadura para absorver dano, quando a armadura absorveu seu máximo de dano você começa a perder PV. Apenas quando descansar por uma hora você recupera seus **Pontos de Armadura**. Então, por exemplo, Armadura de Placas e Malha é de certa forma 8 PVs temporários.
 
 ***Quantas novas magias podem ser adicionadas ao livro de magias em uma subida de nível?***
 
@@ -230,7 +230,7 @@ Porque você pode querer saber o quão longe alguma coisa está.
 
 ***As regras são vagas, por que?***
 
-The Black Hack assume que você já sabe como jogar um RPG. Se você não sabe, e caiu de paraquedas no jogo - por favor me envie um e-mail, porque eu adoraria saber como você o encontrou.
+The Black Hack assume que você já sabe como jogar um RPG. Se você não sabe, e caiu de paraquedas no jogo - por favor me envie um e-mail, porque eu adoraria saber como isso aconteceu.
 
 ## Um documento vivo
 

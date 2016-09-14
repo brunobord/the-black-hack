@@ -67,7 +67,7 @@ Se um personagem usa uma armadura que não está listada em sua classe, eles adi
 | Mochila                   |   5    |      -      |      Carga extra +2      |
 | Frasco de óleo            |   2    |     d6      |            -             |
 | Ferramentas de Trabalho   |   2    |      -      |            -             |
-| Símbolo Sagrado           |   25   |      -      |  +2 SAB quando expulsar  |
+| Símbolo Sagrado           |   25   |      -      |  +2 SAB quando banir     |
 | Água Benta                |   25   |     d4      |            -             |
 | Pregos de Ferro           |   1    |      -      |            -             |
 | Lanterna                  |   10   |      -      |            -             |
@@ -100,7 +100,7 @@ The Black Hack não possui jogadas de proteção. Ao invés disso, o jogador dev
 |:----------------------------:|:---------------------:|:------------------------:|
 | Resistir a Feitiços e Magia. | Enganação e Ilusões.  | Efeitos de encantamento. |
 
-## Rodada dos jogadores
+## Turno dos jogadores
 
 Durante a rodada de um jogador, um personagem pode mover-se e executar uma ação. Eles podem atacar, procurar uma pista, conversar com um NPC, conjurar um feitiço – interagir com o mundo é uma ação. Frequentemente eles testarão seus atributos para determinar o resultado.
 
@@ -112,7 +112,7 @@ Há dois tipos importante de tempo considerado - **Momentos** (*rodadas*) e **Mi
 
 Em vez de utilizar valores precisos, TBH considera 4 faixas abstratas para medir distâncias. **Perto**, **Próximo**, **Longe** e **Distante**. Em seu turno todo personagem pode se mover para um local **Próximo** como parte de uma ação que pode ser executada em qualquer estágio do movimento. Eles também podem deixar de agir para se mover para um local **Longe**. Tudo que for superior a **Longe** pode ser classificado como **Distante** e custa 3 movimentos para ser alcançado.
 
-Esse sistema é projetado para o estilo de jogo narrativo ‘teatro da mente‘, e não em medir fielmente distâncias e contar casas. Para converter entre distâncias e essa abstração (para feitiços ou áreas de efeito) use as seguintes diretrizes:
+Esse sistema é projetado para o estilo de jogo narrativo conhecido como ‘teatro da mente‘, e não tenta medir fielmente distâncias e contar casas. Para converter entre distâncias e essa abstração (para feitiços ou áreas de efeito) use as seguintes diretrizes:
 
 |   PERTO   |   PRÓXIMO  |  LONGE     |
 |:---------:|:----------:|:----------:|
@@ -121,7 +121,7 @@ Esse sistema é projetado para o estilo de jogo narrativo ‘teatro da mente‘,
 
 ## Iniciativa
 
-Quando o combate se inicia, todos devem se organizar em ordem para que ajam e reajam em seus turnos. Cada personagem testa sua **DES**, aqueles que passarem, terão seus turnos antes dos adversários. Eles devem agir como um grupo – decidindo sua própria ordem para as ações. Aqueles que falharem em seu teste de **DES** vão depois dos oponentes.
+Quando o combate se inicia, todos devem se colocar em ordem para que executem ações e reações em turnos. Cada personagem testa sua **DES**, aqueles que passarem vão antes dos adversários. Eles devem agir como um grupo – decidindo sua própria sequência de ações. Aqueles que falharem no teste de **DES** vão depois dos oponentes.
 
 ## DV de um monstro
 
@@ -130,7 +130,7 @@ Quando o combate se inicia, todos devem se organizar em ordem para que ajam e re
 
 ## Atacando, defendendo & dano
 
-Quando um personagem ataca uma criatura, deve rolar abaixo de seu atributo **FOR** para um **Ataque Corpo a Corpo** ou **DES** para um **Ataque à distância**. De forma semelhante, quando uma criatura atacar, o personagem deve rolar abaixo de sua **FOR** contra um **Ataque Corpo a Corpo** e **DES** contra um **Ataque à distância** para evitar receber dano. Um MJ deve definir o atributo requerido para o teste.
+Quando um personagem ataca uma criatura, deve rolar abaixo de seu atributo **FOR** para um **Ataque Corpo a Corpo** ou **DES** para um **Ataque à distância**. De forma semelhante, quando uma criatura atacar, o personagem deve rolar abaixo de sua **FOR** contra um **Ataque Corpo a Corpo** e **DES** contra um **Ataque à distância** para evitar receber dano. O MJ tem a palavra final sobre qual atributo deve ser testado.
 
 O dano causado por um ataque é baseado na classe do personagem ou no número de **DV** de um monstro.
 
@@ -144,7 +144,7 @@ Para armas maiores e mais mortais deve-se adicionar +2 a quaisquer dados rolados
 
 ## Dano crítico
 
-Se um jogador obtém o resultado **1** em uma jogada de ataca, dobram o resultado da rolagem de dano. Se tirarem um **20** ao evitar um ataque, tomam dano dobrado. Os **Pontos de Armadura** são utilizados normalmente.
+Se um jogador obtém o resultado **1** em uma jogada de ataque, dobra-se o dano. Se tirar um **20** ao evitar um ataque, toma dano dobrado. Os **Pontos de Armadura** são utilizados normalmente.
 
 | DV do Monstro |      Dano      |
 |:-------------:|:--------------:|
@@ -161,7 +161,7 @@ Se um jogador obtém o resultado **1** em uma jogada de ataca, dobram o resultad
 
 ## Morte & morrer
 
-Quando um personagem é reduzido a zero **Pontos de Vida (PV)** são colocados **Fora de Ação (FdA)**, ficam inconscientes e não podem executar nenhuma ação. Quando o combate terminar / o perigo se for, um personagem que esteja **FdA** pode rolar na tabela (*página seguinte*) para ver o que acontece. **Se sobreviver, o personagem ganha 1d4 PV**.
+Quando um personagem é reduzido a zero **Pontos de Vida (PV)** é colocado **Fora de Ação (FdA)**, fica inconsciente e não pode executar nenhuma ação. Quando o combate terminar / o perigo se for, um personagem que esteja **FdA** pode rolar na tabela (*logo a seguir*) para ver o que acontece. **Se sobreviver, o personagem ganha 1d4 PV**.
 
 *Se o grupo for vencido, ou se forem incapazes de recuperar o corpo do personagem, o mesmo estará perdido para sempre!*
 
@@ -192,19 +192,19 @@ Quando personagens descansam por cerca de uma hora, eles recuperam o uso de seus
 
 ## Experiência
 
-Aventureiros aprendem vencendo e superando obstáculos. Matar um Kobold chato não trará um grande conhecimento. Sobreviver a uma masmorra, completar uma missão ou simplesmente sobreviver para contar a história são coisas que trazem perspectiva e crescimento. O antigo sistema de experiência foi descartado.
+Aventureiros aprendem vencendo e superando obstáculos. Matar um Kobold chato não trará grande aprendizado. Sobreviver a uma masmorra, completar uma missão ou simplesmente sobreviver para contar a história são coisas que trazem perspectiva e crescimento. O antigo sistema de experiência foi descartado.
 
 Para cada sessão / nível de masmorra / missão / evento significativo que o personagem sobreviva, ganha-se um nível.
 
-*O MJ decide quais situações permitem subir de nível, e recomenda-se que essa decisão se mantenha constante durante a campanha.*
+*O MJ decide quais situações permitem subir de nível, e recomenda-se que essa decisão se mantenha coerente durante a campanha.*
 
 ## Ganhando níveis
 
-Quando um personagem sobe de nível, seu valor máximo de **Pontos de Vida** aumenta rolando o **Dado de Vida** da classe. O jogador também deve rolar um d20 para cada **Atributo**, se o resultado for maior - aquele **Atributo** aumenta em 1.
+Quando um personagem sobe de nível, seu valor máximo de **Pontos de Vida** aumenta rolando o **Dado de Vida** da classe. O jogador também deve rolar um d20 para cada **Atributo**, se o resultado for **maior** - aquele **Atributo** aumenta em 1.
 
 ## Carga
 
-Um personagem pode carregar uma quantidade de itens igual à sua **FOR** sem problemas. Carregar mais do que isso significa que está com sobrecarga, e todos os testes de atributo são feitos com **Desvantagem** - você também só consegue se mover até um local **Próximo**. É simplesmente impossível carregar mais do que o dobro da **FOR**.
+Um personagem pode carregar uma quantidade de itens igual à sua **FOR** sem problemas. Se carregar mais do que isso está com **Sobrecarga**, e todos os testes de atributo são feitos com **Desvantagem** e só é possível se mover até um local **Próximo**. Carregar mais do que o dobro da **FOR** é impossível.
 
 ## Armas de classe
 
@@ -237,19 +237,19 @@ Monstros mortos-vivos que são **Banidos** por Clérigos devem gastar todo o seu
 
 ## Dado de Uso
 
-Qualquer item listado na seção de equipamentos e tiver um **Dado de Uso** é considerado um item limitado e consumível. Quando aquele é utilizado, no próximo **Minuto** (turno), seu **Dado de Uso** é rolado. Se o resultado for 1-2 então o dado de uso é rebaixado para o próximo valor mais baixo na seguinte sequência:
+Qualquer item listado na seção de equipamentos e tiver um **Dado de Uso** é considerado um item de consumo limitado. Quando for utilizado, no próximo **Minuto** (turno), seu **Dado de Uso** é rolado. Se o resultado for 1-2 então o dado de uso é rebaixado para o próximo valor na seguinte sequência:
 
 **d20 > d12 > d10 > d8 > d6 > d4**
 
-Se você rolar 1 ou 2 em 1d4, o item foi gasto e não sobrou nada para o personagem.
+Se você rolar 1 ou 2 em 1d4, o item foi consumido e o personagem não poderá usar novamente.
 
 ## Itens Mágicos
 
-Armas mágicas tipicamente somam +1 a qualquer atributo testado enquanto utilizando a arma, e +1 para cada dado de dano rolado. Armas mais poderosas (+2/3) podem ser encontradas se o MJ as incluir.
+Armas mágicas tipicamente somam +1 a qualquer atributo testado empunhando a arma, e +1 para cada dado de dano rolado. Armas mais poderosas (+2/3) podem ser encontradas se o MJ as incluir.
 
 Armaduras mágicas dobram a quantidade de PA que a armadura teria normalmente. Por exemplo, uma Cota de Malha Mágica tem 12 **Pontos de Armadura**. A regra de **Pontos de Armadura** é seguida normalmente.
 
-Jogos OSR tradicionais lidam com itens mágicos somando +1 ou +2 nas jogadas de ataque e CA. Se o MJ pretende liberar armaduras mágicas mais fortes (+2/3) a jogadores de nível alto, considere com cuidado triplicar seus **Pontos de Armadura**
+Jogos OSR tradicionais lidam com itens mágicos somando +1 ou +2 nas jogadas de ataque e CA. Se o MJ pretende liberar armaduras mágicas mais fortes (+2/3) a jogadores de nível alto, pondere com cautela triplicar os **Pontos de Armadura**
 
 ----
 
@@ -339,7 +339,7 @@ Role para ver se os atributos aumentam, role duas vezes para **INT** *ou* **SAB*
 
 ### Conjuração Arcana
 
-Feiticeiros podem conjurar um número de Feitiços por dia, ver a seção de Conjuração.
+Feiticeiros podem conjurar um número de Magias Arcanas por dia, ver a seção de Conjuração.
 
 ### Livro de Magias
 
@@ -351,9 +351,9 @@ Feiticeiros iniciam com um grande Livro de Magias contendo um total de 1d4+2 mag
 
 Feiticeiros e Clérigos possuem a habilidade de conjurar magias que são escolhidas de sua lista de classe apropriada (nas páginas seguintes).
 
-Eles podem conjurar qualquer magia que conheçam de seu livro de magias ou podem memorizar uma quantidade de magias igual ao seu **Nível** que podem ser conjuradas sem o mesmo.
+Eles podem conjurar qualquer magia lendo de seu livro de magias ou podem memorizar uma quantidade de magias igual ao seu **Nível** e conjurá-las sem ter que ler.
 
-Eles possuem um número de ‘espaços de magia’ que podem utilizar diariamente - conforme mostrado nas duas tabelas a seguir. Esse valor representa a ‘energia’ do conjurador e como é desgastante conjurar magias durante um longo período. Quando os ‘espaços de magia’ se esgotam, não é mais possível conjurar magias.
+Eles possuem um número de ‘espaços de magia’ (*spell slots*) que podem utilizar diariamente - conforme mostrado nas duas tabelas a seguir. Esse valor representa a ‘energia’ do conjurador e como é desgastante conjurar magias durante um longo período. Quando os ‘espaços de magia’ se esgotam, não é mais possível conjurar magias.
 
 Uma vez que uma magia seja conjurada, o Clérigo/Feiticeiro deve testar sua **SAB/INT** - somando o nível da magia à jogada. Se falharem, reduzem o número de ‘espaços de magia’ correspondente ao nível da magia que acabaram de conjurar em 1. Quando uma magia memorizada é conjurada, não é esquecida.
 
@@ -432,9 +432,9 @@ Nota: as colunas são *nível de espaço de magia*, linhas são *nível de perso
 
 **5**
 
-* **Comungar :** A divindade do Clérigo responde com sinceridade a 3 perguntas - 10mins.
+* **Comungar :** A Divindade do Clérigo responde com sinceridade a 3 perguntas - 10mins.
 * **Dissipar o Mal :** Remove uma magia Divina Próxima (Maligna).
-* **Dedo da Morte :** Escolha um alvo Próximo e teste **SAB**, se passar o alvo fica FdA.
+* **Dedo da Morte :** Escolha um alvo Próximo e teste **SAB**, se passar o alvo fica **FdA**.
 * **Praga :** Teste **SAB** para todos os alvos Próximos, eles perderão 2d8 PV nos próximos 1d6 turnos.
 * **Missão :** Force uma criatura Próxima a obedecer uma ordem.
 * **Ressuscitar os Mortos :** um alvo voluntário, Próximo, e que tenha morrido a até 7 dias volta a viver.
@@ -453,7 +453,7 @@ Nota: as colunas são *nível de espaço de magia*, linhas são *nível de perso
 * **Servo Aéreo :** Invoca um servo para recuperar um objeto distante.
 * **Magia Astral :** Projeta um avatar do conjurador em no plano escolhido - 1hr.
 * **Controlar o Clima :** Controla o clima Próximo a condições extremas - 10mins.
-* **Terremoto :** Teste **SAB** para todas as criaturas Próximas, sucessos faz com que fiquem FdA.
+* **Terremoto :** Teste **SAB** para todas as criaturas Próximas, sucessos faz com que fiquem **FdA**.
 * **Palavra Sagrada :** Criaturas Próximas com menos de 5 PV morrem, 6-10 DV ficam paralisadas por 1d4 turnos.
 * **Caminho do Vento :** Transformar-se em névoa e de volta, à vontade - 1 dia.
 * **Restauração :** Recupera todos os níveis perdidos para monstros com drenagem de nível.
@@ -497,7 +497,7 @@ Nota: as colunas são *nível de espaço de magia*, linhas são *nível de perso
 **5**
 
 * **Animar Mortos :** Criar 2d4 Esqueletos/Zumbis com DV/nível a partir de cadáveres próximos.
-* **Nuvem da Morte :** Qualquer um com menos de 5DV que tocá-la deve testar INT ou ficar FdA - 1hr.
+* **Nuvem da Morte :** Qualquer um com menos de 5DV que tocá-la deve testar INT ou ficar **FdA** - 1hr.
 * **Criar Elemental :** Cria um Elemental do tipo escolhido com 3d4 DV.
 * **Contatar Plano Superior :** Fazer 1 pergunta / nível.
 * **Mente débil :** Reduz a **INT** de um alvo próximo a 4 - 10mins/nível.
@@ -568,11 +568,11 @@ Nota: as colunas são *nível de espaço de magia*, linhas são *nível de perso
 **Ladrão :** A porta está Próxima?
 **MJ :** Sim.
 **Ladrão :** Vou me mover até ela como minha ação e verificar se há armadilhas.
-**Guerreiro :** Se considerarmos seguro tentarei entortar as barras.
+**Guerreiro :** Se for seguro tentarei entortar as barras.
 **Feiticeiro :** E eu conjurarei Luz no meu cajado.
 **MJ :** Ok, Ladrão, teste sua Sabedoria rolando um d20 abaixo de seu atributo SAB - para verificar se há armadilhas na porta.
 **Ladrão :** \*rola o dado\* Consegui!
-**MJ :** Você está certo de que não há nada que possa te machucar, Guerreiro, você ainda quer entortar as barras? Se sim, teste sua Força!
+**MJ :** Você tem certeza de que não há nada pra te machucar ali, Guerreiro, você ainda quer entortar as barras? Se sim, teste sua Força!
 **Guerreiro :** \*rola o dado\* Essa foi fácil!
 **MJ :** Muito bem, agora Feiticeiro, você conjura Luz no seu cajado. É uma magia de nível 1 certo?
 **Feiticeiro :** Aham.
@@ -586,7 +586,7 @@ Nota: as colunas são *nível de espaço de magia*, linhas são *nível de perso
 **Feiticeiro :** E eu protegerei a retaguarda!
 **MJ :** Ok Ladrão, você desce pelo esgoto, ainda Próximo a seus amigos, por favor teste sua Destreza para ver o quão silencioso você está sendo - lembre-se que você tem Vantagem em testes de furtividade, role dois d20's e escolha o resultado que preferir.
 **Ladrão :** \*rola o dado\* apesar de rolar dois dados, tirei um 17 e um 19. Quais as más notícias?
-**MJ :** Ai. Você fez tanto barulho tentando ser silencioso, um Ghoul escondido nas sombras perto de você avança e ataca!
+**MJ :** Hmm. Você fez tanto barulho tentando ser silencioso, um Ghoul escondido nas sombras perto de você avança e ataca!
 **Ladrão :** Maldito!
 **MJ :** Hora de iniciativa! Todo mundo testando sua Destreza, passar significa que vocês agem antes do Ghoul, falhar significa que vão depois. Ladrão, você rola com Desvantagem.
 **Guerreiro :** Eu vou antes.
