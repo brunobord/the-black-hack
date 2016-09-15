@@ -176,13 +176,13 @@ O conceito tradicional de bônus de CA ascendente pode ser utilizado com The Bla
 
 Por exemplo em sistemas de CA ascendente, Couro tipicamente soma +2 à base de 10 (fornecendo CA 12) - com TBH você faria um teste de atributo pra ver se acertaria ou se consegue evitar receber dano, e adicionaria +2 à rolagem de dado. O jeito rápido de ler CA de recursos existentes é simplesmente utilizar o último número como um bônus.
 
-*Essa é uma interpretação mais direta e simples das regras originais, e pode parecer estranho que não tenha sido utilizado. Porém, um dos objetivos principais a que eu me propus quando desenvolvi The Black Hack foi remover totalmente os ‘múltiplos modificadores de rolagem de dados’, o que eu acho que quase consegui fazer - se você não se importa com esses pequenos cálculos aritméticos - essa pode ser a escolha purista para armadura.*
+*Essa interpretação é mais direta e simples e fiel às regras originais e parece estranho não adotá-la. Porém, um dos objetivos principais a que eu me propus quando desenvolvi The Black Hack foi remover totalmente os ‘múltiplos modificadores de rolagem de dados’, o que eu acho que quase consegui fazer - se você não se importa com esses pequenos cálculos aritméticos - essa é uma escolha purista para armadura.*
 
 ## FAQ
 
 ***Quantas vezes você pode se mover normalmente em um turno?***
 
-Assumindo que nenhuma magia foi conjurada sobre você ou alguma força estranha e boba - 2 se você desistir de sua ação. Isso significa que você pode chegar a um local **Distante**.
+Assumindo que nenhuma magia foi conjurada sobre você ou alguma força estranha e boba, **2** se você desistir de sua ação. Isso significa que você pode chegar a um local **Distante**.
 
 ***Deve-se rolar abaixo? Porque não em cima ou abaixo?***
 
