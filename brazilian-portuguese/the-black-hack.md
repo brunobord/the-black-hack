@@ -57,6 +57,7 @@ Monstros têm 1 ponto de armadura para cada **DV** acima de 1. Para calcular rap
 
 Se um personagem usa uma armadura que não está listada em sua classe, eles adicionam seu total de **Pontos de Armadura** (independente do quanto tenham utilizado) a qualquer jogada de **Ataque** ou **Evitar Dano**.
 
+
 | ITEM                      | CUSTO  | DADO DE USO |           NOTAS          |
 |:--------------------------|:------:|:-----------:|:------------------------:|
 | Armadura Acolchoada       |   50   |      -      |   2 Pontos de Armadura   |
@@ -90,7 +91,7 @@ Se um personagem usa uma armadura que não está listada em sua classe, eles adi
 
 ## Convertendo jogadas de proteção
 
-The Black Hack não possui jogadas de proteção. Ao invés disso, o jogador deve rolar um teste de atributo quando algum feitiço, armadilha ou efeito tiver impacto sobre o personagem utilizando as diretrizes abaixo. Lembre-se dos conselhos na sessão **Adversários Poderosos**.
+The Black Hack não possui jogadas de proteção. Ao invés disso, o jogador deve rolar um teste de atributo quando algum feitiço, armadilha ou efeito tiver impacto sobre o personagem utilizando as diretrizes abaixo. Lembre-se dos conselhos na seção **Adversários Poderosos**.
 
 |                  FOR                   |                 DES                 |            CON            |
 |:--------------------------------------:|:-----------------------------------:|:-------------------------:|
@@ -117,11 +118,10 @@ Esse sistema é projetado para o estilo de jogo narrativo conhecido como ‘teat
 |   PERTO   |   PRÓXIMO  |  LONGE     |
 |:---------:|:----------:|:----------:|
 | 0 – 1,5 m | 1,5 – 18 m | 18 -  36 m |
-| 0 –   5ft |   5 - 60ft | 60 - 120ft |
 
 ## Iniciativa
 
-Quando o combate se inicia, todos devem se colocar em ordem para que executem ações e reações em turnos. Cada personagem testa sua **DES**, aqueles que passarem vão antes dos adversários. Eles devem agir como um grupo – decidindo sua própria sequência de ações. Aqueles que falharem no teste de **DES** vão depois dos oponentes.
+Quando o combate se inicia, todos devem se colocar em ordem para que executem ações e reações em turnos. Cada personagem testa sua **DES**, aqueles que passarem vão antes dos adversários. Eles devem agir como um grupo – decidindo sua própria sequência de ações. Quem falhar no teste de **DES** vai depois dos oponentes.
 
 ## DV de um monstro
 
