@@ -56,7 +56,7 @@ No início do turno deve rolar na tabela de **Pânico!**, e no final do turno te
 
 ## Guerreiros mais fracos
 
-Originalmente, Guerreiros eram um pouco mais fracos, mas receberam um ‘boost’ de poder baseado no parecer recebido no início do Kickstarter. Para retornar as regras ao que eram, considere que cada alvo adicional que eles atacam deve ser um novo alvo com DV menor ou igual que o do último.
+Originalmente, Guerreiros eram um pouco mais fracos, mas receberam um aumento de poder baseado no parecer recebido no início do Kickstarter. Para retornar as regras ao que eram, considere que cada alvo adicional que eles atacam deve ser um novo alvo com DV menor ou igual que o do último.
 
 *Isso reduz a quantidade de oportunidades de utilizar essa habilidade especial e força que se distribua o dano. Um alvo pode ser atacado duas vezes, mas deve-se alvejar outro adversário entre os ataques - isso impede os Guerreiros de nível alto de causar ‘dano em massa’ em apenas um alvo.*
 
