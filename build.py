@@ -28,7 +28,10 @@ DEFAULT_PAGE = {}
 
 class Builder(object):
 
-    exceptions = ('.tox', '.git', 'build', 'static', 'templates', 'tests',)
+    exceptions = (
+        '.tox', '.git', '.github',
+        'build', 'static', 'templates', 'tests',
+    )
 
     def __init__(self):
         self.build_path = abspath('build')
