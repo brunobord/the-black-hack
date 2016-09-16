@@ -17,9 +17,12 @@ def test_slugify_castellano():
 def test_slugify_japanese():
     assert slugify("これは何？", '-') == 'korehahe'
 
+def test_slugify_portuguese():
+    assert slugify("O que é isso?", '-') == 'o-que-e-isso'
 
 def test_slugify_converting_saves():
     assert slugify('Converting Saves', '-') == 'converting-saves'
     assert slugify('Conversion des jets de sauvegarde', '-') == 'conversion-des-jets-de-sauvegarde'  # noqa
     assert slugify('Convirtiendo tiradas de salvación', '-') == 'convirtiendo-tiradas-de-salvacion'  # noqa
     assert slugify('セーブの変換', '-') == 'sebunobian-huan'
+    assert slugify('Convertendo jogadas de proteção', '-') == 'convertendo-jogadas-de-protecao' # noqa
