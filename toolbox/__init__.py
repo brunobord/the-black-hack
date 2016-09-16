@@ -216,7 +216,10 @@ class Builder(object):
         homepage_md = self.get_template('index.md')
         text_list = self.build_homepage_text_list()
         # Build generated body using text_list
-        body_md = homepage_md.substitute(text_list='\n'.join(text_list))
+        body_md = homepage_md.substitute(
+            text_list='\n'.join(text_list),
+            language_count=len(self.languages),
+        )
         body_html = self.convert_md_source(body_md)
         # Build html page content
         self.write_html(

@@ -12,7 +12,10 @@ See the [License page](license.html) for more details.
 
 ## List of available texts
 
+"The Black Hack" core rules are currently available in $language_count languages (and soon, yours?):
+
 $text_list
+
 
 ## Contributing
 

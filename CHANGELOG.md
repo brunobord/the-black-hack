@@ -1,5 +1,9 @@
 # Changelog
 
+## master (unreleased)
+
+* Added a "language count" on the homepage (#43)
+
 ## 2.3.0 (2016-09-16)
 
 * Fix the Italian "Cockatrice" translation (#40).
