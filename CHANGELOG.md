@@ -4,6 +4,7 @@
 
 * Fix the Italian "Cockatrice" translation (#40).
 * Portuguese (Brazilian) translation of *The Black Hack* and *Additional Things* by Fernando Guedes (#41).
+* Making sure that "English" will always be at the first place in the list (#42).
 
 ## 2.2.0 (2016-09-02)
 
