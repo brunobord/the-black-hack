@@ -3,6 +3,7 @@
 ## master (unreleased)
 
 * Fix the Italian "Cockatrice" translation (#40).
+* Portuguese (Brazilian) translation of *The Black Hack* and *Additional Things* by Fernando Guedes (#41).
 
 ## 2.2.0 (2016-09-02)
 
