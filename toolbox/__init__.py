@@ -23,7 +23,7 @@ DEFAULT_PAGE = {}
 class Builder(object):
 
     exceptions = (
-        'build', 'static', 'templates', 'tests',
+        'build', 'static', 'templates', 'tests', 'toolbox',
         # Warning: ignoring it to add it on the top position in the list
         'english',
     )
