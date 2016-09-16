@@ -24,6 +24,8 @@ class Builder(object):
 
     exceptions = (
         'build', 'static', 'templates', 'tests',
+        # Warning: ignoring it to add it on the top position in the list
+        'english',
     )
 
     def __init__(self):
@@ -48,6 +50,7 @@ class Builder(object):
         dir_list = [d for d in os.listdir('.') if d not in self.exceptions]
         dir_list = filter(lambda x: os.path.isdir(x), dir_list)
         dir_list = filter(lambda x: not x.startswith('.'), dir_list)
+        dir_list = ('english',) + tuple(dir_list)
         return dir_list
 
     def get_template(self, path):
