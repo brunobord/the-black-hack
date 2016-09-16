@@ -23,7 +23,6 @@ DEFAULT_PAGE = {}
 class Builder(object):
 
     exceptions = (
-        '.tox', '.git', '.github', '.cache',
         'build', 'static', 'templates', 'tests',
     )
 
@@ -48,6 +47,7 @@ class Builder(object):
     def dir_list(self):
         dir_list = [d for d in os.listdir('.') if d not in self.exceptions]
         dir_list = filter(lambda x: os.path.isdir(x), dir_list)
+        dir_list = filter(lambda x: not x.startswith('.'), dir_list)
         return dir_list
 
     def get_template(self, path):
