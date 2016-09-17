@@ -6,7 +6,7 @@ help:
 	@echo ""
 
 html:
-	tox -e build
+	tox -e html
 
 clean:
 	rm -Rf build/
