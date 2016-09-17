@@ -2,12 +2,39 @@ import os
 from string import Template
 from os.path import join, abspath, basename
 
+from contextlib import contextmanager
 from cached_property import cached_property
+import markdown
+from markdown.extensions.toc import TocExtension
+from mdx_gfm import GithubFlavoredMarkdownExtension
+from slugify import slugify
 from shell import shell
 import yaml
 
 
 SOURCE_FILE_TEXT = '<p><a href="{source_file}">Link to {source_file_basename}</a></p>'  # noqa
+
+
+@contextmanager
+def cd(newdir):
+    prevdir = os.getcwd()
+    os.chdir(os.path.expanduser(newdir))
+    try:
+        yield
+    finally:
+        os.chdir(prevdir)
+
+
+def convert_md_source(source):
+    "Convert Markdown content into HTML"
+    html = markdown.markdown(
+        source,
+        extensions=[
+            GithubFlavoredMarkdownExtension(),
+            TocExtension(permalink=True, slugify=slugify)
+        ]
+    )
+    return html
 
 
 class Builder(object):
@@ -21,6 +48,7 @@ class Builder(object):
         self.build_path = abspath('build')
         self.languages = []
         self.meta = {}
+        self.main_template = self.get_template(join('templates', 'base.html'))
 
     def mkdir(self, path):
         "Silent make directories"

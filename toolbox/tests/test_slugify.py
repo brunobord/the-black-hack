@@ -1,4 +1,4 @@
-from ..html import slugify
+from ..core import slugify
 
 
 def test_slugify_english():

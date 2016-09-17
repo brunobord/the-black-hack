@@ -2,12 +2,8 @@ import os
 from os.path import join
 import shutil
 
-import markdown
-from markdown.extensions.toc import TocExtension
-from mdx_gfm import GithubFlavoredMarkdownExtension
-from slugify import slugify
+from .core import Builder, convert_md_source
 
-from .core import Builder
 
 HTACCESS = """
 # Serving .md files as UTF-8.
@@ -18,22 +14,11 @@ DEFAULT_PAGE = {}
 
 class HTMLBuilder(Builder):
 
-    def convert_md_source(self, source):
-        "Convert Markdown content into HTML"
-        html = markdown.markdown(
-            source,
-            extensions=[
-                GithubFlavoredMarkdownExtension(),
-                TocExtension(permalink=True, slugify=slugify)
-            ]
-        )
-        return html
-
     def convert_md(self, filepath):
         "Convert a Markdown file into HTML"
         with open(filepath) as fd:
             source = fd.read()
-        return self.convert_md_source(source)
+        return convert_md_source(source)
 
     def build_homepage_text_list(self):
         "Build the full text list for the homepage"
@@ -61,7 +46,7 @@ class HTMLBuilder(Builder):
             text_list='\n'.join(text_list),
             language_count=len(self.languages),
         )
-        body_html = self.convert_md_source(body_md)
+        body_html = convert_md_source(body_md)
         # Build html page content
         self.write_html(
             join(self.build_path, 'index.html'),
@@ -169,8 +154,6 @@ class HTMLBuilder(Builder):
         # Write an .htaccess file
         with open(join(self.build_path, '.htaccess'), 'w') as fd:
             fd.write(HTACCESS)
-
-        self.main_template = self.get_template(join('templates', 'base.html'))
 
         for directory in self.dir_list:
             self.update_meta(directory)
