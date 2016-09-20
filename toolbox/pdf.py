@@ -32,6 +32,7 @@ def pdf_filename_parse(filename):
 
 
 class PDFBuilder(Builder):
+    __version__ = '0.0.1'
 
     def get_tbh_page(self, directory):
         meta_dir = self.meta[directory]
@@ -99,7 +100,8 @@ class PDFBuilder(Builder):
         body_md = [
             '# Downloads',
             'Here you will find auto-generated PDFs corresponding to '
-            'the different source texts.'
+            'the different source texts.',
+            'These PDFs were generated using the v{} of the PDF builder'.format(self.__version__)
         ]
         for language in self.dir_list:
             language_label = self.meta[language]['label']
