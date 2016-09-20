@@ -1,5 +1,5 @@
 from unittest import TestCase
-from .. import Builder
+from ..core import Builder
 
 
 class DirListTest(TestCase):

@@ -16,6 +16,9 @@ See the [License page](license.html) for more details.
 
 $text_list
 
+### PDF downloads
+
+If you want, you can [download all the available translations as PDF files](downloads.html).
 
 ## Contributing
 
