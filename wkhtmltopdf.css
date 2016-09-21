@@ -5,3 +5,19 @@ table, tr, td, th, tbody, thead, tfoot {
 footer {
     display: none;
 }
+/* English: page breaks for TBH */
+#choose-a-class,
+#armor-proficiency + p + table,
+#movement-distance,
+#two-handed-weapons,
+#healing,
+#gaining-levels,
+#banishing-undead,
+#warrior, #thief, #cleric, #conjurer,
+#spellcasting,
+#daily-conjurer-spells,
+#divine-spells, #arcane-spells,
+#arcane-spells ~ table,
+#example-of-play {
+    page-break-before: always;
+}
