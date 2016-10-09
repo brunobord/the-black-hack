@@ -171,7 +171,7 @@ Para cada **DV** acima do nível de um personagem, somar +1 a toda jogada que o 
 
 ## Cura
 
-Personagens podem receber Pontos de Vida de Feitiços, Poções, e Habilidades. Eles nunca podem ganhar mais do que o seu valor máximo - e também não podem ficar com menos de zero. Quando curar um personagem que está **FdA**, considere-o com 0 PVs. O personagem curado estará novamente ativo e não mais **FdA**
+Personagens podem receber Pontos de Vida de Cura Mágica, Poções, e Habilidades. Eles nunca podem ganhar mais do que o seu valor máximo - e também não podem ficar com menos de zero. Quando curar um personagem que está **FdA**, considere-o com 0 PVs. O personagem curado estará novamente ativo e não mais **FdA**
 
 |  FORA | DE AÇÃO                                                              |
 |:-----:|:---------------------------------------------------------------------|
@@ -361,7 +361,7 @@ Após aproximadamente ***8 horas de descanso***, a quantidade de ‘cargas mági
 
 Se uma magia de um jogo tradicional da era OSR pede que uma criatura realize uma jogada de proteção, o personagem deve testar sua **INT** ou **SAB** - para ver se a conjuração foi poderosa o suficiente para vencer sua resistência (lembre-se da regra de **Adversários Poderosos**).
 
-## Magias clericais diárias
+## Magias divinas diárias
 
 Nota: as colunas são *nível de carga mágica*, linhas são *nível de personagem*.
 
@@ -378,7 +378,7 @@ Nota: as colunas são *nível de carga mágica*, linhas são *nível de personag
 | 9  | 3   | 3   | 2   | 2   | 2   | 1   | -   |
 | 10 | 3   | 3   | 3   | 2   | 2   | 2   | 1   |
 
-## Feitiços diários
+## Magias arcanas diárias
 
 Nota: as colunas são *nível de carga mágica*, linhas são *nível de personagem*.
 
@@ -408,7 +408,7 @@ Nota: as colunas são *nível de carga mágica*, linhas são *nível de personag
 
 **2**
 
-* **Abençoar :** Aliados Próximos ganham +1 nos atributos quando realizarem ataques e jogadas de proteção - 1hr.
+* **Abençoar :** Aliados Próximos ganham +1 nos atributos em ataques e jogadas de proteção - 1hr.
 * **Encontrar Armadilhas :** Percebe todas as armadilhas próximas - 10mins.
 * **Prender Pessoa :** Paralisa 1d4 alvos Próximos. Testar **SAB** em todos os turnos para ver se o efeito continua.
 * **Silêncio :** Silêncio mágico cai sobre tudo Próximo a um alvo - 1hr.
@@ -446,7 +446,7 @@ Nota: as colunas são *nível de carga mágica*, linhas são *nível de personag
 * **Conjurar Elemental :** Invoca um elemental com DV igual ao nível do conjurador - 1hr.
 * **Encontrar Caminho :** O caminho para um local escolhido é revelado - 1hr.
 * **Falar com Monstros :** Pode entender e falar com monstros - 1hr.
-* **Palavra de Retorno :** Concede habilidade de teleportar de volta para o local onde essa magia foi conjurada - 1 ano.
+* **Palavra de Retorno :** Permite teleportar de volta para onde essa magia foi conjurada - 1 ano.
 
 **7**
 
@@ -454,7 +454,7 @@ Nota: as colunas são *nível de carga mágica*, linhas são *nível de personag
 * **Magia Astral :** Projeta um avatar do conjurador em no plano escolhido - 1hr.
 * **Controlar o Clima :** Controla o clima Próximo a condições extremas - 10mins.
 * **Terremoto :** Teste **SAB** para todas as criaturas Próximas, sucessos faz com que fiquem **FdA**.
-* **Palavra Sagrada :** Criaturas Próximas com menos de 5 PV morrem, 6-10 DV ficam paralisadas por 1d4 turnos.
+* **Palavra Sagrada :** Criaturas Próximas com menos de 5 PV morrem, 6-10 DV ficam são por 1d4 turnos.
 * **Caminho do Vento :** Transformar-se em névoa e de volta, à vontade - 1 dia.
 * **Restauração :** Recupera todos os níveis perdidos para monstros com drenagem de nível.
 
@@ -520,7 +520,7 @@ Nota: as colunas são *nível de carga mágica*, linhas são *nível de personag
 * **Enxame de Meteoros :** Mesmo efeito de conjurar Bola de Fogo 4 vezes.
 * **Parar o Tempo :** Para o tempo completamente em uma área Próxima - 1d4+1 Momentos.
 
-| Criatura                  |   HD   | Ações e Poderes Especiais                                                                                                                              |
+| Criatura                  |   DV   | Ações e Poderes Especiais                                                                                                                              |
 |:--------------------------|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Besouro de Fogo           |    1   | Glândulas luminosas têm um dado de uso de d8.                                                                                                          |
 | Morcego Vampiro Gigante   |    1   | dano de 1d6 no momento seguinte ao ataque.                                                                                                             |
