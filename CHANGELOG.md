@@ -1,6 +1,6 @@
 # Changelog
 
-## master (unreleased)
+## 2.3.1 (2016-10-10)
 
 * Added a "language count" on the homepage (#43).
 * Build a raw, but readable PDF for every language (#21, #46).
