@@ -5,6 +5,7 @@
 * Added a "language count" on the homepage (#43).
 * Build a raw, but readable PDF for every language (#21, #46).
 * Contributing docs rewritten and enhanced, added a PR template (#47).
+* Small changes to the Portuguese (Brazilian) version, upgraded to v1.1 (#48).
 
 ## 2.3.0 (2016-09-16)
 
