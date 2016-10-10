@@ -21,3 +21,17 @@ footer {
 #example-of-play {
     page-break-before: always;
 }
+
+/* French: page breaks for TBH */
+#choisir-une-classe,
+#competence-d-armure + p + table,
+#initiative,
+#degats-critiques,
+#encombrement,
+#bannir-les-morts-vivants,
+#guerrier, #voleur, #clerc, #conjureur,
+#lancement-de-sorts,
+#sorts-divins, #sorts-d-arcane,
+#sorts-d-arcane ~ table {
+    page-break-before: always;
+}
