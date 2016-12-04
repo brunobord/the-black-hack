@@ -1,5 +1,9 @@
 # Changelog
 
+## master (unreleased)
+
+* Do not set a specific version for Python (#49).
+
 ## 2.3.1 (2016-10-10)
 
 * Added a "language count" on the homepage (#43).
