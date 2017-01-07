@@ -1,7 +1,6 @@
 table, tr, td, th, tbody, thead, tfoot {
     page-break-inside: avoid !important;
 }
-
 footer {
     display: none;
 }
@@ -34,4 +33,18 @@ footer {
 #sorts-divins, #sorts-d-arcane,
 #sorts-d-arcane ~ table {
     page-break-before: always;
+}
+
+/* Spanish (castellano) page breaks for TBH */
+#entrenamiento-con-armadura,
+#movimiento-distancia,
+#muerte,
+#descansar,
+#reacciones-de-las-criaturas,
+#objetos-magicos,
+#guerrero, #ladron, #clerigo, #hechicero,
+#conjuros-y-hechizos,
+#conjuros-divinos_1, #conjuros-arcanos_1,
+#conjuros-arcanos_1 ~ table {
+  page-break-before: always;
 }
