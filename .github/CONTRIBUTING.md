@@ -55,7 +55,6 @@ pages:
         label: Additional Things
         author: B'Ellana Torres
         filename: additional-things.md
-
 ```
 
 **Important**
@@ -72,6 +71,8 @@ pages:
 ## Specific styles
 
 **Note:** If you think that the following is too complicated for you, don't worry, I'll take care of this.
+
+### Converting saves tables
 
 In order to get the "Converting saves" tables aligned and pretty, we're using the following CSS style:
 
@@ -95,6 +96,31 @@ In order to have the next two tables correctly aligned, here's my new CSS instru
     display: table;
 }
 ```
+
+### PDF Page breaks
+
+**Note #1:** This trick is even more tricky than the "converting save table" CSS ; you really don't have to try to fix these page breaks if you don't feel like it, the maintainer of the project will take care for you.
+
+**Note #2:** Please note that if you've added a **change** in one of the available documents, you may want to check if you didn't mess up a page break.
+
+Let's say you've added the *klingon* language. For building the klingon PDF, you'll have to run the following:
+
+```shell
+tox -e pdf -- klingon
+```
+
+You'll probably have a new file in your repository, named: `static/pdfs/the-black-hack-klingon-v1.0.pdf`. Open this PDF using your favorite document viewer and check the page breaks. Ideally, the page breaks shouldn't occur in the middle of a section, but would rather start with a "level 2 heading". If it doesn't, just try to spot the heading that should mark the beginning of a page, and retrieve its CSS id, as described in the *Converting saves tables* section above.
+
+Then, open the `wkhtmltopdf.css` file in your favorite text editor and add something like:
+
+```css
+#choose-a-class,
+#armor-proficiency + p + table {
+    page-break-before: always;
+}
+```
+
+Selecting some elements might be a bit tricky... I you can't, don't insist.
 
 
 ## Adding a translation checklist
