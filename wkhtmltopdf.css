@@ -48,3 +48,16 @@ footer {
 #conjuros-arcanos_1 ~ table {
   page-break-before: always;
 }
+
+/* Portuguese (Brazilian) page breaks for TBH */
+#escolha-uma-classe,
+#movimento-distancia,
+#armas-de-duas-maos,
+#ganhando-niveis,
+#banir-mortos-vivos,
+#guerreiro, #ladrao, #clerigo, #conjurador,
+#conjuracao,
+#magias-divinas, #magias-arcanas,
+#magias-arcanas ~ table {
+  page-break-before: always;
+}
