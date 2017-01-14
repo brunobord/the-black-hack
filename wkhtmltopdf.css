@@ -61,3 +61,17 @@ footer {
 #magias-arcanas ~ table {
   page-break-before: always;
 }
+
+/* Italian page breaks for TBH */
+#scegliere-una-classe,
+#utilizzo-dell-armatura,
+#movimento-e-distanza,
+#armi-a-due-mani,
+#guerriero, #ladro, #chierico, #mago,
+#lancio-incantesimi,
+#incantesimi-giornalieri-del-chierico,
+#incantesimi-divini, #incantesimi-arcani,
+#incantesimi-arcani ~ table,
+#esempio-di-gioco {
+  page-break-before: always;
+}
