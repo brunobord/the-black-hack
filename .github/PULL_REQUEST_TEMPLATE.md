@@ -6,7 +6,7 @@
     - [ ] the `meta.yaml`
       - [ ] should mention the language name,
       - [ ] you must add the files you've translated with the *version of the translation* (if it's the first one, '1.0' is fine)
-      - [ ] the name of the authour is the name of the translator,
+      - [ ] the name of the author is the name of the translator,
     - [ ] You *may* add a README.md to explain things, thank people, give yourself credits, etc.
 - [ ] You **must** add your contribution to the LICENSE file, in the last section.
 - [ ] You *may* add a line in the changelog describing your contribution.
