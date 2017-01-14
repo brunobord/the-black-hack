@@ -1,3 +1,90 @@
+table, tr, td, th, tbody, thead, tfoot {
+    page-break-inside: avoid !important;
+}
 footer {
     display: none;
+}
+/* English: page breaks for TBH */
+#choose-a-class,
+#armor-proficiency + p + table,
+#movement-distance,
+#two-handed-weapons,
+#healing,
+#gaining-levels,
+#banishing-undead,
+#warrior, #thief, #cleric, #conjurer,
+#spellcasting,
+#daily-conjurer-spells,
+#divine-spells, #arcane-spells,
+#arcane-spells ~ table,
+#example-of-play {
+    page-break-before: always;
+}
+
+/* French: page breaks for TBH */
+#choisir-une-classe,
+#competence-d-armure + p + table,
+#initiative,
+#degats-critiques,
+#encombrement,
+#bannir-les-morts-vivants,
+#guerrier, #voleur, #clerc, #conjureur,
+#lancement-de-sorts,
+#sorts-divins, #sorts-d-arcane,
+#sorts-d-arcane ~ table {
+    page-break-before: always;
+}
+
+/* Spanish (castellano) page breaks for TBH */
+#entrenamiento-con-armadura,
+#movimiento-distancia,
+#muerte,
+#descansar,
+#reacciones-de-las-criaturas,
+#objetos-magicos,
+#guerrero, #ladron, #clerigo, #hechicero,
+#conjuros-y-hechizos,
+#conjuros-divinos_1, #conjuros-arcanos_1,
+#conjuros-arcanos_1 ~ table {
+  page-break-before: always;
+}
+
+/* Portuguese (Brazilian) page breaks for TBH */
+#escolha-uma-classe,
+#movimento-distancia,
+#armas-de-duas-maos,
+#ganhando-niveis,
+#banir-mortos-vivos,
+#guerreiro, #ladrao, #clerigo, #conjurador,
+#conjuracao,
+#magias-divinas, #magias-arcanas,
+#magias-arcanas ~ table {
+  page-break-before: always;
+}
+
+/* Italian page breaks for TBH */
+#scegliere-una-classe,
+#utilizzo-dell-armatura,
+#movimento-e-distanza,
+#armi-a-due-mani,
+#guerriero, #ladro, #chierico, #mago,
+#lancio-incantesimi,
+#incantesimi-giornalieri-del-chierico,
+#incantesimi-divini, #incantesimi-arcani,
+#incantesimi-arcani ~ table,
+#esempio-di-gioco {
+  page-break-before: always;
+}
+
+/* Japanese page breaks for TBH */
+#yi-dong-toju-li,
+#liang-shou-yong-wu-qi,
+#xin-tanareberuhe,
+#uoria, #shihu, #kureritsuku, #konziyara,
+#zhou-wen-noyong-chang,
+#kureritsuku1ri-atarinozhou-wen,
+#mi-yi-zhou-wen,
+#mi-yi-zhou-wen ~ table,
+#pureinoli {
+  page-break-before: always;
 }
