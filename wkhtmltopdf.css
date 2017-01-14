@@ -75,3 +75,16 @@ footer {
 #esempio-di-gioco {
   page-break-before: always;
 }
+
+/* Japanese page breaks for TBH */
+#yi-dong-toju-li,
+#liang-shou-yong-wu-qi,
+#xin-tanareberuhe,
+#uoria, #shihu, #kureritsuku, #konziyara,
+#zhou-wen-noyong-chang,
+#kureritsuku1ri-atarinozhou-wen,
+#mi-yi-zhou-wen,
+#mi-yi-zhou-wen ~ table,
+#pureinoli {
+  page-break-before: always;
+}
