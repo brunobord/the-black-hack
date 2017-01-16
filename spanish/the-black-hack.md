@@ -167,7 +167,7 @@ Cuando un personaje es reducido a cero **Puntos de Golpe (PG)** están **Fuera d
 
 ***Si un personaje pierde el combate o sus compañeros son incapaces de recuperar su cuerpo ¡este es eliminado para siempre!***
 
-| 1d6 | RESULTADO                                                                                     |
+| *1d6* | *RESULTADO*                                                                                     |
 |:----|:----------------------------------------------------------------------------------------------|
 | 1   | **KO** – Sólo quedaste inconsciente                                                           |
 | 2   | **Aturdido** – Tienes Desventaja en todas las pruebas durante la siguiente hora.              |
