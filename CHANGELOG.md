@@ -5,6 +5,7 @@
 * Do not set a specific version for Python (#49).
 * Added correct page-breaks in every "The Black Hack" PDF generated (#45).
 * Added Korean translation, thx to *Siwook Oh* (#51).
+* Fixed ugly table headers in Spanish translation (#52).
 
 ## 2.3.1 (2016-10-10)
 
