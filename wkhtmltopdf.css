@@ -88,3 +88,16 @@ footer {
 #pureinoli {
   page-break-before: always;
 }
+
+/* Korean page breaks for TBH */
+#jigeob-goreugi,
+#seongong,
+#jim,
+#eondedeu-cubang,
+#jeonsa, #dojeog, #seongjigja, #mabeobsa,
+#jumun-sijeon,
+#ilil-mabeobsa-jumun-seulros,
+#monseuteo-mogrog,
+#peulrei-yeje {
+  page-break-before: always;
+}
