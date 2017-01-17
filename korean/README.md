@@ -1,6 +1,6 @@
 # Korean Translation
 
-By 오시욱 (Siwook Oh). Current version is ``v1.0``.
+By 오시욱 (Siwook Oh - @cynicaltalk). Current version is ``v1.0``.
 
 ----
 
