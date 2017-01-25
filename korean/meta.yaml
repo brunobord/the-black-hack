@@ -4,3 +4,9 @@ pages:
         label: 더 블랙 핵 (The Black Hack)
         author: 오시욱 (Siwook Oh)
         version: '1.0'
+    -
+        label: 추가 요소 (Additional Things)
+        author: 오시욱 (Siwook Oh)
+        version: '1.0'
+        filename: additional-things.md
+        
