@@ -7,6 +7,7 @@
 * Added Korean translation, thx to *Siwook Oh* (@cynicaltalk) (#51 + fixes in #55 & #56).
 * Added Korean translation of "Additional Things" - Thx to @cynicaltalk (#54).
 * Fixed ugly table headers in Spanish translation (#52).
+* Fixed the single-column-table regression introduced by Python-Markdown 2.6.8 (#58).
 
 ## 2.3.1 (2016-10-10)
 

@@ -3,3 +3,5 @@ PyYAML
 shell
 cached-property
 python-slugify
+# Temporary fix:
+Markdown==2.6.7
