@@ -1,0 +1,11 @@
+label: Deutsch
+pages:
+    -
+        label: The Black Hack
+        author: Matthias Schaffrath
+        version: '1.2'
+    -
+        label: Additional Things
+        author: Matthias Schaffrath
+        version: '1.0'
+        filename: additional-things.md
