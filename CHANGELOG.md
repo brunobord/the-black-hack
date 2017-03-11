@@ -8,6 +8,7 @@
 * Added Korean translation of "Additional Things" - Thx to @cynicaltalk (#54).
 * Fixed ugly table headers in Spanish translation (#52).
 * Fixed the single-column-table regression introduced by Python-Markdown 2.6.8 (#58).
+* Added German translations of "The Black Hack" & "Additional Things", thx to @mattschaffrath (#60).
 
 ## 2.3.1 (2016-10-10)
 
