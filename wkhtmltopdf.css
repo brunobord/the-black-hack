@@ -24,7 +24,7 @@ footer {
 /* French: page breaks for TBH */
 #choisir-une-classe,
 #competence-d-armure + p + table,
-#initiative,
+#mouvement-et-distance ~ #initiative,
 #degats-critiques,
 #encombrement,
 #bannir-les-morts-vivants,
@@ -100,4 +100,19 @@ footer {
 #monseuteo-mogrog,
 #peulrei-yeje {
   page-break-before: always;
+}
+
+/* German page breaks for TBH */
+#rustungsfahigkeit,
+#bewegung-und-entfernung,
+#erfahrung,
+#verhalten-von-wesen,
+#magische-gegenstande,
+#krieger, #dieb, #kleriker, #zauberer,
+#zauberspruche,
+#tagliche-spruche-fur-kleriker,
+#gottliche-anrufungen_1, #arkane-zauberformeln_1,
+#arkane-zauberformeln_1 ~ table,
+#spielbeispiel {
+    page-break-before: always;
 }
