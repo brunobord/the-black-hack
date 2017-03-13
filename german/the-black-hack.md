@@ -24,7 +24,7 @@ The Black Hack (TBH) ist ein traditionelles Tischrollenspiel, das mit Papier, St
 
 ## Die Kernmechanik
 
-Wann immer Charaktere versuchen, etwas zu tun und das möglicherweise scheitern könnte, wird der Erfolg mit einer Probe auf einen Eigenschaftswert getestet. Um eine Probe erfolgreich zu bestehen, müssen Spieler mit einem W20 ***unter*** den entsprechenden Eigenschaftwert würfeln.
+Wann immer Charaktere versuchen, etwas zu tun, und das möglicherweise scheitern könnte, wird der Erfolg mit einer Probe auf einen Eigenschaftswert getestet. Um eine Probe erfolgreich zu bestehen, müssen Spieler mit einem W20 ***unter*** den entsprechenden Eigenschaftwert würfeln.
 
 Monster würfeln keine Proben - Spielercharaktere müssen ihren Angriffen ausweichen, indem sie eine Probe bestehen. Das einzige, was Monster würfeln, ist ihr Schaden.
 
@@ -66,7 +66,7 @@ Wenn Charaktere Rüstung tragen, die bei ihrer Klasse nicht angegeben ist, addie
 | Lederrüstung                 |  100   |       -       |      4 Rüstungspunkte      |
 | Kettenhemd                   |  350   |       -       |      6 Rüstungspunkte      |
 | Plattenrüstung               |  600   |       -       |      8 Rüstungspunkte      |
-| Großer/Kleiner Schild        | 50/100 |       -       |     2/4 Rüstungspunkte     |
+| Kleiner/Großer Schild        | 50/100 |       -       |     2/4 Rüstungspunkte     |
 | Rucksack                     |   5    |       -       |        Traglast +2         |
 | Lampenöl                     |   2    |      d6       |              -             |
 | Handwerksgerät               |   2    |       -       |              -             |
@@ -77,7 +77,7 @@ Wenn Charaktere Rüstung tragen, die bei ihrer Klasse nicht angegeben ist, addie
 | Handspiegel                  |   5    |       -       |              -             |
 | Haltbare Rationen            |   15   |      d8       |              -             |
 | Frische Rationen             |   5    |      d4       |              -             |
-| 15m Rope                     |   1    |       -       |              -             |
+| 15m Seil                     |   1    |       -       |              -             |
 | Beutel                       |   1    |       -       |              -             |
 | Sack                         |   2    |       -       |              -             |
 | Einbruchswerkzeug            |   25   |       -       |              -             |
@@ -88,7 +88,7 @@ Wenn Charaktere Rüstung tragen, die bei ihrer Klasse nicht angegeben ist, addie
 | Auswahl gewöhnlicher Kräuter |   10   |      d8       |              -             |
 | 3m Holzstange                |   1    |       -       |              -             |
 | Köcher mit Pfeilen/Bolzen    |   10   |      d10      |              -             |
-| 2-Händige Waffe              |   50   |       -       |              -             |
+| 2-händige Waffe              |   50   |       -       |              -             |
 
 
 ## Rettungswürfe
@@ -105,17 +105,17 @@ The Black Hack verwendet keine Rettungswürfe und lässt die Spieler stattdessen
 
 ## Spielerzug
 
-Während eines Zugs der Spieler dürfen ihre Charakte sich einmal bewegen und eine Handlung durchführen. Sie könnten angreifen, einen Hinweis suchen, mit einem NSC reden, einen Zauber wirken - mit der Spielwelt interagieren ist eine Handlung. Dabei wird der Ausgang oft durch Eigenschaftsproben bestimmt.
+Während eines Zugs der Spieler dürfen ihre Charakte sich je einmal bewegen und eine Handlung durchführen. Sie könnten angreifen, einen Hinweis suchen, mit einem NSC reden, einen Zauber wirken - mit der Spielwelt interagieren ist eine Handlung. Dabei wird der Ausgang oft durch Eigenschaftsproben bestimmt.
 
 ## Zeit und Runden
 
-Zeit im Spiel wird vor allem auf zwei Arten nachgehalten - **Momente** (Runden) und **Minuten** (Züge). **Momente** werden für Kampf- und Actionszenen benutzt und **Minuten** beim Erkunden und sonst während des Abenteuers. Ein SL kann die Zeit auch je nach Bedarf schneller verstreichen lassen und **Minuten** durch **Stunden**, **Tage** oder gar **Monate** ersetzen, wenn das Abenteuer es erfordert.
+Zeit im Spiel wird vor allem auf zwei Arten nachgehalten -  **Momente** (Runden) und **Minuten** (Züge). **Momente** werden für Kampf- und Actionszenen benutzt und **Minuten** beim Erkunden und sonst während des Abenteuers. Ein SL kann die Zeit auch je nach Bedarf schneller verstreichen lassen und **Minuten** durch **Stunden**, **Tage** oder gar **Monate** ersetzen, wenn das Abenteuer es erfordert.
 
 ## Bewegung und Entfernung
 
-Anstatt genaue Werte nachzuhalten, benutzt TBH abstrakte Bereiche, mit denen Entfernung dargestellt wird. **benachbart**, **in Nähe**, **abseits** und **entfernt**. Während eines Zugs können sich Charaktere irgendwo **in Nähe** bewegen und ihre Handlung jederzeit während der Bewegung durchführen. Sie können ihre Handlung verfallen lassen, um sich **abseits** zu positionieren. Alles jenseits von **abseits** gilt als **entfernt** und würde drei Bewegungen erfordern.
+Anstatt genaue Werte nachzuhalten, benutzt TBH abstrakte Bereiche, mit denen Entfernung dargestellt wird. **Benachbart**, **in Nähe**, **abseits** und **entfernt**. Während eines Zugs können sich Charaktere irgendwo **in Nähe** bewegen und ihre Handlung jederzeit während der Bewegung durchführen. Sie können ihre Handlung verfallen lassen, um sich **abseits** zu positionieren. Alles jenseits von **abseits** gilt als **entfernt** und würde drei Bewegungen erfordern.
 
-Das System soll einen Spielstil mit erzählerischem "Kopfkino" zu unterstützen und kümmert sich weniger darum, Spielfelder oder genaue Maße nachzuhalten. Um gegebene Bewegungsreichweiten oder Abmessungen (für Zauberreichweiten oder Flächeneffekte) umzurechnen, bietet die folgende Tabelle eine Richtlinie:
+Das System soll einen Spielstil mit erzählerischem "Kopfkino" zu unterstützen und kümmert sich weniger darum, Spielfelder oder genaue Maße nachzuhalten. Um vorgegebene Bewegungsreichweiten oder Abmessungen (für Zauberreichweiten oder Flächeneffekte) umzurechnen, bietet die folgende Tabelle eine Richtlinie:
 
 | BENACHBART |  IN NÄHE  | ABSEITS  |
 |:----------:|:---------:|:--------:|
@@ -132,7 +132,7 @@ Der Wert für **Trefferwürfel (TW)** entspricht der Stufe eines Monsters und de
 
 ## Angriff, Verteidigung & Schaden
 
-Wenn Charaktere einen Gegner angreifen, müssen sie für einen **Nahkampfangriff** ihre **STÄ**-Eigenschaft unterwürfeln oder **GES** für einen **Fernkampfangriff**. Ebenso müssen sie, wenn sie angegriffen werden, meistens gegen einen **Nahkampfangriff** ihre **STÄ** und gegen einen **Fernkampfangriff** ihre **GES** unterwürfeln, um keinen Schaden zu erleiden. Der SL gibt im zweifelsfall die Eigenschaft für die Probe an.
+Wenn Charaktere einen Gegner angreifen, müssen sie für einen **Nahkampfangriff** ihre **STÄ**-Eigenschaft unterwürfeln oder **GES** für einen **Fernkampfangriff**. Ebenso müssen sie, wenn sie angegriffen werden, meistens gegen einen **Nahkampfangriff** ihre **STÄ** und gegen einen **Fernkampfangriff** ihre **GES** unterwürfeln, um keinen Schaden zu erleiden. Der SL gibt im Zweifelsfall die Eigenschaft für die Probe an.
 
 Der von einem Angriff verursachte Schaden hängt bei angreifenden Charakteren von ihrer Klasse und bei angreifenden Monstern von ihren **TW** ab.
 
@@ -163,7 +163,7 @@ Wenn Spieler bei einem Angriff eine 1 würfeln, verdoppeln sie das Ergebnis des 
 
 ## Tod & Sterben
 
-Wenn Charaktere auf null **Trefferpunkte (TP)** fallen, sind sie **Außer Gefecht (AG)** Sie sind bewusstlos und können keine Handlungen durchführen. Wenn der Kampf/die Gefahr vorbei ist, können Charaktere, die Außer Gefecht sind auf die Tabelle (*Folgeseite*) würfeln, um zu sehen, was ihnen passiert ist. **Wer überlebt, hat danach 1W4 TP**.
+Wenn Charaktere auf null **Trefferpunkte (TP)** fallen, sind sie **Außer Gefecht (AG)**. Sie sind bewusstlos und können keine Handlungen durchführen. Wenn der Kampf/die Gefahr vorbei ist, können Charaktere, die Außer Gefecht sind, auf die Tabelle (*Folgeseite*) würfeln, um zu sehen, was ihnen passiert ist. **Wer überlebt, hat danach 1W4 TP**.
 
 *Wenn die Charaktere den Kampf verlieren oder den bewusstlosen Körper Charakters nicht bergen können, ist er für immer verloren*
 
@@ -186,11 +186,11 @@ Charaktere können Trefferpunkte durch Zaubersprüche, Heiltränke und Fähigkei
 
 ## Vorteil & Nachteil
 
-Ein SL kann entscheiden, eine bestimmte Herangehensweise oder Aufgabe eine höhere oder geringere Erfolgsaussicht hat. In einem solchen Fall weist er Spieler an, für die Probe einen zweiten W20 zu würfeln - bei einem **Vorteil** verwenden die Spieler das günstigere Ergebnis, bei einem **Nachteil** das ungünstigere.
+Ein SL kann entscheiden, dass eine bestimmte Herangehensweise oder Aufgabe eine höhere oder geringere Erfolgsaussicht hat. In einem solchen Fall weist er Spieler an, für die Probe einen zweiten W20 zu würfeln - bei einem **Vorteil** verwenden die Spieler das günstigere Ergebnis, bei einem **Nachteil** das ungünstigere.
 
 ## Erholung
 
-Wenn Charaktere sich für etwa eine Stunde ausruhen können, gewinnen sie all ihre Rüstungspunkte zurück. Einmal pro Tag, können sie nach dem Ausruhen den **Trefferwürfel** würfeln, der für ihre Klasse angegeben ist und erhalten dementsprechend viele **TP** zurück.
+Wenn Charaktere sich für etwa eine Stunde ausruhen können, gewinnen sie all ihre Rüstungspunkte zurück. Einmal pro Tag  können sie nach dem Ausruhen den **Trefferwürfel** würfeln, der für ihre Klasse angegeben ist, und erhalten dementsprechend viele **TP** zurück.
 
 ## Erfahrung
 
@@ -202,7 +202,7 @@ Für jede Spielsitzung / jeden Dungeonlevel / jedes wichtige Ereignis können Ch
 
 ## Stufen gewinnen
 
-Wenn Charaktere eine Stufe aufsteigen, erhöht sich das Maximum für ihre **Trefferpunkte** um einen Wert, der mit dem **Trefferwürfel** ihrer Klasse ausgewürfelt wird. Außerdem können Spieler für jede **Eigenschaft** einen W20 würfeln, wenn das Ergebnis höher ist als der entsprechende Wert, erhöht sich die **Eigenschaft** um 1.
+Wenn Charaktere eine Stufe aufsteigen, erhöht sich das Maximum für ihre **Trefferpunkte** um einen Wert, der mit dem **Trefferwürfel** ihrer Klasse ausgewürfelt wird. Außerdem können Spieler für jede **Eigenschaft** einen W20 würfeln; wenn das Ergebnis höher ist als der entsprechende Wert, erhöht sich die **Eigenschaft** um 1.
 
 ## Überladung
 
@@ -210,7 +210,7 @@ Charaktere können eine Anzahl von Gegenständen tragen, die ihrer **STÄ** ents
 
 ## Waffen nach Klasse
 
-Wenn Charaktere eine Waffe verwenden, die nicht bei ihrer Klasse aufgelistet stehen, haben alle ihre Proben im Kampf einen **Nachteil**.
+Wenn Charaktere Waffen verwenden, die nicht bei ihrer Klasse aufgelistet stehen, haben alle ihre Proben im Kampf einen **Nachteil**.
 
 ## Zufallsbegegnungen
 
@@ -235,7 +235,7 @@ Einige Monster und NSCs haben festgelegte Persönlichkeiten und Ziele, die dem S
 
 Kleriker können versuchen, mit einer Handlung alle Untoten **in Nähe** zu bannen. Dazu müssen sie für jede Gruppe von Wesen, die sie bannen wollen, eine Probe auf **WEI** bestehen, wobei der **TW** der Wesen zum Wurf addiert wird. Der SL legt fest, welche Wesen zu einer Gruppe gehören.
 
-Untote Monster, die von einem Kleriker **Bannen** konnte, müssen all ihre Bewegungen dazu benutzen (und all ihre Handlungen in Bewegungen verwandeln), um sich für 2W4 **Momente** vom Kleriker zu entfernen, nachdem sie **Gebannt** wurden.
+Untote Monster, die die Kleriker **Bannen** konnten, müssen all ihre Bewegungen dazu benutzen (und all ihre Handlungen in Bewegungen verwandeln), um sich für 2W4 **Momente** vom Kleriker zu entfernen, nachdem sie **Gebannt** wurden.
 
 ## Vorratswürfel
 
@@ -318,9 +318,9 @@ Beim Würfeln, um festzustellen, ob sich Eigenschaften erhöhen, würfeln Klerik
 
 Ab der zweiten Stufe können Kleriker täglich eine gewisse Anzahl von Göttlichen Anrufungen durchführen, siehe den Abschnitt zu Zaubersprüchen.
 
-### Zauberbuch
+### Gebetbuch
 
-Kleriker beginnen das Spiel mit einem großen Zauberbuch, das zu Beginn 1W4 Zaubersprüche der Stufe 1 und 2 von der Liste Göttlicher Anrufungen enthält.
+Kleriker beginnen das Spiel mit einem großen Gebetbuch, das zu Beginn 1W4 Zaubersprüche der Stufe 1 und 2 von der Liste Göttlicher Anrufungen enthält.
 
 ----
 
@@ -343,7 +343,7 @@ Beim Würfeln, um festzustellen, ob sich Eigenschaften erhöhen, würfeln Zauber
 
 Zauberer können täglich eine gewisse Anzahl an Arkanen Zauberformeln benutzen, siehe den Abschnitt zu Zaubersprüchen.
 
-### Spellbook
+### Zauberbuch
 
 Zauberer beginnen das Spiel mit einem großen Zauberbuch, das zu Beginn 1W4+2 Zaubersprüche der Stufe 1 und 2 von der Liste Arkaner Zauberformeln enthält.
 
@@ -353,7 +353,7 @@ Zauberer beginnen das Spiel mit einem großen Zauberbuch, das zu Beginn 1W4+2 Za
 
 Zauberer und Kleriker haben die Fähigkeit, Zaubersprüche einzusetzen, die von der entsprechenden Spruchliste (auf den folgenden Seiten) ausgewählt werden.
 
-Sie können jeden ihnen bekannten Spruch einsetzen, indem sie ihn aus ihrem Zauberbuch vorlesen und können eine Anzahl von Zaubersprüchen gleich ihrer **Stufe** im Gedächtnis behalten und sie ohne Buch wirken.
+Sie können jeden ihnen bekannten Spruch einsetzen, indem sie ihn aus ihrem Buch vorlesen und können eine Anzahl von Zaubersprüchen gleich ihrer **Stufe** im Gedächtnis behalten und sie ohne Buch wirken.
 
 Sie haben eine bestimmte Anzahl von 'täglichen Sprüchen', die sie pro Tag einsetzen können - wie in den zwei nebenstehenden Tabellen angegeben. Diese stellen die 'Energie' des zaubernden Charakters dar und die Anstrengung, die es kostet, Zaubersprüche über einen längeren Zeitraum zu sprechen. Wenn ein Charakter keine täglichen Sprüche mehr hat, kann er keine Zauber mehr einsetzen.
 
@@ -403,7 +403,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 **1**
 
 * **Leichte Wunden Heilen :** Heilt bei einem Ziel in Nähe 1W8 TP.
-* **Böses Erkennen :** Alles Böse in Nähe Bereich schimmert - 5Min.
+* **Böses Erkennen :** Alles Böse in Nähe schimmert - 5Min.
 * **Licht :** Erschafft ein schwaches Licht an einem Ort oder Gegenstand in Nähe - 1h.
 * **Schutz vor Bösem :** Vorteil bei alle schadenvermeidenden Proben gegen Bösen Verursacher - 1h.
 * **Essen und Trinken Reinigen :** Entfernt alle Krankheiten von Nahrung und Getränken in Nähe.
@@ -412,8 +412,8 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 
 * **Segnen :** Alle Verbündeten in Nähe erhalten +1 auf ihre Eigenschaftswerte, wenn sie angreifen oder bei Rettungswürfen - 1h.
 * **Fallen Finden :** Bemerkt alle Fallen in Nähe - 10Min.
-* **Person Halten :** Lässt 1W4 Ziele erstarren in Nähe. **WEI**-Probe jede Runde, ob Effekt anhält.
-* **Stille :** Magische Stille umhüllt alles in Nähe oder einzelne Ziel - 1h.
+* **Person Halten :** Lässt 1W4 Ziele in Näheerstarren. **WEI**-Probe jede Runde, ob Effekt anhält.
+* **Stille :** Magische Stille umhüllt alles in Nähe oder einzelne Ziele - 1h.
 * **Mit Tieren Reden :** Kann Tiere verstehen und sich mit ihnen unterhalten - 1h.
 
 **3**
@@ -429,7 +429,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 
 * **Nahrung/Wasser Erschaffen :** Erschafft für alle Wesen in Nähe ausreichend Nahrung/Wasser für einen Tag.
 * **Schwere Wunden Heilen :** Heilt ein Ziel in Nähe für 3W8+3 TP.
-* **Gift Aufheben :** Entfernt/Macht Gift bei einem Ziel in Nähe wirkungslos - 10Min.
+* **Gift Aufheben :** Gift wird bei einem Ziel in Nähe entfernt/wirkungslos gemacht - 10Min.
 * **Schutz vor Bösem :** Verbündete in Nähe gewinnen 6 temporäre RP gegen böse Wesen - 10Min.
 
 **5**
@@ -439,7 +439,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 * **Todesgriff :** Wähle ein Ziel in Nähe und mach eine **WEI**-Probe, bei Erfolg ist das Ziel Außer Gefecht.
 * **Pest :** Mache für jedes Ziel in Nähe eine **WEI**-Probe, bei Erfolg verliert es 2W8 TP für die nächsten 1W6 Runden.
 * **Queste :** Zwinge ein Wesen in Nähe, einen Befehl zu befolgen.
-* **Tote Erwecken :** Lasse ein williges Ziel in Nähe ins Leben zurückkehren, das innerhalb der letzten 7 Tage gestorben ist.
+* **Tote Erwecken :** Lasse ein williges Ziel in Nähe ins Leben zurückkehren, wenn es innerhalb der letzten 7 Tage gestorben ist.
 
 **6**
 
@@ -469,7 +469,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 * **Licht :** Erschafft ein schwaches Licht an einem Ort oder Gegenstand in Nähe - 1h.
 * **Magisches Geschoss :** Ein Ziel das in Nähe, abseits oder entfernt ist, nimmt 1W4 Schaden pro Stufe.
 * **Schild :** Erhalte 2 RP pro Stufe.
-* **Schlaf :** Versetzt Wesen im 'Wert' von 4W6 TW in Schlaf - 8h.
+* **Schlaf :** Versetzt Wesen 'im Wert' von 4W6 TW in Schlaf - 8h.
 
 **2**
 
@@ -536,10 +536,10 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 | Ghul                   |    2     | 2 Klauen (1W3) + 1 Biss (1W4) + AUS-Probe oder erstarrt.                                                                                           |
 | Riesenegel             |    2     | Stufenraub 1 Moment nachdem Schaden gemacht wurde.                                                                                                 |
 | Schrat                 |    3     | Alle GES-Proben haben Nachteil.                                                                                                                    |
-| Harpyie                |    3     | Lieb - CHA-Probe oder SCs müssen sich auf sie zubewegen.                                                                                           |
+| Harpyie                |    3     | Lied - CHA-Probe oder SCs müssen sich auf sie zubewegen.                                                                                           |
 | Werratte               |    3     | Kein Vorteil beim Überraschen von Werratte.                                                                                                        |
 | Schatten               |    3     | Berührung (1W4 und -1 STÄ), kann nur von magischen Waffen getroffen werden.                                                                        |
-| Dopplegänger           |    3     | Kann in einem Moment die Gestalt ändern, Nachteil gegen magische Proben.                                                                           |
+| Doppelgänger           |    3     | Kann in einem Moment die Gestalt ändern, Nachteil gegen magische Proben.                                                                           |
 | Gruftschrecken         |    3     | Kann nur von magischen oder Silberwaffen getroffen werden, -1 Stufe bei Treffer.                                                                   |
 | Flimmerhund            |    4     | Kann einmal pro Kampf teleportieren.                                                                                                               |
 | Grizzlybär             |    4     | 2 Klauen (1W3) + wenn beide treffen Schwitzkasten für 1W8 Schaden.                                                                                 |

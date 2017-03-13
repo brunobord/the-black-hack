@@ -5,7 +5,7 @@ pages:
         author: Matthias Schaffrath
         version: '1.0'
     -
-        label: Additional Things
+        label: Mehr Kram ("Additional Things")
         author: Matthias Schaffrath
-        version: '1.0'
+        version: '1.1'
         filename: additional-things.md

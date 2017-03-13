@@ -10,11 +10,11 @@ Wenn Du das hier liest, kann man mit großer Wahrscheinlichkeit davon ausgehen, 
 
 ## Alternative Regeln
 
-**Mehr Kram** ist eine Sammlung von optionalen Regeln, Anmerkungen, Vorschlägen und anderen Ideen, die es, aus dem einen oder anderen Grund, nicht in das TBH Minigrundregelwerk geschafft haben. Meistens aus Platzgründen, oder vielleicht, weil sie dämlich sind - ich überlasse Euch die Entscheidung. Übernehmt davon was Ihr wollt, wenn Ihr wollt, für Euer Spiel. Manches hier ist schon auf meinem Blog oder in Sozialen Medien erschienen - aber es ist gut, wenn alles schön ordentlich beieinander ist, nicht?
+**Mehr Kram** ist eine Sammlung von optionalen Regeln, Anmerkungen, Vorschlägen und anderen Ideen, die es, aus dem einen oder anderen Grund, nicht in das TBH Minigrundregelwerk geschafft haben. Meistens aus Platzgründen, oder vielleicht, weil sie dämlich sind - ich überlasse Euch die Entscheidung. Übernehmt davon was Ihr wollt, wenn Ihr wollt, für Euer Spiel. Manches hier ist schon auf meinem Blog oder in Sozialen Medien erschienen - aber es ist gut, wenn alles schön ordentlich beieinander ist, oder?
 
-## Überladeung
+## Überladung
 
-Die bestehenden Regeln sind als schnelle Methode gedacht, Gewicht abzubilden und die Schwierigkeit, viele Dinge zu tragen. Wenn Bedarf an mehr Details/Komplikationen besteht, kann man die folgenden Änderungen benutzen:
+Die bestehenden Regeln sind als schnelle Methode gedacht, Gewicht abzubilden und die Schwierigkeit, viele Dinge zu schleppen. Wenn Bedarf an mehr Details/Komplikationen besteht, kann man die folgenden Änderungen benutzen:
 
 Jeder Gegenstand kann verschiedene Eigenschaften aus der folgenden Liste haben, für jede davon wiegt der Gegenstand '1' mehr :
 
@@ -52,27 +52,27 @@ Am Anfang ihrer Runde müssen sie auf die **Panik!**-Tabelle würfeln und am End
 | 5 | **Schnappatmung** - **AUS** ist um 2 verringert.                                            |
 | 6 | **Herzattacke** - Außer Gefecht                                                             |
 
-*Ich persönlich glaube, die Panik!-Regeln sind ein tolles Zusatzelement für jede Dungeonerforschung - aber sie sind bestimmt nicht nach jedermanns Geschmack, also sind sie aus Platzgründen aus dem Grundregelwerk geflogen. Wenn Euch der 'Partyspiel'-Stil des Ungeschickt-Ergebnisses nicht gefällt, ersetzt es durch etwas Langweiligeres.*
+*Ich persönlich glaube, die Panik!-Regeln sind ein spaßiges Zusatzelement für jede Dungeonerforschung - aber sie sind bestimmt nicht nach jedermanns Geschmack, also sind sie aus Platzgründen aus dem Grundregelwerk geflogen. Wenn Euch der 'Partyspiel'-Stil des Ungeschickt-Ergebnisses nicht gefällt, ersetzt es durch etwas Langweiligeres.*
 
 ## Schwächere Krieger
 
-Ursprünglich waren Krieger etwas schwächer, aber haben dann einen 'Buff' erhalten - nach dem Feedback zu Beginn des Kickstarters. Um sie wieder so zu haben, wie sie vorher waren, benutzt die Regel, dass jedes zusätzliche Ziel , das sie angreifen ein anderes Ziel mit niedrigerem TP als das Vorherige sein muss.
+Ursprünglich waren Krieger etwas schwächer, aber haben dann einen 'Buff' erhalten - nach dem Feedback zu Beginn des Kickstarters. Um sie wieder so zu haben, wie sie vorher waren, benutzt diese Regel: Jedes zusätzliche Ziel , das ein Krieger angreift, muss ein neues Ziel mit weniger TP als das Vorherige sein.
 
-*Das schränkt die Möglichkeiten ein, dass Krieger ihre besondere Fähigkeit einsetzen und zwingt sie, den Schaden zu verteilen. Dasselbe Ziel kann zweimal angegriffen werden, aber zwischen den beiden Angriffen muss ein zusätzliches Ziel angegriffen werden - das hält höherstufige Krieger davon ab, all ihren Schaden auf ein einzelnes Ziel 'auszukippen'.*
+*Das schränkt die Möglichkeiten ein, wie Krieger ihre besondere Fähigkeit einsetzen können und zwingt sie, den Schaden zu verteilen. Dasselbe Ziel kann zweimal angegriffen werden, aber zwischen den beiden Angriffen muss ein zusätzliches Ziel angegriffen werden - das hält höherstufige Krieger davon ab, all ihren Schaden auf ein einzelnes Ziel 'auszukippen'.*
 
 ## Abfangen
 
-Einmal pro Runde, wenn ein NSc sich irgendwo im **in Nähe** bewegt und am Ende seines Zuges **benachbart** zu einem Verbündeten stehen würde, können Charaktere sich bewegen und dem NSC den Weg verstellen. Die Charaktere dürfen ihre Bewegung in der Runde *nicht* schon verwendet haben. Diese Handlung hält den NSC davon ab, den Verbündeten in einen Nahkampf zu verwickeln, allerdings werden die Charaktere wahrscheinlich den Angriff des NSC abbekommen, den sie abgefangen haben.
+Einmal pro Runde, wenn ein NSC sich irgendwo im **in Nähe** bewegt und am Ende seines Zuges **benachbart** zu einem Verbündeten stehen würde, können Charaktere sich bewegen und dem NSC den Weg verstellen. Die Charaktere dürfen ihre Bewegung in der Runde *nicht* bereits verwendet haben. Diese Handlung hält den NSC davon ab, den Verbündeten in einen Nahkampf zu verwickeln, allerdings werden die Charaktere wahrscheinlich den Angriff des NSC abbekommen, den sie abgefangen haben.
 
-*Ab und zu habe ich Spaß dabei, Miniaturen einzusetzen (wenn ich denn mal eine nichtvirtuelle Spielrunde habe... Ich bin soo arm dran!). Daher passt es manchmal, in Kämpfen etwas mehr Taktik zu erlauben - um etwas mehr von dem 'Simulationsspielaspekt' zu haben, der in kleinen Dosen Spaß machen kann.*
+*Ab und zu habe ich Spaß dabei, Miniaturen einzusetzen (wenn ich denn mal eine nichtvirtuelle Spielrunde habe... Ich bin soo arm dran!). Daher passt es manchmal, in Kämpfen etwas mehr Taktik zu erlauben - um etwas mehr von dem 'Simulationsspielaspekt' reinzubringen, der in kleinen Dosen Spaß machen kann.*
 
 ## Geld
 
-TBH verfolgt von sich aus den Ansatz, Geld abstrakt mit generischen 'Münzen' darzustellen - damit hat der SL die Möglichkeit, der Kampagne einen eigenen Anstrich zu verleihen. Aber hier ist ein lustiger Vorschlag - wenn die Spieler Geld erhalten, dann keinen festen Betrag, sondern Würfel (W6).
+TBH verfolgt grundsätzlich den Ansatz, Geld abstrakt mit generischen 'Münzen' darzustellen - damit hat der SL die Möglichkeit, der Kampagne einen eigenen Anstrich zu verleihen. Aber hier ist ein lustiger Vorschlag - wenn die Spieler Geld erhalten, dann keinen festen Betrag, sondern Würfel (W6).
 
-Sie können die Münzen zählen, indem sie die Würfel würfeln, was eine Handlung benötigt (höchstens 4 Würfe) und das Ergebnis dann zu ihrem mitgeführten Barvermögen hinzufügen.
+Spieler können die Münzen zählen, indem sie die Würfel würfeln, was eine Handlung benötigt (höchstens 4 Würfe) und das Ergebnis dann zu ihrem mitgeführten Barvermögen hinzufügen.
 
-Für jeden TW den ein Wesen hat, trägt es W6 Münzen. Ein Schläger mit Stufe 4 hätte also 4W6.
+Für jeden TW, den ein Wesen hat, trägt es W6 Münzen. Ein Schläger mit Stufe 4 hätte also 4W6.
 
 *Eine nette Ablenkung, wurde aber aus Platzgründen aus dem Grundregelwerk gestrichen - ich selbst mache es ständig so. Einige Spieler zählen gern das Geld, sobald sie es finden, bei einer handvoll Münzen, sagen wir mal 3W6 Stück, ist das in Ordnung. Aber bei größeren Mengen lass sie wissen, dass es sie eine Handlung kosten würde - um ganz genau nachzuzählen.*
 
@@ -80,7 +80,7 @@ Für jeden TW den ein Wesen hat, trägt es W6 Münzen. Ein Schläger mit Stufe 4
 
 ## Glück
 
-Alle Charaktere werden mit einem Punkt an Glück erschaffen - sie können ihn eintauschen, um einen beliebigen Würfel neu zu würfeln oder einen Fakt zur Erzählung beizutragen, der nicht direkte Regelvorteile hat. Mehr Glückspunkte kann man ausschließlich bekommen, indem man es vom SL erhält - ich verteile sie an Spieler, wenn sie wirklich richtig Mist bauen. Karma.
+Alle Charaktere werden mit einem Punkt an Glück erschaffen - sie können ihn eintauschen, um einen beliebigen Würfel neu zu würfeln oder einen Fakt zur Erzählung beizutragen, der nicht direkte Regelvorteile hat. Mehr Glückspunkte kann man ausschließlich bekommen, indem man sie vom SL erhält - ich verteile sie an Spieler, wenn sie wirklich richtig Mist bauen. Karma.
 
 *Du weißt wahrscheinlich schon, ob Du Glücksregeln magst oder nicht und die hier ist weder abgedreht nocht innovativ.*
 
@@ -90,9 +90,9 @@ Wenn Spieler eine Probe nicht schaffen und der SL es anbietet, können sie das E
 
 | Preis des Erfolgs                                                                                            |
 |:------------------------------------------------------------------------------------------------------------:|
-| Würfle einen W10, der Entsprechende Gegenstand im Inventar des SC ist zerstört/verloren.                     |
-| Stufe den kleinsten **Vorratswürfel**, den ein SC hat, ab, wenn es schon ein W4 ist, ist der Gegenstand weg. |
-| Jemand **Nahebei** (einschließlich des SC) nimmt 1W6 Schaden.                                                |
+| Würfle einen W10, der entsprechende Gegenstand im Inventar des SC ist zerstört/verloren.                     |
+| Stufe den kleinsten **Vorratswürfel**, den ein SC hat, ab. Wenn es bereits ein W4 ist, ist der Gegenstand weg. |
+| Jemand **in Nähe** (einschließlich des SC) nimmt 1W6 Schaden.                                                |
 | **Nachteil** bei einem zukünftigen Wurf nach Wahl des SL.                                                    |
 | +2 auf das nächste Ergebnis, wenn der SL **Verhalten** auswürfelt.                                           |
 | Beim Zählen von Münzen sind Würfelergebnisse von 1-2 offensichtliche Fälschungen.                            |
@@ -102,15 +102,15 @@ Wenn Spieler eine Probe nicht schaffen und der SL es anbietet, können sie das E
 
 ## Versteinerung
 
-Manche Monster im Grundregelwerk können SCs versteinern. Erstarrte Charaktere können sich nicht bewegen, sprechen, oder Handlungen durchführen. Zu Beginn seines Zugs können Charaktere eine **AUS**-Probe machen, bei Erfolg ist er nicht länger erstarrt und können den Rest ihres Zugs wie gewohnt durchführen.
+Manche Monster im Grundregelwerk können SCs versteinern oder erstarren lassen. Erstarrte Charaktere können sich nicht bewegen, sprechen, oder Handlungen durchführen. Zu Beginn seines Zugs können Charaktere eine **AUS**-Probe machen, bei Erfolg ist er nicht länger erstarrt und können den Rest ihres Zugs wie gewohnt durchführen.
 
-*Ich habe das aus Platzgründen aus den Regeln herausgelassen, es sah aus als könnte sich ein SL etwas für den angedeuteten 'Zustandseffekt' ausdenken, dazu kommt der Vorteil von Klerikern bei AUS-Proben. Mit derselben Herangehensweise kann man eine Menge von beeinträchtigenden Effekten abbilden, Gift, Feuer, Wahnsinn, Blindheit etc. - man muss nur eventuell die entsprechenden Eigenschaften anpassen.*
+*Ich habe das aus Platzgründen aus den Regeln herausgelassen, es sah aus, als könnte sich ein SL leicht etwas für den angedeuteten 'Zustandseffekt' ausdenken, dazu kommt der Vorteil von Klerikern bei AUS-Proben. Mit derselben Herangehensweise kann man eine Menge von beeinträchtigenden Effekten abbilden, Gift, Feuer, Wahnsinn, Blindheit etc. - man muss nur eventuell die entsprechenden Eigenschaften anpassen.*
 
 ## Zufallsbegegnungen
 
 Eine alternative Methode, um Zufallsbegegnungen einzubringen: Immer dann einen W4 zur würfeln, wenn die SCs laut sind oder länger als 5 **Minuten** (Runden) an einem gefährlichen Ort bleiben. Ein Ergebnis von 1 bedeutet eine Zufallsbegegnung.
 
-*Nicht jeder mag es oder denkt daran, alle 15 Minuten zu würfeln, das hier ist ein weniger starrer Ansatz, der dem SL etwas Kontrolle zurückgibt.*
+*Nicht jeder mag es oder denkt daran, alle 15 Minuten zu würfeln. Das hier ist ein weniger starrer Ansatz, der dem SL etwas Kontrolle zurückgibt.*
 
 ## Moral
 
@@ -118,11 +118,11 @@ Wenn die Anzahl von Gegnern im Kampf um 50% sinkt, sind sie 'gebrochen' und ein 
 
 Wenn einem Charakter eine **CHA**-Probe gelingt, werden die gebrochenen Gegner so schnell wie möglich aus dem Kampf fliehen. Wenn sie einen Anführer bei sich haben, wird die **CHA**-Probe mit einem **Nachteil** gewürfelt.
 
-*Das ist eine sehr 'simulationsspielige' Regel, die ein interessantes taktisches Element in Kämpfe bringt, wenn man so etwas mag. Und man stelle sich vor, wenn das neu ausgewürfelte Verhalten positiv ist, aber die NSCs gerade noch versucht haben, die Spierler umzubringen - klar, dass sie plötzlich um ihr Leben betteln! Das soll alles nur als Richtlinie dienen, natürlich sollte ein SL seinen 'erzählerischen gesunden Menschenverstand' benutzen.*
+*Das ist eine sehr 'simulationsspielige' Regel, die ein interessantes taktisches Element in Kämpfe bringt, wenn man so etwas mag. Und man stelle sich vor, wenn das neu ausgewürfelte Verhalten positiv ist, aber die NSCs gerade noch versucht haben, die SCs umzubringen - klar, dass sie plötzlich um ihr Leben betteln! Das soll alles nur als Richtlinie dienen, natürlich sollte ein SL seinen 'erzählerischen gesunden Menschenverstand' benutzen.*
 
 ## Hunger & Rationen
 
-Am Anfang einer Spielsitzung würfeln alle Charaktere den **Vorratswürfel** ihrer Rationen. Wenn sie aus irgendeinem Grund nicht essen/trinken können, würfeln sie alle Proben mit **Nachteil** bis sie die Möglichkeit haben.
+Am Anfang einer Spielsitzung würfeln alle Charaktere den **Vorratswürfel** ihrer Rationen. Wenn sie aus irgendeinem Grund nicht essen/trinken können, würfeln sie alle Proben mit **Nachteil** bis sie die Möglichkeit dazu haben.
 
 Sobald sie eine Ration gegessen haben, gewinnen Charaktere 1 **TW Trefferpunkte** zurück. Sie können mehr Rationen essen, wenn die Geschichte es erfordert - aber sie können nur einmal pro Spielsitzung den Heileffekt nutzen.
 
@@ -130,7 +130,7 @@ Sobald sie eine Ration gegessen haben, gewinnen Charaktere 1 **TW Trefferpunkte*
 
 ## Schwächere Gegner
 
-Gegner, die keinen Namen haben, sind eigentlich nur 'Redshirts' und ein gutes Redshirt sollte beim ersten Treffer sterben. Wenn sie auch nur 1 Punkt Schaden nehmen, gehen sie zu Boden. Gib ihnen trotzdem HD, um festzulegen, wieviel Schaden sie bei einem Treffer verursachen.
+Gegner, die keinen Namen haben, sind eigentlich nur 'Redshirts' und ein gutes Redshirt sollte beim ersten Treffer sterben. Wenn sie auch nur 1 Punkt Schaden nehmen, gehen sie zu Boden. Gib ihnen trotzdem TW, um festzulegen, wieviel Schaden sie bei einem Treffer verursachen.
 
 Außerdem, wenn ein Spieler das Glück hat, eine 1 zu würfeln, stirbt ein *benanntes* Wesen auf der Stelle - am besten auf übermäßig grausame und blutige Art und Weise.
 
@@ -140,7 +140,7 @@ Außerdem, wenn ein Spieler das Glück hat, eine 1 zu würfeln, stirbt ein *bena
 
 Wenn euch das derzeitige Rüstungssystem zu schwach ist - hier ist die erste von zwei Alternativen.
 
-Rüstungspunkte (RP) mindern Schaden wie gewöhnlich, aber sie gehen nicht aus - jeder Treffer wird um die Rüstpunkte verringert. Dazu hat jede Rüstung jetzt Vorratswürfel (VW)- *siehe nebenstehende Tabelle*.
+Rüstungspunkte (RP) mindern Schaden wie gewöhnlich, aber sie verbrauchen sich nicht - jeder Treffer wird um die Rüstpunkte verringert. Dazu hat jede Rüstung jetzt Vorratswürfel (VW)- *siehe nebenstehende Tabelle*.
 
 | Typ            | VW  | RP |
 |:--------------:|:---:|:--:|
@@ -162,7 +162,7 @@ Wenn eine Wesen sich **benachbart** zu einem SC mit einer langen Waffe bewegt, h
 
 ## Mehr Rüstung
 
-Wenn dir das bisherige Rüstungssystem gefällt, aber du es gern ein wenig stärker hättest, dann sind hier zwei kleine Änderungen, die den Wert von Rüstung dramatisch erhöhen.
+Wenn dir das bisherige Rüstungssystem an sich gefällt, aber du es gern ein wenig stärker hättest, dann sind hier zwei kleine Änderungen, die den Wert von Rüstung dramatisch erhöhen.
 
 Verdopple die Rüstungspunkte für alles und verzichte auf die Notwendigkeit, eine Stunde zu warten - Rüstungspunkte erholen sich am Ende eines Kampfes. Einfach.
 
@@ -182,9 +182,9 @@ Wenn in einem System mit aufsteigender RK etwa Lederrüstung +2 zu einem Grundwe
 
 ***Wie oft kann man sich normalerweise in einer Runde bewegen?***
 
-Ohne irgendwelche Zauber oder irgendeine seltsame, bekloppte Fähigkeit - 2mal, wenn du deine Handlung opferst. Das heißt, du könntest Dich **Weiter Weg** bewegen.
+Ohne irgendwelche Zauber oder irgendeine seltsame, bekloppte Fähigkeit - 2mal, wenn du deine Handlung opferst. Das heißt, Du könntest Dich **abseits** bewegen.
 
-***Muss man unbedingt unterwürfeln? Warum nicht genau auf den Wert und drunter***
+***Muss man unbedingt unterwürfeln? Warum nicht genau auf den Wert und drunter?***
 
 Damit es selbst bei einem Eigenschaftswert von 20 eine gewisse Chance gibt, zu scheitern.
 
@@ -194,7 +194,7 @@ Du benutzt Rüstung, um Schaden aufzuheben. Wenn die Rüstung ihren maximalen Sc
 
 ***Wie viele neue Sprüche füge ich meinem Zauberbuch hinzu, wenn ich eine Stufe gewinne?***
 
-In meinem Spiel müssen Spieler aktiv neue Zauber suchen - aber mach du es so, wie die Spieler es lieber haben wollen. Im Zweifelsfall solltet ihr abstimmen.
+In meinem Spiel müssen Spieler aktiv neue Zauber suchen - aber mach du es so, wie die Spieler es am liebsten spielen wollen. Im Zweifelsfall solltet ihr abstimmen.
 
 ***Wenn ein SC ein Wesen beschwört und ich will, dass der Spieler für das Angreifen und Ausweichen des Wesens würfelt, sollte es dann die Eigenschaften des SC verwenden oder seine eigenen Eigenschaften und TW haben?***
 
@@ -204,7 +204,7 @@ Ich würde auf die entsprechende Probe des SC würfeln lassen - besonders, wenn 
 
 Lass einen Spieler eine Probe würfeln, um zu sehen, ob X passiert oder nicht. Wenn das zu aufwändig ist, sollte X vielleicht einfach passieren. Beachte mächtige Gegner und Stufen bei Herausforderungen und Situationen.
 
-***Es gibt keine Bögen/1-händige Waffen in der Ausrüstungsliste?***
+***Es gibt keine Bögen/1-händigen Waffen in der Ausrüstungsliste?***
 
 Ja, mein Fehler. Bögen sollten dasselbe kosten wie 2-händige Waffen. 1-händige Waffen vielleicht die Hälfte davon.
 
@@ -218,7 +218,7 @@ Ich mag die Umgangssprachlichkeit von Begriffen wie Vorteil, Nachteil, in Nähe,
 
 ***Gibt es irgendwelche Richtlinien zum Einsatz von Vor- und Nachteilen?***
 
-Nein, bei The Black Hack geht es nicht darum, irgendwas genau zu erläutern. Der SL muss seine eigene individuelle 'Sitzkuhle' prägen.
+Nein, bei The Black Hack geht es nicht darum, irgendwas exakt zu regeln. Der SL muss seine eigene individuelle 'Sitzkuhle' prägen.
 
 ***Gibt es keinen Weg, Kämpfe regelmechanisch interessanter zu gestalten als nur mit Vor-/Nachteilen?***
 
@@ -226,11 +226,11 @@ Klar, jede Menge, aber es würde den Umfang des Spiels sprengen, sie aufzuzähle
 
 ***Warum gibt es vier Entfernungen?***
 
-Weil du wissen können wolltest, wie weit etwas weg ist.
+Weil du wissen wollen könntest, wie weit etwas weg ist.
 
 ***Warum sind die Regeln so schwammig erklärt?***
 
-The Black Hack geht davon aus, dass du schon Rollenspiele gespielt hast. Wenn das nicht der Fall ist und du irgendwie auf das Spiel gestoßen bist, schreib mir eine Email - ich würde zu gern wissen, wie du es gefunden hast.
+The Black Hack geht davon aus, dass du schon Rollenspiele gespielt hast. Wenn das nicht der Fall ist und du trotzdem irgendwie auf das Spiel gestoßen bist, schreib mir eine Email - ich würde zu gern wissen, wie du es gefunden hast.
 
 ## Ein Lebendiges Dokument
 
