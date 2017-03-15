@@ -60,7 +60,7 @@ Am Anfang ihrer Runde müssen sie auf die **Panik!**-Tabelle würfeln und am End
 
 ## Schwächere Krieger
 
-Ursprünglich waren Krieger etwas schwächer, aber haben dann einen 'Buff' erhalten - nach dem Feedback zu Beginn des Kickstarters. Um sie wieder so zu haben, wie sie vorher waren, benutzt diese Regel: Jedes zusätzliche Ziel, dass ein Krieger angreift, muss ein neues Ziel mit weniger TP als das vorherige sein.
+Ursprünglich waren Krieger etwas schwächer, aber haben dann einen 'Buff' erhalten - nach dem Feedback zu Beginn des Kickstarters. Um sie wieder so zu haben, wie sie vorher waren, benutzt diese Regel: Jedes zusätzliche Ziel, das ein Krieger angreift, muss ein neues Ziel mit weniger TP als das vorherige sein.
 
 *Das schränkt die Möglichkeiten ein, wie Krieger ihre besondere Fähigkeit einsetzen können und zwingt sie, den Schaden zu verteilen. Dasselbe Ziel kann zweimal angegriffen werden, aber zwischen den beiden Angriffen muss ein zusätzliches Ziel angegriffen werden - das hält höherstufige Krieger davon ab, all ihren Schaden auf ein einzelnes Ziel 'auszukippen'.*
 
