@@ -106,7 +106,7 @@ Wenn Spieler eine Probe nicht schaffen und der SL es anbietet, können sie das E
 
 ## Versteinerung
 
-Manche Monster im Grundregelwerk können SCs versteinern oder erstarren lassen.. Erstarrte Charaktere können sich nicht bewegen, sprechen, oder Handlungen durchführen. Zu Beginn seines Zugs können Charaktere eine **AUS**-Probe machen, bei Erfolg ist er nicht länger erstarrt und können den Rest ihres Zugs wie gewohnt durchführen.
+Manche Monster im Grundregelwerk können SCs versteinern oder erstarren lassen. Erstarrte Charaktere können sich nicht bewegen, sprechen, oder Handlungen durchführen. Zu Beginn seines Zugs können Charaktere eine **AUS**-Probe machen, bei Erfolg ist er nicht länger erstarrt und können den Rest ihres Zugs wie gewohnt durchführen.
 
 *Ich habe das aus Platzgründen aus den Regeln herausgelassen, es sah aus, als könnte sich ein SL leicht etwas für den angedeuteten 'Zustandseffekt' ausdenken, dazu kommt der Vorteil von Klerikern bei AUS-Proben. Mit derselben Herangehensweise kann man eine Menge von beeinträchtigenden Effekten abbilden, Gift, Feuer, Wahnsinn, Blindheit etc. - man muss nur eventuell die entsprechenden Eigenschaften anpassen.*
 
@@ -166,7 +166,7 @@ Wenn eine Wesen sich **benachbart** zu einem SC mit einer langen Waffe bewegt, h
 
 ## Mehr Rüstung
 
-Wenn dir das bisherige Rüstungssystem gefällt, aber du es gern ein wenig stärker hättest, dann sind hier zwei kleine Änderungen, die den Wert von Rüstung dramatisch erhöhen.
+Wenn dir das bisherige Rüstungssystem an sich gefällt, aber du es gern ein wenig stärker hättest, dann sind hier zwei kleine Änderungen, die den Wert von Rüstung dramatisch erhöhen.
 
 Verdopple die Rüstungspunkte für alles und verzichte auf die Notwendigkeit, eine Stunde zu warten - Rüstungspunkte erholen sich am Ende eines Kampfes. Einfach.
 
@@ -198,7 +198,7 @@ Du benutzt Rüstung, um Schaden aufzuheben. Wenn die Rüstung ihren maximalen Sc
 
 ***Wie viele neue Sprüche füge ich meinem Zauberbuch hinzu, wenn ich eine Stufe gewinne?***
 
-In meinem Spiel müssen Spieler aktiv neue Zauber suchen - aber mach du es so, wie die Spieler am liebsten spielen wollen. Im Zweifelsfall solltet ihr abstimmen.
+In meinem Spiel müssen Spieler aktiv neue Zauber suchen - aber mach du es so, wie die Spieler es am liebsten spielen wollen. Im Zweifelsfall solltet ihr abstimmen.
 
 ***Wenn ein SC ein Wesen beschwört und ich will, dass der Spieler für das Angreifen und Ausweichen des Wesens würfelt, sollte es dann die Eigenschaften des SC verwenden oder seine eigenen Eigenschaften und TW haben?***
 
@@ -234,7 +234,7 @@ Weil du wissen wollen könntest, wie weit etwas weg ist.
 
 ***Warum sind die Regeln so schwammig erklärt?***
 
-The Black Hack geht davon aus, dass du schon Rollenspiele gespielt hast. Wenn das nicht der Fall ist und du irgendwie auf das Spiel gestoßen bist, schreib mir eine Email - ich würde zu gern wissen, wie du es gefunden hast.
+The Black Hack geht davon aus, dass du schon Rollenspiele gespielt hast. Wenn das nicht der Fall ist und du trotzdem irgendwie auf das Spiel gestoßen bist, schreib mir eine Email - ich würde zu gern wissen, wie du es gefunden hast.
 
 ## Ein Lebendiges Dokument
 
