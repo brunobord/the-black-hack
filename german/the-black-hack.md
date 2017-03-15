@@ -24,7 +24,7 @@ The Black Hack (TBH) ist ein traditionelles Tischrollenspiel, das mit Papier, St
 
 ## Die Kernmechanik
 
-Wann immer Charaktere versuchen, etwas zu tun das möglicherweise scheitern könnte, wird der Erfolg mit einer Probe auf einen Eigenschaftswert getestet. Um eine Probe erfolgreich zu bestehen, müssen Spieler mit einem W20 ***unter*** den entsprechenden Eigenschaftwert würfeln.
+Wann immer Charaktere versuchen etwas zu tun, das möglicherweise scheitern könnte, wird der Erfolg mit einer Probe auf einen Eigenschaftswert getestet. Um eine Probe erfolgreich zu bestehen, müssen Spieler mit einem W20 ***unter*** den entsprechenden Eigenschaftwert würfeln.
 
 Monster würfeln keine Proben - Spielercharaktere müssen ihren Angriffen ausweichen, indem sie eine Probe bestehen. Das einzige, was Monster würfeln, ist ihr Schaden.
 
