@@ -66,7 +66,7 @@ Wenn Charaktere Rüstung tragen, die bei ihrer Klasse nicht angegeben ist, addie
 | Lederrüstung                 |  100   |       -       |      4 Rüstungspunkte      |
 | Kettenhemd                   |  350   |       -       |      6 Rüstungspunkte      |
 | Plattenrüstung               |  600   |       -       |      8 Rüstungspunkte      |
-| Großer/Kleiner Schild        | 50/100 |       -       |     2/4 Rüstungspunkte     |
+| Kleiner/Großer Schild        | 50/100 |       -       |     2/4 Rüstungspunkte     |
 | Rucksack                     |   5    |       -       |        Traglast +2         |
 | Lampenöl                     |   2    |      d6       |              -             |
 | Handwerksgerät               |   2    |       -       |              -             |
@@ -107,7 +107,7 @@ The Black Hack verwendet keine Rettungswürfe und lässt die Spieler stattdessen
 
 ## Spielerzug
 
-Während eines Zugs der Spieler dürfen ihre Charakte sich einmal bewegen und eine Handlung durchführen. Sie könnten angreifen, einen Hinweis suchen, mit einem NSC reden, einen Zauber wirken - mit der Spielwelt interagieren ist eine Handlung. Dabei wird der Ausgang oft durch Eigenschaftsproben bestimmt.
+Während eines Zugs der Spieler dürfen ihre Charaktere sich je einmal bewegen und eine Handlung durchführen. Sie könnten angreifen, einen Hinweis suchen, mit einem NSC reden, einen Zauber wirken - mit der Spielwelt interagieren ist eine Handlung. Dabei wird der Ausgang oft durch Eigenschaftsproben bestimmt.
 
 ## Zeit und Runden
 
@@ -115,9 +115,9 @@ Zeit im Spiel wird vor allem auf zwei Arten nachgehalten - **Momente** (Runden) 
 
 ## Bewegung und Entfernung
 
-Anstatt genaue Werte nachzuhalten, benutzt TBH abstrakte Bereiche, mit denen die Entfernung dargestellt wird. **benachbart**, **in der Nähe**, **abseits** und **entfernt**. Während eines Zugs können sich Charaktere irgendwo **in der Nähe** bewegen und ihre Handlung jederzeit während der Bewegung durchführen. Sie können ihre Handlung verfallen lassen, um sich **abseits** zu positionieren. Alles jenseits von **abseits** gilt als **entfernt** und würde drei Bewegungen erfordern.
+Anstatt genaue Werte nachzuhalten, benutzt TBH abstrakte Bereiche, mit denen die Entfernung dargestellt wird. **Benachbart**, **in der Nähe**, **abseits** und **entfernt**. Während eines Zugs können sich Charaktere irgendwo **in der Nähe** bewegen und ihre Handlung jederzeit während der Bewegung durchführen. Sie können ihre Handlung verfallen lassen, um sich **abseits** zu positionieren. Alles jenseits von **abseits** gilt als **entfernt** und würde drei Bewegungen erfordern.
 
-Das System soll einen Spielstil mit erzählerischem "Kopfkino" unterstützen und kümmert sich weniger darum, Spielfelder oder genaue Maße nachzuhalten. Um gegebene Bewegungsreichweiten oder Abmessungen (für Zauberreichweiten oder Flächeneffekte) umzurechnen, bietet die folgende Tabelle eine Richtlinie:
+Das System soll einen Spielstil mit erzählerischem "Kopfkino" zu unterstützen und kümmert sich weniger darum, Spielfelder oder genaue Maße nachzuhalten. Um vorgegebene Bewegungsreichweiten oder Abmessungen (für Zauberreichweiten oder Flächeneffekte) umzurechnen, bietet die folgende Tabelle eine Richtlinie:
 
 | BENACHBART |  IN DER NÄHE  | ABSEITS  |
 |:----------:|:-------------:|:--------:|
@@ -134,7 +134,7 @@ Der Wert für **Trefferwürfel (TW)** entspricht der Stufe eines Monsters und de
 
 ## Angriff, Verteidigung & Schaden
 
-Wenn Charaktere einen Gegner angreifen, müssen sie für einen **Nahkampfangriff** ihre **STÄ**-Eigenschaft unterwürfeln oder **GES** für einen **Fernkampfangriff**. Ebenso müssen sie, wenn sie angegriffen werden, meistens gegen einen **Nahkampfangriff** ihre **STÄ** und gegen einen **Fernkampfangriff** ihre **GES** unterwürfeln, um keinen Schaden zu erleiden. Der SL gibt im zweifelsfall die Eigenschaft für die Probe an.
+Wenn Charaktere einen Gegner angreifen, müssen sie für einen **Nahkampfangriff** ihre **STÄ**-Eigenschaft unterwürfeln oder **GES** für einen **Fernkampfangriff**. Ebenso müssen sie, wenn sie angegriffen werden, meistens gegen einen **Nahkampfangriff** ihre **STÄ** und gegen einen **Fernkampfangriff** ihre **GES** unterwürfeln, um keinen Schaden zu erleiden. Der SL gibt im Zweifelsfall die Eigenschaft für die Probe an.
 
 Der von einem Angriff verursachte Schaden hängt bei angreifenden Charakteren von ihrer Klasse und bei angreifenden Monstern von ihren **TW** ab.
 
@@ -165,7 +165,7 @@ Wenn Spieler bei einem Angriff eine 1 würfeln, verdoppeln sie das Ergebnis des 
 
 ## Tod & Sterben
 
-Wenn Charaktere auf 0 **Trefferpunkte (TP)** fallen, sind sie **Außer Gefecht (AG)** Sie sind bewusstlos und können keine Handlungen durchführen. Wenn der Kampf/die Gefahr vorbei ist, können Charaktere, die Außer Gefecht sind, auf die Tabelle (*Folgeseite*) würfeln, um zu sehen, was ihnen passiert ist. **Wer überlebt, hat danach 1W4 TP**.
+Wenn Charaktere auf 0 **Trefferpunkte (TP)** fallen, sind sie **Außer Gefecht (AG)**. Sie sind bewusstlos und können keine Handlungen durchführen. Wenn der Kampf/die Gefahr vorbei ist, können Charaktere, die Außer Gefecht sind, auf die Tabelle (*Folgeseite*) würfeln, um zu sehen, was ihnen passiert ist. **Wer überlebt, hat danach 1W4 TP**.
 
 *Wenn die Charaktere den Kampf verlieren oder den bewusstlosen Körper Charakters nicht bergen können, ist er für immer verloren!*
 
@@ -188,11 +188,11 @@ Charaktere können Trefferpunkte durch Zaubersprüche, Heiltränke und Fähigkei
 
 ## Vorteil & Nachteil
 
-Ein SL kann entscheiden, eine bestimmte Herangehensweise oder Aufgabe eine höhere oder geringere Erfolgsaussicht hat. In einem solchen Fall weist er Spieler an, für die Probe einen zweiten W20 zu würfeln - bei einem **Vorteil** verwenden die Spieler das günstigere Ergebnis, bei einem **Nachteil** das ungünstigere.
+Ein SL kann entscheiden, dass eine bestimmte Herangehensweise oder Aufgabe eine höhere oder geringere Erfolgsaussicht hat. In einem solchen Fall weist er Spieler an, für die Probe einen zweiten W20 zu würfeln - bei einem **Vorteil** verwenden die Spieler das günstigere Ergebnis, bei einem **Nachteil** das ungünstigere.
 
 ## Erholung
 
-Wenn Charaktere sich für etwa eine Stunde ausruhen können, gewinnen sie all ihre Rüstungspunkte zurück. Einmal pro Tag, können sie nach dem Ausruhen den **Trefferwürfel** würfeln, der für ihre Klasse angegeben ist und erhalten dementsprechend viele **TP** zurück.
+Wenn Charaktere sich für etwa eine Stunde ausruhen können, gewinnen sie all ihre Rüstungspunkte zurück. Einmal pro Tag können sie nach dem Ausruhen den **Trefferwürfel** würfeln, der für ihre Klasse angegeben ist, und erhalten dementsprechend viele **TP** zurück.
 
 ## Erfahrung
 
@@ -204,7 +204,7 @@ Für jede Spielsitzung / jeden Dungeonlevel / jedes wichtige Ereignis können Ch
 
 ## Stufen gewinnen
 
-Wenn Charaktere eine Stufe aufsteigen, erhöht sich das Maximum für ihre **Trefferpunkte** um einen Wert, der mit dem **Trefferwürfel** ihrer Klasse ausgewürfelt wird. Außerdem können Spieler für jede **Eigenschaft** einen W20 würfeln, wenn das Ergebnis höher ist als der entsprechende Wert, erhöht sich die **Eigenschaft** um 1.
+Wenn Charaktere eine Stufe aufsteigen, erhöht sich das Maximum für ihre **Trefferpunkte** um einen Wert, der mit dem **Trefferwürfel** ihrer Klasse ausgewürfelt wird. Außerdem können Spieler für jede **Eigenschaft** einen W20 würfeln; wenn das Ergebnis höher ist als der entsprechende Wert, erhöht sich die **Eigenschaft** um 1.
 
 ## Überladung
 
@@ -212,7 +212,7 @@ Charaktere können eine Anzahl von Gegenständen tragen, die ihrer **STÄ** ents
 
 ## Waffen nach Klasse
 
-Wenn Charaktere eine Waffe verwenden, die nicht bei ihrer Klasse aufgelistet stehen, haben alle ihre Proben im Kampf einen **Nachteil**.
+Wenn Charaktere Waffen verwenden, die nicht bei ihrer Klasse aufgelistet stehen, haben alle ihre Proben im Kampf einen **Nachteil**.
 
 ## Zufallsbegegnungen
 
@@ -320,9 +320,9 @@ Beim Würfeln, um festzustellen ob sich Eigenschaften erhöhen, würfeln Klerike
 
 Ab der zweiten Stufe können Kleriker täglich eine gewisse Anzahl von Göttlichen Anrufungen durchführen, siehe den Abschnitt zu Zaubersprüchen.
 
-### Zauberbuch
+### Gebetbuch
 
-Kleriker beginnen das Spiel mit einem großen Zauberbuch, das zu Beginn 1W4 Zaubersprüche der Stufe 1 und 2 von der Liste Göttlicher Anrufungen enthält.
+Kleriker beginnen das Spiel mit einem großen Gebetbuch, das zu Beginn 1W4 Zaubersprüche der Stufe 1 und 2 von der Liste Göttlicher Anrufungen enthält.
 
 ----
 
@@ -355,7 +355,7 @@ Zauberer beginnen das Spiel mit einem großen Zauberbuch, das zu Beginn 1W4+2 Za
 
 Zauberer und Kleriker haben die Fähigkeit, Zaubersprüche einzusetzen, die von der entsprechenden Spruchliste (auf den folgenden Seiten) ausgewählt werden.
 
-Sie können jeden ihnen bekannten Spruch einsetzen, indem sie ihn aus ihrem Zauberbuch vorlesen. Außerdem können sie eine Anzahl von Zaubersprüchen gleich ihrer **Stufe** im Gedächtnis behalten und sie ohne Buch wirken.
+Sie können jeden ihnen bekannten Spruch einsetzen, indem sie ihn aus ihrem Buch vorlesen. Außerdem können sie eine Anzahl von Zaubersprüchen gleich ihrer **Stufe** im Gedächtnis behalten und sie ohne Buch wirken.
 
 Sie haben eine bestimmte Anzahl von 'täglichen Sprüchen', die sie pro Tag einsetzen können - wie in den zwei nebenstehenden Tabellen angegeben. Diese stellen die 'Energie' des zaubernden Charakters dar und die Anstrengung, die es kostet, Zaubersprüche über einen längeren Zeitraum zu sprechen. Wenn ein Charakter keine täglichen Sprüche mehr hat, kann er keine Zauber mehr einsetzen.
 
@@ -413,8 +413,8 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 
 * **Segnen :** Alle Verbündeten in der Nähe erhalten +1 auf ihre Eigenschaftswerte, wenn sie angreifen oder bei Rettungswürfen - 1Std.
 * **Fallen Finden :** Bemerkt alle Fallen in der Nähe - 10Min.
-* **Person Halten :** Lässt 1W4 Ziele erstarren in der Nähe. **WEI**-Probe jede Runde, ob Effekt anhält.
-* **Stille :** Magische Stille umhüllt alles in der Nähe oder einzelne Ziel - 1Std.
+* **Person Halten :** Lässt 1W4 Ziele in der Nähe erstarren. **WEI**-Probe jede Runde, ob Effekt anhält.
+* **Stille :** Magische Stille umhüllt alles in der Nähe eines Zieles - 1Std.
 * **Mit Tieren Sprechen :** Kann Tiere verstehen und sich mit ihnen unterhalten - 1Std.
 
 **3**
