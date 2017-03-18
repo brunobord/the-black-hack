@@ -6,8 +6,7 @@ Ein ‘OSR’-Hack der Ersten Edition
 entwickelt von  
 DAVID BLACK  
 
-Übersetzt von Matthias Schaffrath
-Unterstützt durch Sören Kohlmeyer
+Übersetzt von Matthias Schaffrath, unterstützt durch Sören Kohlmeyer.
 
 -.-  
 
