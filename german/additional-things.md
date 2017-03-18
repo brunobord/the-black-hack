@@ -5,6 +5,7 @@ von David Black
 v1.0
 
 Übersetzt von Matthias Schaffrath
+Unterstützt durch Sören Kohlmeyer
 
 -.-
 
