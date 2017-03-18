@@ -7,6 +7,7 @@ entwickelt von
 DAVID BLACK  
 
 Übersetzt von Matthias Schaffrath
+Unterstützt durch Sören Kohlmeyer
 
 -.-  
 
@@ -24,7 +25,7 @@ The Black Hack (TBH) ist ein traditionelles Tischrollenspiel, das mit Papier, St
 
 ## Die Kernmechanik
 
-Wann immer Charaktere versuchen etwas zu tun, das möglicherweise scheitern könnte, wird der Erfolg mit einer Probe auf einen Eigenschaftswert getestet. Um eine Probe erfolgreich zu bestehen, müssen Spieler mit einem W20 ***unter*** den entsprechenden Eigenschaftwert würfeln.
+Wann immer Charaktere versuchen, etwas zu tun, das möglicherweise scheitern könnte, wird der Erfolg mit einer Probe auf einen Eigenschaftswert getestet. Um eine Probe erfolgreich zu bestehen, müssen Spieler mit einem W20 ***unter*** den entsprechenden Eigenschaftwert würfeln.
 
 Monster würfeln keine Proben - Spielercharaktere müssen ihren Angriffen ausweichen, indem sie eine Probe bestehen. Das einzige, was Monster würfeln, ist ihr Schaden.
 
@@ -88,8 +89,6 @@ Wenn Charaktere Rüstung tragen, die bei ihrer Klasse nicht angegeben ist, addie
 | Auswahl gewöhnlicher Kräuter |   10   |      d8       |              -             |
 | 3m Holzstange                |   1    |       -       |              -             |
 | Köcher mit Pfeilen/Bolzen    |   10   |      d10      |              -             |
-| Bogen                        |   50   |       -       |              -             |
-| Einhändige Waffe             |   25   |       -       |              -             |
 | Zweihändige Waffe            |   50   |       -       |              -             |
 
 
