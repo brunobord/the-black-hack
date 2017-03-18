@@ -422,13 +422,13 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 * **Gegenstand Finden :** Spürt die Richtung eines bekannten Gegenstandes - 1 Min/Stufe.
 * **Stoßgebet :** Alle Verbündeten in der Nähe verteidigen sich mit Vorteil gegen Angriffe - 1W4 Momente.
 * **Fluch Aufheben :** Hebt einen Fluch auf einem Ziel in der Nähe auf.
-* **Mit Toten Reden :** Stelle einer Leiche in der Nähe 3 Fragen.
+* **Mit Toten Sprechen :** Stelle einer Leiche in der Nähe 3 Fragen.
 
 **4**
 
 * **Nahrung/Wasser Erschaffen :** Erschafft für alle Wesen in der Nähe ausreichend Nahrung/Wasser für einen Tag.
 * **Schwere Wunden Heilen :** Heilt ein Ziel in der Nähe für 3W8+3 TP.
-* **Gift Aufheben :** Entfernt Gift/macht Gift bei einem Ziel in der Nähe wirkungslos - 10Min.
+* **Gift Aufheben :** Entfernt Gift bei einem Ziel in der Nähe und macht es immun - 10Min.
 * **Schutz vor Bösem :** Verbündete in der Nähe gewinnen 6 temporäre RP gegen böse Wesen - 10Min.
 
 **5**
@@ -538,7 +538,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 | Harpyie                |    3     | Lied - CHA-Probe oder SCs müssen sich auf sie zubewegen.                                                                                           |
 | Werratte               |    3     | Kein Vorteil beim Überraschen von Werratte.                                                                                                        |
 | Schatten               |    3     | Berührung (1W4 und -1 STÄ), kann nur von magischen Waffen getroffen werden.                                                                        |
-| Dopplegänger           |    3     | Kann in einem Moment die Gestalt ändern, Nachteil gegen magische Proben.                                                                           |
+| Doppelgänger           |    3     | Kann in einem Moment die Gestalt ändern, Nachteil gegen magische Proben.                                                                           |
 | Gruftschrecken         |    3     | Kann nur von magischen oder Silberwaffen getroffen werden, Stufenraub (-1) bei Treffer.                                                                   |
 | Flimmerhund            |    4     | Kann einmal pro Kampf teleportieren.                                                                                                               |
 | Grizzlybär             |    4     | 2 Klauen (1W3) + wenn beide treffen Schwitzkasten für 1W8 Schaden.                                                                                 |
