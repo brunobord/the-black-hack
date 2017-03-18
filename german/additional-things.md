@@ -4,8 +4,7 @@ von David Black
 
 v1.0
 
-Übersetzt von Matthias Schaffrath
-Unterstützt durch Sören Kohlmeyer
+Übersetzt von Matthias Schaffrath, unterstützt durch Sören Kohlmeyer.
 
 -.-
 
