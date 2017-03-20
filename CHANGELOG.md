@@ -1,6 +1,6 @@
 # Changelog
 
-## master (unreleased)
+## 2.4.1 (2017-03-20)
 
 * Added the German PDFs for *"Additional Things"* & *"The Black Hack"* (#63).
 
