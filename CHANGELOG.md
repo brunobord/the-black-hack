@@ -1,6 +1,6 @@
 # Changelog
 
-## master (unreleased)
+## 2.4.0 (2017-03-20)
 
 * Do not set a specific version for Python (#49).
 * Added correct page-breaks in every "The Black Hack" PDF generated (#45).
