@@ -1,5 +1,9 @@
 # Changelog
 
+## master (unreleased)
+
+* Added the German PDFs for *"Additional Things"* & *"The Black Hack"* (#63).
+
 ## 2.4.0 (2017-03-20)
 
 * Do not set a specific version for Python (#49).
