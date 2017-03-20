@@ -4,6 +4,10 @@ von David Black
 
 v1.0
 
+Übersetzt von Matthias Schaffrath, unterstützt durch Sören Kohlmeyer.
+
+-.-
+
 ## Danke
 
 Wenn Du das hier liest, kann man mit großer Wahrscheinlichkeit davon ausgehen, dass Du den Kickstarter gebackt/ein PDF auf RPG.now gekauft hast. Danke dafür. Vielen Dank. Das liest sich vielleicht sarkastisch, ist aber nicht so gemeint, ich bin wirklich dankbar. Das hier ist ein kleines Extra, um zu zeigen, wie sehr ich all die Unterstützung schätze, die Ihr TBH geschenkt habt! Ach ja, und wenn Du nicht beim Kickstarter mitgemacht/ein PDF gekauft hast, hast Du das Buch wohl irgendwie raubkopiert. In dem Fall fühle ich mich einfach geschmeichelt, dass es Dir das wert war.
@@ -56,13 +60,13 @@ Am Anfang ihrer Runde müssen sie auf die **Panik!**-Tabelle würfeln und am End
 
 ## Schwächere Krieger
 
-Ursprünglich waren Krieger etwas schwächer, aber haben dann einen 'Buff' erhalten - nach dem Feedback zu Beginn des Kickstarters. Um sie wieder so zu haben, wie sie vorher waren, benutzt diese Regel: Jedes zusätzliche Ziel , das ein Krieger angreift, muss ein neues Ziel mit weniger TP als das Vorherige sein.
+Ursprünglich waren Krieger etwas schwächer, aber haben dann einen 'Buff' erhalten - nach dem Feedback zu Beginn des Kickstarters. Um sie wieder so zu haben, wie sie vorher waren, benutzt diese Regel: Jedes zusätzliche Ziel, das ein Krieger angreift, muss ein neues Ziel mit weniger TP als das vorherige sein.
 
 *Das schränkt die Möglichkeiten ein, wie Krieger ihre besondere Fähigkeit einsetzen können und zwingt sie, den Schaden zu verteilen. Dasselbe Ziel kann zweimal angegriffen werden, aber zwischen den beiden Angriffen muss ein zusätzliches Ziel angegriffen werden - das hält höherstufige Krieger davon ab, all ihren Schaden auf ein einzelnes Ziel 'auszukippen'.*
 
 ## Abfangen
 
-Einmal pro Runde, wenn ein NSC sich irgendwo im **in Nähe** bewegt und am Ende seines Zuges **benachbart** zu einem Verbündeten stehen würde, können Charaktere sich bewegen und dem NSC den Weg verstellen. Die Charaktere dürfen ihre Bewegung in der Runde *nicht* bereits verwendet haben. Diese Handlung hält den NSC davon ab, den Verbündeten in einen Nahkampf zu verwickeln, allerdings werden die Charaktere wahrscheinlich den Angriff des NSC abbekommen, den sie abgefangen haben.
+Einmal pro Runde, wenn ein NSC sich irgendwo im **in der Nähe** bewegt und am Ende seines Zuges **benachbart** zu einem Verbündeten stehen würde, können Charaktere sich bewegen und dem NSC den Weg verstellen. Die Charaktere dürfen ihre Bewegung in der Runde *nicht* bereits verwendet haben. Diese Handlung hält den NSC davon ab, den Verbündeten in einen Nahkampf zu verwickeln, allerdings werden die Charaktere wahrscheinlich den Angriff des NSC abbekommen, den sie abgefangen haben.
 
 *Ab und zu habe ich Spaß dabei, Miniaturen einzusetzen (wenn ich denn mal eine nichtvirtuelle Spielrunde habe... Ich bin soo arm dran!). Daher passt es manchmal, in Kämpfen etwas mehr Taktik zu erlauben - um etwas mehr von dem 'Simulationsspielaspekt' reinzubringen, der in kleinen Dosen Spaß machen kann.*
 
@@ -88,15 +92,15 @@ Alle Charaktere werden mit einem Punkt an Glück erschaffen - sie können ihn ei
 
 Wenn Spieler eine Probe nicht schaffen und der SL es anbietet, können sie das Ergebnis als Erfolg werten - aber müssen dabei einen Preis oder Abzug aus der untenstehenden Tabelle akzeptieren, den der SL je nach Erzählung aussucht und anpasst.
 
-| Preis des Erfolgs                                                                                            |
-|:------------------------------------------------------------------------------------------------------------:|
-| Würfle einen W10, der entsprechende Gegenstand im Inventar des SC ist zerstört/verloren.                     |
-| Stufe den kleinsten **Vorratswürfel**, den ein SC hat, ab. Wenn es bereits ein W4 ist, ist der Gegenstand weg. |
-| Jemand **in Nähe** (einschließlich des SC) nimmt 1W6 Schaden.                                                |
-| **Nachteil** bei einem zukünftigen Wurf nach Wahl des SL.                                                    |
-| +2 auf das nächste Ergebnis, wenn der SL **Verhalten** auswürfelt.                                           |
-| Beim Zählen von Münzen sind Würfelergebnisse von 1-2 offensichtliche Fälschungen.                            |
-| +1 auf das nächste Mal, wenn der SC für **Außer Gefecht** würfelt.                                           |
+| Preis des Erfolgs                                                                                             |
+|:-------------------------------------------------------------------------------------------------------------:|
+| Würfle einen W10, der entsprechende Gegenstand im Inventar des SC ist zerstört/verloren.                      |
+| Stufe den kleinsten **Vorratswürfel**, den ein SC hat, ab. Wenn es bereits ein W4 ist, ist der Gegenstand weg.|
+| Jemand **in der Nähe** (einschließlich des SC) nimmt 1W6 Schaden.                                             |
+| **Nachteil** bei einem zukünftigen Wurf nach Wahl des SL.                                                     |
+| +2 auf das nächste Ergebnis, wenn der SL **Verhalten** auswürfelt.                                            |
+| Beim Zählen von Münzen sind Würfelergebnisse von 1-2 offensichtliche Fälschungen.                             |
+| +1 auf das nächste Mal, wenn der SC für **Außer Gefecht** würfelt.                                            |
 
 *Manche Leute verabscheuen Voranscheitern. Ich selbst benutze es vor allem, wenn ich erzählorientierten Spielern entgegenkommen will oder wenn ich großzügig sein will und die Lage ernst ist - dann ist es immer gut, wenn man sich vorher ein paar Regelaufhänger dazu überlegt hat.*
 
@@ -134,7 +138,7 @@ Gegner, die keinen Namen haben, sind eigentlich nur 'Redshirts' und ein gutes Re
 
 Außerdem, wenn ein Spieler das Glück hat, eine 1 zu würfeln, stirbt ein *benanntes* Wesen auf der Stelle - am besten auf übermäßig grausame und blutige Art und Weise.
 
-*Dadurch fühlen sich die Charaktere ein bisschen mächtiger. Ich persönlich würde vielleicht auch Monster mit viel niedrigerer Stufe nehmen, denn wenn ich sowas schon mache, dann will ich auch die Splatterszene aus 'Zombie-Rasenmähermann'.*
+*Dadurch fühlen sich die Charaktere ein bisschen mächtiger. Ich persönlich würde vielleicht auch Monster mit viel niedrigerer Stufe nehmen, denn wenn ich sowas schon mache, dann will ich auch die Splatterszene aus 'Der Zombie-Rasenmähermann'.*
 
 ## 'Bessere' Rüstung
 
@@ -204,9 +208,9 @@ Ich würde auf die entsprechende Probe des SC würfeln lassen - besonders, wenn 
 
 Lass einen Spieler eine Probe würfeln, um zu sehen, ob X passiert oder nicht. Wenn das zu aufwändig ist, sollte X vielleicht einfach passieren. Beachte mächtige Gegner und Stufen bei Herausforderungen und Situationen.
 
-***Es gibt keine Bögen/1-händigen Waffen in der Ausrüstungsliste?***
+***Es gibt keine Bögen/einhändige Waffen in der Ausrüstungsliste?***
 
-Ja, mein Fehler. Bögen sollten dasselbe kosten wie 2-händige Waffen. 1-händige Waffen vielleicht die Hälfte davon.
+Ja, mein Fehler. Bögen sollten dasselbe kosten wie zweihändige Waffen. Einhändige Waffen vielleicht die Hälfte davon.
 
 ***Wie weit können Bögen schießen?***
 
@@ -214,7 +218,7 @@ In den Regeln steht nur, dass Fernkampfangriffe gegen Ziele benachbart zu sich e
 
 ***Warum Runden und Züge umbenennen?***
 
-Ich mag die Umgangssprachlichkeit von Begriffen wie Vorteil, Nachteil, in Nähe, benachbart usw. Daher macht es für mich Sinn, im Kampf einen Spieler zu fragen 'Was machst du in diesem Moment?'. Auch beim Erkunden zur fragen, was jemand in dieser Minute macht, funktioniert. Jeder kann dabei so abstrakt oder genau sein wie er mag. 6 Momente, 10 Minuten oder einfach Momente oder Minuten. Was ihr bevorzugt.
+Ich mag die Umgangssprachlichkeit von Begriffen wie Vorteil, Nachteil, in der Nähe, benachbart usw. Daher macht es für mich Sinn, im Kampf einen Spieler zu fragen 'Was machst du in diesem Moment?'. Auch beim Erkunden zur fragen, was jemand in dieser Minute macht, funktioniert. Jeder kann dabei so abstrakt oder genau sein wie er mag. 6 Momente, 10 Minuten oder einfach Momente oder Minuten. Was ihr bevorzugt.
 
 ***Gibt es irgendwelche Richtlinien zum Einsatz von Vor- und Nachteilen?***
 
