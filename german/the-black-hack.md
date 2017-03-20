@@ -235,7 +235,7 @@ Einige Monster und NSCs haben festgelegte Persönlichkeiten und Ziele, die dem S
 
 Kleriker können versuchen, mit einer Handlung alle Untoten **in der Nähe** zu bannen. Dazu müssen sie für jede Gruppe von Wesen, die sie bannen wollen, eine Probe auf **WEI** bestehen, wobei der **TW** der Wesen zum Wurf addiert wird. Der SL legt fest, welche Wesen zu einer Gruppe gehören.
 
-Untote Monster, die der Kleriker **Bannen** konnte, müssen all ihre Bewegungen dazu benutzen (und all ihre Handlungen in Bewegungen verwandeln), um sich für 2W4 **Momente** vom Kleriker zu entfernen, nachdem sie von **Bannen** betroffen wurden.
+Untote Monster, die die Kleriker **Bannen** konnten, müssen all ihre Bewegungen dazu benutzen (und all ihre Handlungen in Bewegungen verwandeln), um sich für 2W4 **Momente** vom Kleriker zu entfernen, nachdem sie von **Bannen** betroffen wurden.
 
 ## Vorratswürfel
 
