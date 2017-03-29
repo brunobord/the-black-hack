@@ -24,7 +24,7 @@ The Black Hack (TBH) ist ein traditionelles Tischrollenspiel, das mit Papier, St
 
 ## Die Kernmechanik
 
-Wann immer Charaktere versuchen, etwas zu tun, das möglicherweise scheitern könnte, wird der Erfolg mit einer Probe auf einen Eigenschaftswert getestet. Um eine Probe erfolgreich zu bestehen, müssen Spieler mit einem W20 ***unter*** den entsprechenden Eigenschaftwert würfeln.
+Wann immer Charaktere versuchen, etwas zu tun, das möglicherweise scheitern könnte, wird der Erfolg mit einer Probe auf einen Eigenschaftswert getestet. Um eine Probe erfolgreich zu bestehen, müssen Spieler mit einem W20 ***unter*** den entsprechenden Eigenschaftswert würfeln.
 
 Monster würfeln keine Proben - Spielercharaktere müssen ihren Angriffen ausweichen, indem sie eine Probe bestehen. Das einzige, was Monster würfeln, ist ihr Schaden.
 
@@ -146,7 +146,7 @@ Größere, tödlichere Waffen werden dargestellt, indem einfach +2 auf alle Wür
 
 ## Kritischer Schaden
 
-Wenn Spieler bei einem Angriff eine 1 würfeln, verdoppeln sie das Ergebnis des Schadenswurfs. Wenn sie eine 20 beim Verteidigen gegen einen Angriff würfeln, erleiden sie den doppelten Schaden. Rüstungspunkte funktionieren dabei ganz normal.
+Wenn Spieler bei einem Angriff eine 1 würfeln, verdoppeln sie das Ergebnis des Schadenswurfes. Wenn sie eine 20 beim Verteidigen gegen einen Angriff würfeln, erleiden sie den doppelten Schaden. Rüstungspunkte funktionieren dabei ganz normal.
 
 | Monster TW |     Schaden    |
 |:----------:|:--------------:|
@@ -404,7 +404,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 * **Leichte Wunden Heilen :** Heilt bei einem Ziel in der Nähe 1W8 TP.
 * **Böses Erkennen :** Alles Böse in der Nähe schimmert - 5Min.
 * **Licht :** Erschafft ein schwaches Licht an einem Ort oder Gegenstand in der Nähe - 1Std.
-* **Schutz vor Bösem :** Vorteil bei alle schadenvermeidenden Proben gegen Bösen Verursacher - 1Std.
+* **Schutz vor Bösem :** Vorteil bei allen Schaden vermeidenden Proben gegen Bösen Verursacher - 1Std.
 * **Essen und Trinken Reinigen :** Entfernt alle Krankheiten von Nahrung und Getränken in der Nähe.
 
 **2**
@@ -417,7 +417,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 
 **3**
 
-* **Tageslicht :** Alles in der Nähe wird von Sonennlicht erhellt - 1Std.
+* **Tageslicht :** Alles in der Nähe wird von Sonnenlicht erhellt - 1Std.
 * **Krankheit Heilen :** Heilt ein Ziel in der Nähe von allen Krankheiten.
 * **Gegenstand Finden :** Spürt die Richtung eines bekannten Gegenstandes - 1 Min/Stufe.
 * **Stoßgebet :** Alle Verbündeten in der Nähe verteidigen sich mit Vorteil gegen Angriffe - 1W4 Momente.
