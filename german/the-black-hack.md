@@ -46,9 +46,9 @@ Rüstung bietet Schutz, indem sie allen erlittenen Schaden reduziert. Jedes Stü
 
 |     Typ        | Punkte |
 |:--------------:|:------:|
-|  Festes Wams   |   2    |
-|  Lederrüstung  |   4    |
-|   Kettenhemd   |   6    |
+| Gambeson       |   2    |
+| Lederrüstung   |   4    |
+| Kettenhemd     |   6    |
 | Plattenrüstung |   8    |
 | Kleiner Schild |   2    |
 | Großer Schild  |   4    |
@@ -57,38 +57,38 @@ Monster haben 1 Rüstungspunkt für jeden **TW** über 1, also einfach für den 
 
 ## Rüstungsfähigkeit
 
-Wenn Charaktere Rüstung tragen, die bei ihrer Klasse nicht angegeben ist, addieren sie all ihre Rüstungspunkte (egal wie viele sie davon verbraucht haben) auf alle Würfelergebnisse zum **Angreifen** oder **Verteidigen**.
+Wenn Charaktere Rüstung tragen, die bei ihrer Klasse nicht angegeben ist, addieren sie all ihre Rüstungspunkte (egal wie viele sie davon verbraucht haben) auf alle Würfelergebnisse zum **Angreifen** oder **Schaden vermeiden**.
 
 
-| GEGENSTAND                   | KOSTEN | ABNUTZUNGSWÜRFEL |         ANMERKUNG          |
-|:-----------------------------|:------:|:----------------:|:--------------------------:|
-| Festes Wams                  |   50   |         -        |      2 Rüstungspunkte      |
-| Lederrüstung                 |  100   |         -        |      4 Rüstungspunkte      |
-| Kettenhemd                   |  350   |         -        |      6 Rüstungspunkte      |
-| Plattenrüstung               |  600   |         -        |      8 Rüstungspunkte      |
-| Kleiner/Großer Schild        | 50/100 |         -        |     2/4 Rüstungspunkte     |
-| Rucksack                     |   5    |         -        |        Traglast +2         |
-| Lampenöl                     |   2    |        d6        |              -             |
-| Handwerksgerät               |   2    |         -        |              -             |
-| Heiliges Symbol              |   25   |         -        |  +2 auf WEI beim Bannen    |
-| Weihwasser                   |   25   |        d4        |              -             |
-| Kletterhaken                 |   1    |         -        |              -             |
-| Laterne                      |   10   |         -        |              -             |
-| Handspiegel                  |   5    |         -        |              -             |
-| Haltbare Rationen            |   15   |        d8        |              -             |
-| Frische Rationen             |   5    |        d4        |              -             |
-| 15m Seil                     |   1    |         -        |              -             |
-| Beutel                       |   1    |         -        |              -             |
-| Sack                         |   2    |         -        |              -             |
-| Diebeswerkzeug               |   25   |         -        |              -             |
-| Feuerstein & Stahl           |   3    |         -        |              -             |
-| Fackeln (6)                  |   1    |        d6        | 1 Vorratswürfel pro Fackel |
-| Wasserschlauch               |   1    |        d6        |              -             |
-| Wein                         |   1    |         -        |              -             |
-| Auswahl gewöhnlicher Kräuter |   10   |        d8        |              -             |
-| 3m Holzstange                |   1    |         -        |              -             |
-| Köcher mit Pfeilen/Bolzen    |   10   |        d10       |              -             |
-| Zweihändige Waffe            |   50   |         -        |              -             |
+| GEGENSTAND                   | KOSTEN | VORRATSWÜRFEL |         ANMERKUNG          |
+|:-----------------------------|:------:|:-------------:|:--------------------------:|
+| Festes Wams                  |   50   |       -       |      2 Rüstungspunkte      |
+| Lederrüstung                 |  100   |       -       |      4 Rüstungspunkte      |
+| Kettenhemd                   |  350   |       -       |      6 Rüstungspunkte      |
+| Plattenrüstung               |  600   |       -       |      8 Rüstungspunkte      |
+| Kleiner/Großer Schild        | 50/100 |       -       |     2/4 Rüstungspunkte     |
+| Rucksack                     |   5    |       -       |        Traglast +2         |
+| Lampenöl                     |   2    |      d6       |              -             |
+| Handwerksgerät               |   2    |       -       |              -             |
+| Heiliges Symbol              |   25   |       -       |  +2 auf WEI beim Bannen    |
+| Weihwasser                   |   25   |      d4       |              -             |
+| Kletterhaken                 |   1    |       -       |              -             |
+| Laterne                      |   10   |       -       |              -             |
+| Handspiegel                  |   5    |       -       |              -             |
+| Haltbare Rationen            |   15   |      d8       |              -             |
+| Frische Rationen             |   5    |      d4       |              -             |
+| 15m Seil                     |   1    |       -       |              -             |
+| Beutel                       |   1    |       -       |              -             |
+| Sack                         |   2    |       -       |              -             |
+| Diebeswerkzeug               |   25   |       -       |              -             |
+| Feuerstein & Stahl           |   3    |       -       |              -             |
+| Fackeln (6)                  |   1    |      d6       | 1 Vorratswürfel pro Fackel |
+| Wasserschlauch               |   1    |      d6       |              -             |
+| Wein                         |   1    |       -       |              -             |
+| Auswahl gewöhnlicher Kräuter |   10   |      d8       |              -             |
+| 3m Holzstange                |   1    |       -       |              -             |
+| Köcher mit Pfeilen/Bolzen    |   10   |      d10      |              -             |
+| Zweihändige Waffe            |   50   |       -       |              -             |
 
 
 ## Rettungswürfe
@@ -204,7 +204,7 @@ Für jede Spielsitzung / jeden Dungeonlevel / jedes wichtige Ereignis können Ch
 
 Wenn Charaktere eine Stufe aufsteigen, erhöht sich das Maximum für ihre **Trefferpunkte** um einen Wert, der mit dem **Trefferwürfel** ihrer Klasse ausgewürfelt wird. Außerdem können Spieler für jede **Eigenschaft** einen W20 würfeln; wenn das Ergebnis höher ist als der entsprechende Wert, erhöht sich die **Eigenschaft** um 1.
 
-## Überlastung
+## Überladung
 
 Charaktere können eine Anzahl von Gegenständen tragen, die ihrer **STÄ** entspricht, ohne dadurch beeinträchtigt zu sein. Wenn sie mehr Gegenstände tragen, sind sie überladen und alle Proben werden mit einem **Nachteil** gewürfelt - außerdem können sie sich höchstens **in der Nähe** bewegen. Sie können nie mehr tragen als ihr doppelter **STÄ**-Wert beträgt.
 
@@ -216,7 +216,7 @@ Wenn Charaktere Waffen verwenden, die nicht bei ihrer Klasse aufgelistet stehen,
 
 Ein SL kann alle 15 Minuten in der realen Welt (ihr *haltet* das nach, oder?) einen W4 würfeln. Bei einem Ergebnis von 1-2 taucht innerhalb der nächsten **Minute** (Runde) ein zufällig ermitteltes Wesen oder eine Ablenkung auf.
 
-## Verhalten von Kreaturen
+## Verhalten von Wesen
 
 Einige Monster und NSCs haben festgelegte Persönlichkeiten und Ziele, die dem SL eine Richtlinie für ihr Verhalten und ihre Gefühle gegenüber den Charakteren geben. Bei allen anderen, wie etwa Zufallsbegegnungen, wird ihr **Verhalten** auf der folgenden Tabelle ausgewürfelt :
 
@@ -251,7 +251,7 @@ Magische Waffen erhöhen üblicherweise den Eigenschaftswert um +1 für jede Pro
 
 Magische Rüstung verdoppelt die Menge an RP, die die Rüstung normalerweise haben würde, etwa hätte ein magisches Kettenhemd 12 **Rüstungspunkte**. Sie funktionieren nach den üblichen Regeln für **Rüstungspunkte**.
 
-Traditionelle OSR-Spiele bilden magische Gegenstände ab, indem sie +1 oder +2 auf Angriffswürfe oder Rüstungsklasse hinzufügen. Wenn der SL für hochstufige Charaktere stärkere magische Rüstungen ausgeben will, kann man sich vorsichtig überlegen, die **Rüstungspunkte** eventuell zu verdreifachen.
+Traditionelle OSR-Spiele bilden magische Gegenstände ab, indem sie +1 oder +2 auf Angriffsproben oder Rüstungsklasse hinzufügen. Wenn der SL für hochstufige Charaktere stärkere magische Rüstungen ausgeben will, kann man sich vorsichtig überlegen, die **Rüstungspunkte** eventuell zu verdreifachen.
 
 ----
 
