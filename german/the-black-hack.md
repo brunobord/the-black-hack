@@ -101,7 +101,7 @@ The Black Hack verwendet keine Rettungswürfe und lässt die Spieler stattdessen
 
 |              INT               |            WEI            |           CHA           |
 |:------------------------------:|:-------------------------:|:-----------------------:|
-| Zaubern und Magie widerstehen. | Täuschung und Illusionen. | Geistige Beeinflussung. |
+| Zaubern und Magie widerstehen. | Täuschung und Illusionen. | Bezauberung. |
 
 ## Spielerzug
 
@@ -300,7 +300,7 @@ Beim Würfeln, um festzustellen ob sich Eigenschaften erhöhen, würfeln Diebe z
 ## Kleriker
 
 **Start-TP :** W8 + 4
-**TP pro Stufe/Erholung :** 1d8
+**TP pro Stufe/Erholung :** 1W8
 **Waffen & Rüstung :** Alle stumpfen Waffen, Festes Wams, Lederrüstung, Kettenhemd, alle Schilde
 **Angriffsschaden :** 1W6 / 1W4 Unbewaffnet oder Improvisiert
 
@@ -488,7 +488,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 
 **4**
 
-* **Verwirrung :** 2d6 Ziele in der Nähe müssen sofort ihr Verhalten neu auswürfeln.
+* **Verwirrung :** 2W6 Ziele in der Nähe müssen sofort ihr Verhalten neu auswürfeln.
 * **Dimensionstor :** Versetzt ein Ziel an einen entfernten Ort.
 * **Sich/Andere Verwandeln :** Ändert das Aussehen eines Wesens in das eines anderen.
 * **Fluch Aufheben :** Hebt einen Fluch auf einem Ziel in der Nähe auf.
@@ -508,7 +508,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 **6**
 
 * **Antimagische Kuppel :** Erzeugt in der Nähe um den Zauberer ein Zone, die jegliche Magie blockiert.
-* **Todesfluch :** 2d8 Ziele in der Nähe mit 7TW oder weniger sterben.
+* **Todesfluch :** 2W8 Ziele in der Nähe mit 7TW oder weniger sterben.
 * **Zersetzen :** Verwandelt Gegenstand oder Ziel in der Nähe in feinen Staub.
 * **Unsichtbarer Pirscher :** Ruft ein außerweltliches Ungeheuer, das eine Aufgabe erfüllt.
 * **Stein zu Fleisch :** Verwandelt ein Ziel in der Nähe zu Stein (oder andersherum).
