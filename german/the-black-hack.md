@@ -214,7 +214,7 @@ Wenn Charaktere Waffen verwenden, die nicht bei ihrer Klasse aufgelistet stehen,
 
 ## Zufallsbegegnungen
 
-Ein SL kann alle 15 Minuten in der realen Welt (ihr *haltet* das nach, oder?) einen W4 würfeln. Bei einem Ergebnis von 1-2 taucht innerhalb der nächsten **Minute** (Runde) ein zufällig ermitteltes Wesen oder eine Ablenkung auf.
+Ein SL kann alle 15 Minuten in der realen Welt (ihr *achtet darauf*, oder?) einen W4 würfeln. Bei einem Ergebnis von 1-2 taucht innerhalb der nächsten **Minute** (Runde) ein zufällig ermitteltes Wesen oder eine Ablenkung auf.
 
 ## Verhalten von Wesen
 
@@ -289,7 +289,7 @@ Diebe würfeln mit einem **Vorteil** bei **GES**-Proben um Schaden oder Effekte 
 
 Diebe würfeln mit **Vorteil** wenn sie von hinten angreifen und verursachen dabei 2W6 / 2W4 + ihre Stufe Schaden.
 
-Diebe würfeln mit **Vorteil** bei Tätigkeiten, die mit Fingerfertigkeit, Klettern, Lauschen, Schleichen, Lesen von Schrift und Schlösserknacken zu tun haben.
+Diebe würfeln mit **Vorteil** bei Tätigkeiten, die mit Fingerfertigkeit, Klettern, Lauschen, Schleichen, dem Verstehen von Schrift und Schlösserknacken zu tun haben.
 
 ### Stufen gewinnen
 
