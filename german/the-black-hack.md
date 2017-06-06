@@ -36,7 +36,7 @@ Monster würfeln keine Proben - Spielercharaktere müssen ihren Angriffen auswei
 
 Es stehen 4 Klassen zur Auswahl: Krieger, Dieb, Kleriker und Zauberer - die Klasse legt den Schaden fest, den Charaktere bei einem Treffer verursachen, ihre Trefferpunkte und ihre besonderen Fähigkeiten.
 
-## Ausrüstung kaufen.
+## Ausrüstung kaufen
 
 Neue Charaktere beginnen das Spiel mit 3W6 x 10 Münzen, mit denen sie ihre Ausrüstung kaufen können. Außerdem besitzen sie jeder die Kleidung, die sie tragen und eine Waffe, die ihre Klasse ihnen erlaubt.
 
@@ -68,26 +68,26 @@ Wenn Charaktere Rüstung tragen, die bei ihrer Klasse nicht angegeben ist, addie
 | Plattenrüstung               |  600   |       -       |      8 Rüstungspunkte      |
 | Kleiner/Großer Schild        | 50/100 |       -       |     2/4 Rüstungspunkte     |
 | Rucksack                     |   5    |       -       |        Traglast +2         |
-| Lampenöl                     |   2    |      d6       |              -             |
+| Lampenöl                     |   2    |      W6       |              -             |
 | Handwerksgerät               |   2    |       -       |              -             |
 | Heiliges Symbol              |   25   |       -       |  +2 auf WEI beim Bannen    |
-| Weihwasser                   |   25   |      d4       |              -             |
+| Weihwasser                   |   25   |      W4       |              -             |
 | Kletterhaken                 |   1    |       -       |              -             |
 | Laterne                      |   10   |       -       |              -             |
 | Handspiegel                  |   5    |       -       |              -             |
-| Haltbare Rationen            |   15   |      d8       |              -             |
-| Frische Rationen             |   5    |      d4       |              -             |
+| Haltbare Rationen            |   15   |      W8       |              -             |
+| Frische Rationen             |   5    |      W4       |              -             |
 | 15m Seil                     |   1    |       -       |              -             |
 | Beutel                       |   1    |       -       |              -             |
 | Sack                         |   2    |       -       |              -             |
 | Diebeswerkzeug               |   25   |       -       |              -             |
 | Feuerstein & Stahl           |   3    |       -       |              -             |
-| Fackeln (6)                  |   1    |      d6       | 1 Vorratswürfel pro Fackel |
-| Wasserschlauch               |   1    |      d6       |              -             |
+| Fackeln (6)                  |   1    |      W6       | 1 Vorratswürfel pro Fackel |
+| Wasserschlauch               |   1    |      W6       |              -             |
 | Wein                         |   1    |       -       |              -             |
-| Auswahl gewöhnlicher Kräuter |   10   |      d8       |              -             |
+| Auswahl gewöhnlicher Kräuter |   10   |      W8       |              -             |
 | 3m Holzstange                |   1    |       -       |              -             |
-| Köcher mit Pfeilen/Bolzen    |   10   |      d10      |              -             |
+| Köcher mit Pfeilen/Bolzen    |   10   |      W10      |              -             |
 | Zweihändige Waffe            |   50   |       -       |              -             |
 
 
