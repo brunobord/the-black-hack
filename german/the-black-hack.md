@@ -46,7 +46,7 @@ Rüstung bietet Schutz, indem sie allen erlittenen Schaden reduziert. Jedes Stü
 
 |     Typ        | Punkte |
 |:--------------:|:------:|
-| Gambeson       |   2    |
+| Wams           |   2    |
 | Lederrüstung   |   4    |
 | Kettenhemd     |   6    |
 | Plattenrüstung |   8    |
@@ -62,7 +62,7 @@ Wenn Charaktere Rüstung tragen, die bei ihrer Klasse nicht angegeben ist, addie
 
 | GEGENSTAND                   | KOSTEN | VORRATSWÜRFEL |         ANMERKUNG          |
 |:-----------------------------|:------:|:-------------:|:--------------------------:|
-| Festes Wams                  |   50   |       -       |      2 Rüstungspunkte      |
+| Wams                         |   50   |       -       |      2 Rüstungspunkte      |
 | Lederrüstung                 |  100   |       -       |      4 Rüstungspunkte      |
 | Kettenhemd                   |  350   |       -       |      6 Rüstungspunkte      |
 | Plattenrüstung               |  600   |       -       |      8 Rüstungspunkte      |
@@ -280,7 +280,7 @@ Beim Würfeln, um festzustellen ob sich Eigenschaften erhöhen, würfeln Krieger
 
 **Start-TP :** W6 + 4
 **TP pro Stufe/Erholung :** 1W6
-**Waffen & Rüstung :** Alle Schwerter, alle Bögen, Dolche, Festes Wams, Lederrüstung, Kleine Schilde
+**Waffen & Rüstung :** Alle Schwerter, alle Bögen, Dolche, Wams, Lederrüstung, Kleine Schilde
 **Angriffsschaden :** 1W6 / 1W4 Unbewaffnet oder Improvisiert
 
 ### Besondere Fähigkeiten
@@ -301,7 +301,7 @@ Beim Würfeln, um festzustellen ob sich Eigenschaften erhöhen, würfeln Diebe z
 
 **Start-TP :** W8 + 4
 **TP pro Stufe/Erholung :** 1W8
-**Waffen & Rüstung :** Alle stumpfen Waffen, Festes Wams, Lederrüstung, Kettenhemd, alle Schilde
+**Waffen & Rüstung :** Alle stumpfen Waffen, Wams, Lederrüstung, Kettenhemd, alle Schilde
 **Angriffsschaden :** 1W6 / 1W4 Unbewaffnet oder Improvisiert
 
 ### Besondere Fähigkeiten
