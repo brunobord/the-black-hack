@@ -99,9 +99,9 @@ The Black Hack verwendet keine Rettungswürfe und lässt die Spieler stattdessen
 |:----------------------------------------------------:|:----------------------------------------------:|:------------------------:|
 | Physischer Schaden, dem man *nicht* ausweichen kann. | Physischer Schaden, dem man ausweichen *kann*. | Gift, Krankheit und Tod. |
 
-|              INT               |            WEI            |           CHA           |
-|:------------------------------:|:-------------------------:|:-----------------------:|
-| Zaubern und Magie widerstehen. | Täuschung und Illusionen. | Bezauberung. |
+|              INT               |            WEI            |          CHA           |
+|:------------------------------:|:-------------------------:|:----------------------:|
+| Zaubern und Magie widerstehen. | Täuschung und Illusionen. | Beeinflussungseffekte. |
 
 ## Spielerzug
 
@@ -214,7 +214,7 @@ Wenn Charaktere Waffen verwenden, die nicht bei ihrer Klasse aufgelistet stehen,
 
 ## Zufallsbegegnungen
 
-Ein SL kann alle 15 Minuten in der realen Welt (ihr *achtet darauf*, oder?) einen W4 würfeln. Bei einem Ergebnis von 1-2 taucht innerhalb der nächsten **Minute** (Runde) ein zufällig ermitteltes Wesen oder eine Ablenkung auf.
+Der SL sollte alle 15 Minuten, die das Spiel in Echtzeit dauert, einen W4 würfeln (also immer schön auf die Zeit achten). Bei einem Ergebnis von 1-2 taucht innerhalb der nächsten **Minute** (Runde) ein zufällig ermitteltes Wesen oder eine Ablenkung auf.
 
 ## Verhalten von Wesen
 
@@ -289,7 +289,7 @@ Diebe würfeln mit einem **Vorteil** bei **GES**-Proben um Schaden oder Effekte 
 
 Diebe würfeln mit **Vorteil** wenn sie von hinten angreifen und verursachen dabei 2W6 / 2W4 + ihre Stufe Schaden.
 
-Diebe würfeln mit **Vorteil** bei Tätigkeiten, die mit Fingerfertigkeit, Klettern, Lauschen, Schleichen, dem Verstehen von Schrift und Schlösserknacken zu tun haben.
+Diebe würfeln mit **Vorteil** bei Tätigkeiten, die mit Fingerfertigkeit, Klettern, Lauschen, Schleichen, Schlösserknacken und dem Verstehen von Schriften zu tun haben.
 
 ### Stufen gewinnen
 
