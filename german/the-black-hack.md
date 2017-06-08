@@ -24,7 +24,7 @@ The Black Hack (TBH) ist ein traditionelles Tischrollenspiel, das mit Papier, St
 
 ## Die Kernmechanik
 
-Wann immer Charaktere versuchen, etwas zu tun, das möglicherweise scheitern könnte, wird der Erfolg mit einer Probe auf einen Eigenschaftswert getestet. Um eine Probe erfolgreich zu bestehen, müssen Spieler mit einem W20 ***unter*** den entsprechenden Eigenschaftwert würfeln.
+Wann immer Charaktere versuchen, etwas zu tun, das möglicherweise scheitern könnte, wird der Erfolg mit einer Probe auf einen Eigenschaftswert getestet. Um eine Probe erfolgreich zu bestehen, müssen Spieler mit einem W20 ***unter*** den entsprechenden Eigenschaftswert würfeln.
 
 Monster würfeln keine Proben - Spielercharaktere müssen ihren Angriffen ausweichen, indem sie eine Probe bestehen. Das einzige, was Monster würfeln, ist ihr Schaden.
 
@@ -36,7 +36,7 @@ Monster würfeln keine Proben - Spielercharaktere müssen ihren Angriffen auswei
 
 Es stehen 4 Klassen zur Auswahl: Krieger, Dieb, Kleriker und Zauberer - die Klasse legt den Schaden fest, den Charaktere bei einem Treffer verursachen, ihre Trefferpunkte und ihre besonderen Fähigkeiten.
 
-## Ausrüstung kaufen.
+## Ausrüstung kaufen
 
 Neue Charaktere beginnen das Spiel mit 3W6 x 10 Münzen, mit denen sie ihre Ausrüstung kaufen können. Außerdem besitzen sie jeder die Kleidung, die sie tragen und eine Waffe, die ihre Klasse ihnen erlaubt.
 
@@ -46,9 +46,9 @@ Rüstung bietet Schutz, indem sie allen erlittenen Schaden reduziert. Jedes Stü
 
 |     Typ        | Punkte |
 |:--------------:|:------:|
-|  Festes Wams   |   2    |
-|  Lederrüstung  |   4    |
-|   Kettenhemd   |   6    |
+| Wams           |   2    |
+| Lederrüstung   |   4    |
+| Kettenhemd     |   6    |
 | Plattenrüstung |   8    |
 | Kleiner Schild |   2    |
 | Großer Schild  |   4    |
@@ -62,32 +62,32 @@ Wenn Charaktere Rüstung tragen, die bei ihrer Klasse nicht angegeben ist, addie
 
 | GEGENSTAND                   | KOSTEN | VORRATSWÜRFEL |         ANMERKUNG          |
 |:-----------------------------|:------:|:-------------:|:--------------------------:|
-| Festes Wams                  |   50   |       -       |      2 Rüstungspunkte      |
+| Wams                         |   50   |       -       |      2 Rüstungspunkte      |
 | Lederrüstung                 |  100   |       -       |      4 Rüstungspunkte      |
 | Kettenhemd                   |  350   |       -       |      6 Rüstungspunkte      |
 | Plattenrüstung               |  600   |       -       |      8 Rüstungspunkte      |
 | Kleiner/Großer Schild        | 50/100 |       -       |     2/4 Rüstungspunkte     |
 | Rucksack                     |   5    |       -       |        Traglast +2         |
-| Lampenöl                     |   2    |      d6       |              -             |
+| Lampenöl                     |   2    |      W6       |              -             |
 | Handwerksgerät               |   2    |       -       |              -             |
 | Heiliges Symbol              |   25   |       -       |  +2 auf WEI beim Bannen    |
-| Weihwasser                   |   25   |      d4       |              -             |
+| Weihwasser                   |   25   |      W4       |              -             |
 | Kletterhaken                 |   1    |       -       |              -             |
 | Laterne                      |   10   |       -       |              -             |
 | Handspiegel                  |   5    |       -       |              -             |
-| Haltbare Rationen            |   15   |      d8       |              -             |
-| Frische Rationen             |   5    |      d4       |              -             |
+| Haltbare Rationen            |   15   |      W8       |              -             |
+| Frische Rationen             |   5    |      W4       |              -             |
 | 15m Seil                     |   1    |       -       |              -             |
 | Beutel                       |   1    |       -       |              -             |
 | Sack                         |   2    |       -       |              -             |
 | Diebeswerkzeug               |   25   |       -       |              -             |
 | Feuerstein & Stahl           |   3    |       -       |              -             |
-| Fackeln (6)                  |   1    |      d6       | 1 Vorratswürfel pro Fackel |
-| Wasserschlauch               |   1    |      d6       |              -             |
+| Fackeln (6)                  |   1    |      W6       | 1 Vorratswürfel pro Fackel |
+| Wasserschlauch               |   1    |      W6       |              -             |
 | Wein                         |   1    |       -       |              -             |
-| Auswahl gewöhnlicher Kräuter |   10   |      d8       |              -             |
+| Auswahl gewöhnlicher Kräuter |   10   |      W8       |              -             |
 | 3m Holzstange                |   1    |       -       |              -             |
-| Köcher mit Pfeilen/Bolzen    |   10   |      d10      |              -             |
+| Köcher mit Pfeilen/Bolzen    |   10   |      W10      |              -             |
 | Zweihändige Waffe            |   50   |       -       |              -             |
 
 
@@ -99,9 +99,9 @@ The Black Hack verwendet keine Rettungswürfe und lässt die Spieler stattdessen
 |:----------------------------------------------------:|:----------------------------------------------:|:------------------------:|
 | Physischer Schaden, dem man *nicht* ausweichen kann. | Physischer Schaden, dem man ausweichen *kann*. | Gift, Krankheit und Tod. |
 
-|              INT               |            WEI            |           CHA           |
-|:------------------------------:|:-------------------------:|:-----------------------:|
-| Zaubern und Magie widerstehen. | Täuschung und Illusionen. | Geistige Beeinflussung. |
+|              INT               |            WEI            |          CHA           |
+|:------------------------------:|:-------------------------:|:----------------------:|
+| Zaubern und Magie widerstehen. | Täuschung und Illusionen. | Beeinflussungseffekte. |
 
 ## Spielerzug
 
@@ -113,7 +113,7 @@ Zeit im Spiel wird vor allem auf zwei Arten nachgehalten - **Momente** (Runden) 
 
 ## Bewegung und Entfernung
 
-Anstatt genaue Werte nachzuhalten, benutzt TBH abstrakte Bereiche, mit denen die Entfernung dargestellt wird. **Benachbart**, **in der Nähe**, **abseits** und **entfernt**. Während eines Zugs können sich Charaktere irgendwo **in der Nähe** bewegen und ihre Handlung jederzeit während der Bewegung durchführen. Sie können ihre Handlung verfallen lassen, um sich **abseits** zu positionieren. Alles jenseits von **abseits** gilt als **entfernt** und würde drei Bewegungen erfordern.
+Anstatt genaue Werte nachzuhalten, benutzt TBH abstrakte Bereiche, mit denen die Entfernung dargestellt wird. **Dicht**, **Nah**, **Weit** und **Fern**. Während eines Zugs können sich Charaktere irgendwo **in der Nähe** bewegen und ihre Handlung jederzeit während der Bewegung durchführen. Sie können ihre Handlung verfallen lassen, um sich **abseits** zu positionieren. Alles jenseits von **abseits** gilt als **entfernt** und würde drei Bewegungen erfordern.
 
 Das System soll einen Spielstil mit erzählerischem "Kopfkino" zu unterstützen und kümmert sich weniger darum, Spielfelder oder genaue Maße nachzuhalten. Um vorgegebene Bewegungsreichweiten oder Abmessungen (für Zauberreichweiten oder Flächeneffekte) umzurechnen, bietet die folgende Tabelle eine Richtlinie:
 
@@ -146,7 +146,7 @@ Größere, tödlichere Waffen werden dargestellt, indem einfach +2 auf alle Wür
 
 ## Kritischer Schaden
 
-Wenn Spieler bei einem Angriff eine 1 würfeln, verdoppeln sie das Ergebnis des Schadenswurfs. Wenn sie eine 20 beim Verteidigen gegen einen Angriff würfeln, erleiden sie den doppelten Schaden. Rüstungspunkte funktionieren dabei ganz normal.
+Wenn Spieler bei einem Angriff eine 1 würfeln, verdoppeln sie das Ergebnis des Schadenswurfes. Wenn sie eine 20 beim Verteidigen gegen einen Angriff würfeln, erleiden sie den doppelten Schaden. Rüstungspunkte funktionieren dabei ganz normal.
 
 | Monster TW |     Schaden    |
 |:----------:|:--------------:|
@@ -214,7 +214,7 @@ Wenn Charaktere Waffen verwenden, die nicht bei ihrer Klasse aufgelistet stehen,
 
 ## Zufallsbegegnungen
 
-Ein SL kann alle 15 Minuten in der realen Welt (ihr *haltet* das nach, oder?) einen W4 würfeln. Bei einem Ergebnis von 1-2 taucht innerhalb der nächsten **Minute** (Runde) ein zufällig ermitteltes Wesen oder eine Ablenkung auf.
+Der SL sollte alle 15 Minuten, die das Spiel in Echtzeit dauert, einen W4 würfeln (also immer schön auf die Zeit achten). Bei einem Ergebnis von 1-2 taucht innerhalb der nächsten **Minute** (Runde) ein zufällig ermitteltes Wesen oder eine Ablenkung auf.
 
 ## Verhalten von Wesen
 
@@ -280,7 +280,7 @@ Beim Würfeln, um festzustellen ob sich Eigenschaften erhöhen, würfeln Krieger
 
 **Start-TP :** W6 + 4
 **TP pro Stufe/Erholung :** 1W6
-**Waffen & Rüstung :** Alle Schwerter, alle Bögen, Dolche, Festes Wams, Lederrüstung, Kleine Schilde
+**Waffen & Rüstung :** Alle Schwerter, alle Bögen, Dolche, Wams, Lederrüstung, Kleine Schilde
 **Angriffsschaden :** 1W6 / 1W4 Unbewaffnet oder Improvisiert
 
 ### Besondere Fähigkeiten
@@ -289,7 +289,7 @@ Diebe würfeln mit einem **Vorteil** bei **GES**-Proben um Schaden oder Effekte 
 
 Diebe würfeln mit **Vorteil** wenn sie von hinten angreifen und verursachen dabei 2W6 / 2W4 + ihre Stufe Schaden.
 
-Diebe würfeln mit **Vorteil** bei Tätigkeiten, die mit Fingerfertigkeit, Klettern, Lauschen, Schleichen, Lesen von Schrift und Schlösserknacken zu tun haben.
+Diebe würfeln mit **Vorteil** bei Tätigkeiten, die mit Fingerfertigkeit, Klettern, Lauschen, Schleichen, Schlösserknacken und dem Verstehen von Schriften zu tun haben.
 
 ### Stufen gewinnen
 
@@ -300,8 +300,8 @@ Beim Würfeln, um festzustellen ob sich Eigenschaften erhöhen, würfeln Diebe z
 ## Kleriker
 
 **Start-TP :** W8 + 4
-**TP pro Stufe/Erholung :** 1d8
-**Waffen & Rüstung :** Alle stumpfen Waffen, Festes Wams, Lederrüstung, Kettenhemd, alle Schilde
+**TP pro Stufe/Erholung :** 1W8
+**Waffen & Rüstung :** Alle stumpfen Waffen, Wams, Lederrüstung, Kettenhemd, alle Schilde
 **Angriffsschaden :** 1W6 / 1W4 Unbewaffnet oder Improvisiert
 
 ### Besondere Fähigkeiten
@@ -404,7 +404,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 * **Leichte Wunden Heilen :** Heilt bei einem Ziel in der Nähe 1W8 TP.
 * **Böses Erkennen :** Alles Böse in der Nähe schimmert - 5Min.
 * **Licht :** Erschafft ein schwaches Licht an einem Ort oder Gegenstand in der Nähe - 1Std.
-* **Schutz vor Bösem :** Vorteil bei alle schadenvermeidenden Proben gegen Bösen Verursacher - 1Std.
+* **Schutz vor Bösem :** Vorteil bei allen Schaden vermeidenden Proben gegen Bösen Verursacher - 1Std.
 * **Essen und Trinken Reinigen :** Entfernt alle Krankheiten von Nahrung und Getränken in der Nähe.
 
 **2**
@@ -417,7 +417,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 
 **3**
 
-* **Tageslicht :** Alles in der Nähe wird von Sonennlicht erhellt - 1Std.
+* **Tageslicht :** Alles in der Nähe wird von Sonnenlicht erhellt - 1Std.
 * **Krankheit Heilen :** Heilt ein Ziel in der Nähe von allen Krankheiten.
 * **Gegenstand Finden :** Spürt die Richtung eines bekannten Gegenstandes - 1 Min/Stufe.
 * **Stoßgebet :** Alle Verbündeten in der Nähe verteidigen sich mit Vorteil gegen Angriffe - 1W4 Momente.
@@ -488,7 +488,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 
 **4**
 
-* **Verwirrung :** 2d6 Ziele in der Nähe müssen sofort ihr Verhalten neu auswürfeln.
+* **Verwirrung :** 2W6 Ziele in der Nähe müssen sofort ihr Verhalten neu auswürfeln.
 * **Dimensionstor :** Versetzt ein Ziel an einen entfernten Ort.
 * **Sich/Andere Verwandeln :** Ändert das Aussehen eines Wesens in das eines anderen.
 * **Fluch Aufheben :** Hebt einen Fluch auf einem Ziel in der Nähe auf.
@@ -508,7 +508,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 **6**
 
 * **Antimagische Kuppel :** Erzeugt in der Nähe um den Zauberer ein Zone, die jegliche Magie blockiert.
-* **Todesfluch :** 2d8 Ziele in der Nähe mit 7TW oder weniger sterben.
+* **Todesfluch :** 2W8 Ziele in der Nähe mit 7TW oder weniger sterben.
 * **Zersetzen :** Verwandelt Gegenstand oder Ziel in der Nähe in feinen Staub.
 * **Unsichtbarer Pirscher :** Ruft ein außerweltliches Ungeheuer, das eine Aufgabe erfüllt.
 * **Stein zu Fleisch :** Verwandelt ein Ziel in der Nähe zu Stein (oder andersherum).
