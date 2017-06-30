@@ -10,11 +10,11 @@ DAVID BLACK
 
 -.-  
 
-Mit Elementen der 'originalen' Rollenspiel-Ära sowie moderner d20-Theorie.  
+Mit Elementen sowohl der 'originalen' Rollenspiel-Ära als auch moderner d20-Theorie.  
 
 **DANKESCHÖN AN**  
 
-In keiner bestimmten Reihenfolge - Peter Regan, Tony Tucker, Olav Nygård, Chris McDowall, Mick Reddick, Eric Nieudan, Brian Wille, Jarret Crader, Greg Welty, all die Arbeit, die die Grongnards in das Spiel gesteckt haben, die Leute von UK OSR Hangouts, jeden, der den Kickstarter gebackt haben (ihr seid alle die Größten!) und alle anderen Leute, die daran beteiligt waren, das Hobby zu entwickeln, mit dem wir alle soviel Spaß haben.
+In keiner bestimmten Reihenfolge - Peter Regan, Tony Tucker, Olav Nygård, Chris McDowall, Mick Reddick, Eric Nieudan, Brian Wille, Jarret Crader, Greg Welty, all die Arbeit, die die Grognards in das Spiel gesteckt haben, die Leute von UK OSR Hangouts, jeden, der den Kickstarter gebackt hat (ihr seid alle die Größten!) und alle anderen Leute, die daran beteiligt waren, das Hobby zu entwickeln, mit dem wir alle soviel Spaß haben.
 
 ----
 
@@ -24,7 +24,7 @@ The Black Hack (TBH) ist ein traditionelles Tischrollenspiel, das mit Papier, St
 
 ## Die Kernmechanik
 
-Wann immer Charaktere versuchen, etwas zu tun, das möglicherweise scheitern könnte, wird der Erfolg mit einer Probe auf einen Eigenschaftswert getestet. Um eine Probe erfolgreich zu bestehen, müssen Spieler mit einem W20 ***unter*** den entsprechenden Eigenschaftwert würfeln.
+Wann immer Charaktere versuchen, etwas zu tun, das möglicherweise scheitern könnte, wird der Erfolg mit einer Probe auf einen Eigenschaftswert getestet. Um eine Probe erfolgreich zu bestehen, müssen Spieler mit einem W20 ***unter*** den entsprechenden Eigenschaftswert würfeln.
 
 Monster würfeln keine Proben - Spielercharaktere müssen ihren Angriffen ausweichen, indem sie eine Probe bestehen. Das einzige, was Monster würfeln, ist ihr Schaden.
 
@@ -36,7 +36,7 @@ Monster würfeln keine Proben - Spielercharaktere müssen ihren Angriffen auswei
 
 Es stehen 4 Klassen zur Auswahl: Krieger, Dieb, Kleriker und Zauberer - die Klasse legt den Schaden fest, den Charaktere bei einem Treffer verursachen, ihre Trefferpunkte und ihre besonderen Fähigkeiten.
 
-## Ausrüstung kaufen.
+## Ausrüstung kaufen
 
 Neue Charaktere beginnen das Spiel mit 3W6 x 10 Münzen, mit denen sie ihre Ausrüstung kaufen können. Außerdem besitzen sie jeder die Kleidung, die sie tragen und eine Waffe, die ihre Klasse ihnen erlaubt.
 
@@ -46,9 +46,9 @@ Rüstung bietet Schutz, indem sie allen erlittenen Schaden reduziert. Jedes Stü
 
 |     Typ        | Punkte |
 |:--------------:|:------:|
-|  Festes Wams   |   2    |
-|  Lederrüstung  |   4    |
-|   Kettenhemd   |   6    |
+| Wams           |   2    |
+| Lederrüstung   |   4    |
+| Kettenhemd     |   6    |
 | Plattenrüstung |   8    |
 | Kleiner Schild |   2    |
 | Großer Schild  |   4    |
@@ -62,32 +62,32 @@ Wenn Charaktere Rüstung tragen, die bei ihrer Klasse nicht angegeben ist, addie
 
 | GEGENSTAND                   | KOSTEN | VORRATSWÜRFEL |         ANMERKUNG          |
 |:-----------------------------|:------:|:-------------:|:--------------------------:|
-| Festes Wams                  |   50   |       -       |      2 Rüstungspunkte      |
+| Wams                         |   50   |       -       |      2 Rüstungspunkte      |
 | Lederrüstung                 |  100   |       -       |      4 Rüstungspunkte      |
 | Kettenhemd                   |  350   |       -       |      6 Rüstungspunkte      |
 | Plattenrüstung               |  600   |       -       |      8 Rüstungspunkte      |
 | Kleiner/Großer Schild        | 50/100 |       -       |     2/4 Rüstungspunkte     |
 | Rucksack                     |   5    |       -       |        Traglast +2         |
-| Lampenöl                     |   2    |      d6       |              -             |
+| Lampenöl                     |   2    |      W6       |              -             |
 | Handwerksgerät               |   2    |       -       |              -             |
 | Heiliges Symbol              |   25   |       -       |  +2 auf WEI beim Bannen    |
-| Weihwasser                   |   25   |      d4       |              -             |
+| Weihwasser                   |   25   |      W4       |              -             |
 | Kletterhaken                 |   1    |       -       |              -             |
 | Laterne                      |   10   |       -       |              -             |
 | Handspiegel                  |   5    |       -       |              -             |
-| Haltbare Rationen            |   15   |      d8       |              -             |
-| Frische Rationen             |   5    |      d4       |              -             |
+| Haltbare Rationen            |   15   |      W8       |              -             |
+| Frische Rationen             |   5    |      W4       |              -             |
 | 15m Seil                     |   1    |       -       |              -             |
 | Beutel                       |   1    |       -       |              -             |
 | Sack                         |   2    |       -       |              -             |
 | Diebeswerkzeug               |   25   |       -       |              -             |
 | Feuerstein & Stahl           |   3    |       -       |              -             |
-| Fackeln (6)                  |   1    |      d6       | 1 Vorratswürfel pro Fackel |
-| Wasserschlauch               |   1    |      d6       |              -             |
+| Fackeln (6)                  |   1    |      W6       | 1 Vorratswürfel pro Fackel |
+| Wasserschlauch               |   1    |      W6       |              -             |
 | Wein                         |   1    |       -       |              -             |
-| Auswahl gewöhnlicher Kräuter |   10   |      d8       |              -             |
+| Auswahl gewöhnlicher Kräuter |   10   |      W8       |              -             |
 | 3m Holzstange                |   1    |       -       |              -             |
-| Köcher mit Pfeilen/Bolzen    |   10   |      d10      |              -             |
+| Köcher mit Pfeilen/Bolzen    |   10   |      W10      |              -             |
 | Zweihändige Waffe            |   50   |       -       |              -             |
 
 
@@ -99,9 +99,9 @@ The Black Hack verwendet keine Rettungswürfe und lässt die Spieler stattdessen
 |:----------------------------------------------------:|:----------------------------------------------:|:------------------------:|
 | Physischer Schaden, dem man *nicht* ausweichen kann. | Physischer Schaden, dem man ausweichen *kann*. | Gift, Krankheit und Tod. |
 
-|              INT               |            WEI            |           CHA           |
-|:------------------------------:|:-------------------------:|:-----------------------:|
-| Zaubern und Magie widerstehen. | Täuschung und Illusionen. | Geistige Beeinflussung. |
+|              INT               |            WEI            |          CHA           |
+|:------------------------------:|:-------------------------:|:----------------------:|
+| Zaubern und Magie widerstehen. | Täuschung und Illusionen. | Beeinflussungseffekte. |
 
 ## Spielerzug
 
@@ -113,13 +113,13 @@ Zeit im Spiel wird vor allem auf zwei Arten nachgehalten - **Momente** (Runden) 
 
 ## Bewegung und Entfernung
 
-Anstatt genaue Werte nachzuhalten, benutzt TBH abstrakte Bereiche, mit denen die Entfernung dargestellt wird. **Benachbart**, **in der Nähe**, **abseits** und **entfernt**. Während eines Zugs können sich Charaktere irgendwo **in der Nähe** bewegen und ihre Handlung jederzeit während der Bewegung durchführen. Sie können ihre Handlung verfallen lassen, um sich **abseits** zu positionieren. Alles jenseits von **abseits** gilt als **entfernt** und würde drei Bewegungen erfordern.
+Anstatt genaue Werte nachzuhalten, benutzt TBH abstrakte Bereiche, mit denen die Entfernung dargestellt wird. **Schlagweite**, **Schrittweite**, **Schussweite** und **Sichtweite**. Während eines Zugs können sich Charaktere irgendwo in **Schrittweite** bewegen und ihre Handlung jederzeit während der Bewegung durchführen. Sie können ihre Handlung verfallen lassen, um sich in **Schussweite** zu positionieren. Alles jenseits von **Schussweite** gilt als in **Sichtweite** und würde drei Bewegungen erfordern.
 
-Das System soll einen Spielstil mit erzählerischem "Kopfkino" zu unterstützen und kümmert sich weniger darum, Spielfelder oder genaue Maße nachzuhalten. Um vorgegebene Bewegungsreichweiten oder Abmessungen (für Zauberreichweiten oder Flächeneffekte) umzurechnen, bietet die folgende Tabelle eine Richtlinie:
+Das System soll einen Spielstil mit erzählerischem "Kopfkino" unterstützen und kümmert sich weniger darum, Spielfelder oder genaue Maße nachzuhalten. Um vorgegebene Bewegungsreichweiten oder Abmessungen (für Zauberreichweiten oder Flächeneffekte) umzurechnen, bietet die folgende Tabelle eine Richtlinie:
 
-| BENACHBART |  IN DER NÄHE  | ABSEITS  |
-|:----------:|:-------------:|:--------:|
-|  0 - 1,5m  |   1,5 - 20m   | 20 - 40m |
+| SCHLAGWEITE | SCHRITTWEITE | SCHUSSWEITE |
+|:-----------:|:------------:|:-----------:|
+|  0 - 1,5m   |  1,5 - 20m   |  20 - 40m   |
 
 ## Initiative
 
@@ -136,7 +136,7 @@ Wenn Charaktere einen Gegner angreifen, müssen sie für einen **Nahkampfangriff
 
 Der von einem Angriff verursachte Schaden hängt bei angreifenden Charakteren von ihrer Klasse und bei angreifenden Monstern von ihren **TW** ab.
 
-Für einen **Nahkampfangriff** muss man **benachbart** zu einem Gegner stehen. **Fernkampfangriffe** gegen **benachbarte** Gegner sich sind möglich, aber der Angreifer hat einen **Nachteil**.
+Für einen **Nahkampfangriff** muss man in **Schlagweite** zu einem Gegner stehen. **Fernkampfangriffe** gegen Gegner in **Schlagweite** sind möglich, aber der Angreifer hat einen **Nachteil**.
 
 **Monster** verursachen Schaden abhängig von ihren **TW** - *siehe nebenstehende Tabelle*, aber wenn ihr lieber die Schadenswerte aus einem Abenteuer übernehmt, das ihr gerade spielt, könnt ihr das auch stattdessen tun.
 
@@ -146,7 +146,7 @@ Größere, tödlichere Waffen werden dargestellt, indem einfach +2 auf alle Wür
 
 ## Kritischer Schaden
 
-Wenn Spieler bei einem Angriff eine 1 würfeln, verdoppeln sie das Ergebnis des Schadenswurfs. Wenn sie eine 20 beim Verteidigen gegen einen Angriff würfeln, erleiden sie den doppelten Schaden. Rüstungspunkte funktionieren dabei ganz normal.
+Wenn Spieler bei einem Angriff eine 1 würfeln, verdoppeln sie das Ergebnis des Schadenswurfes. Wenn sie eine 20 beim Verteidigen gegen einen Angriff würfeln, erleiden sie den doppelten Schaden. Rüstungspunkte funktionieren dabei ganz normal.
 
 | Monster TW |     Schaden    |
 |:----------:|:--------------:|
@@ -165,7 +165,7 @@ Wenn Spieler bei einem Angriff eine 1 würfeln, verdoppeln sie das Ergebnis des 
 
 Wenn Charaktere auf 0 **Trefferpunkte (TP)** fallen, sind sie **Außer Gefecht (AG)**. Sie sind bewusstlos und können keine Handlungen durchführen. Wenn der Kampf/die Gefahr vorbei ist, können Charaktere, die Außer Gefecht sind, auf die Tabelle (*Folgeseite*) würfeln, um zu sehen, was ihnen passiert ist. **Wer überlebt, hat danach 1W4 TP**.
 
-*Wenn die Charaktere den Kampf verlieren oder den bewusstlosen Körper Charakters nicht bergen können, ist er für immer verloren!*
+*Wenn die Charaktere den Kampf verlieren oder den bewusstlosen Körper des Charakters nicht bergen können, ist er für immer verloren!*
 
 ## Mächtige Gegner
 
@@ -206,7 +206,7 @@ Wenn Charaktere eine Stufe aufsteigen, erhöht sich das Maximum für ihre **Tref
 
 ## Überladung
 
-Charaktere können eine Anzahl von Gegenständen tragen, die ihrer **STÄ** entspricht, ohne dadurch beeinträchtigt zu sein. Wenn sie mehr Gegenstände tragen, sind sie überladen und alle Proben werden mit einem **Nachteil** gewürfelt - außerdem können sie sich höchstens **in der Nähe** bewegen. Sie können nie mehr tragen als ihr doppelter **STÄ**-Wert beträgt.
+Charaktere können eine Anzahl von Gegenständen tragen, die ihrer **STÄ** entspricht, ohne dadurch beeinträchtigt zu sein. Wenn sie mehr Gegenstände tragen, sind sie überladen und alle Proben werden mit einem **Nachteil** gewürfelt - außerdem können sie sich höchstens in **Schrittweite** bewegen. Sie können nie mehr tragen als ihr doppelter **STÄ**-Wert beträgt.
 
 ## Waffen nach Klasse
 
@@ -214,7 +214,7 @@ Wenn Charaktere Waffen verwenden, die nicht bei ihrer Klasse aufgelistet stehen,
 
 ## Zufallsbegegnungen
 
-Ein SL kann alle 15 Minuten in der realen Welt (ihr *haltet* das nach, oder?) einen W4 würfeln. Bei einem Ergebnis von 1-2 taucht innerhalb der nächsten **Minute** (Runde) ein zufällig ermitteltes Wesen oder eine Ablenkung auf.
+Der SL sollte alle 15 Minuten, die das Spiel in Echtzeit dauert, einen W4 würfeln (also immer schön auf die Zeit achten). Bei einem Ergebnis von 1-2 taucht innerhalb der nächsten **Minute** (Runde) ein zufällig ermitteltes Wesen oder eine Ablenkung auf.
 
 ## Verhalten von Wesen
 
@@ -233,7 +233,7 @@ Einige Monster und NSCs haben festgelegte Persönlichkeiten und Ziele, die dem S
 
 ## Untote Bannen
 
-Kleriker können versuchen, mit einer Handlung alle Untoten **in der Nähe** zu bannen. Dazu müssen sie für jede Gruppe von Wesen, die sie bannen wollen, eine Probe auf **WEI** bestehen, wobei der **TW** der Wesen zum Wurf addiert wird. Der SL legt fest, welche Wesen zu einer Gruppe gehören.
+Kleriker können versuchen, mit einer Handlung alle Untoten in **Schrittweite** zu bannen. Dazu müssen sie für jede Gruppe von Wesen, die sie bannen wollen, eine Probe auf **WEI** bestehen, wobei der **TW** der Wesen zum Wurf addiert wird. Der SL legt fest, welche Wesen zu einer Gruppe gehören.
 
 Untote Monster, die die Kleriker **Bannen** konnten, müssen all ihre Bewegungen dazu benutzen (und all ihre Handlungen in Bewegungen verwandeln), um sich für 2W4 **Momente** vom Kleriker zu entfernen, nachdem sie von **Bannen** betroffen wurden.
 
@@ -280,7 +280,7 @@ Beim Würfeln, um festzustellen ob sich Eigenschaften erhöhen, würfeln Krieger
 
 **Start-TP :** W6 + 4
 **TP pro Stufe/Erholung :** 1W6
-**Waffen & Rüstung :** Alle Schwerter, alle Bögen, Dolche, Festes Wams, Lederrüstung, Kleine Schilde
+**Waffen & Rüstung :** Alle Schwerter, alle Bögen, Dolche, Wams, Lederrüstung, Kleine Schilde
 **Angriffsschaden :** 1W6 / 1W4 Unbewaffnet oder Improvisiert
 
 ### Besondere Fähigkeiten
@@ -289,7 +289,7 @@ Diebe würfeln mit einem **Vorteil** bei **GES**-Proben um Schaden oder Effekte 
 
 Diebe würfeln mit **Vorteil** wenn sie von hinten angreifen und verursachen dabei 2W6 / 2W4 + ihre Stufe Schaden.
 
-Diebe würfeln mit **Vorteil** bei Tätigkeiten, die mit Fingerfertigkeit, Klettern, Lauschen, Schleichen, Lesen von Schrift und Schlösserknacken zu tun haben.
+Diebe würfeln mit **Vorteil** bei Tätigkeiten, die mit Fingerfertigkeit, Klettern, Lauschen, Schleichen, Schlösserknacken und dem Verstehen von Schriften zu tun haben.
 
 ### Stufen gewinnen
 
@@ -300,15 +300,15 @@ Beim Würfeln, um festzustellen ob sich Eigenschaften erhöhen, würfeln Diebe z
 ## Kleriker
 
 **Start-TP :** W8 + 4
-**TP pro Stufe/Erholung :** 1d8
-**Waffen & Rüstung :** Alle stumpfen Waffen, Festes Wams, Lederrüstung, Kettenhemd, alle Schilde
+**TP pro Stufe/Erholung :** 1W8
+**Waffen & Rüstung :** Alle stumpfen Waffen, Wams, Lederrüstung, Kettenhemd, alle Schilde
 **Angriffsschaden :** 1W6 / 1W4 Unbewaffnet oder Improvisiert
 
 ### Besondere Fähigkeiten
 
 Kleriker Würfeln mit einem **Vorteil** bei **AUS**-Proben um Giftschaden oder Versteinerung zu vermeiden.
 
-Kleriker können eine Handlung dazu verwenden, alle Untoten **in der Nähe** zu bannen, indem ihnen eine **WEI**-Probe gelingt, bei der die TW des Gegners auf den Würfelwurf addiert werden.
+Kleriker können eine Handlung dazu verwenden, alle Untoten in **Schrittweite** zu bannen, indem ihnen eine **WEI**-Probe gelingt, bei der die TW des Gegners auf den Würfelwurf addiert werden.
 
 ### Stufen gewinnen
 
@@ -401,49 +401,49 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 
 **1**
 
-* **Leichte Wunden Heilen :** Heilt bei einem Ziel in der Nähe 1W8 TP.
-* **Böses Erkennen :** Alles Böse in der Nähe schimmert - 5Min.
-* **Licht :** Erschafft ein schwaches Licht an einem Ort oder Gegenstand in der Nähe - 1Std.
-* **Schutz vor Bösem :** Vorteil bei alle schadenvermeidenden Proben gegen Bösen Verursacher - 1Std.
-* **Essen und Trinken Reinigen :** Entfernt alle Krankheiten von Nahrung und Getränken in der Nähe.
+* **Leichte Wunden Heilen :** Heilt bei einem Ziel in Schrittweite 1W8 TP.
+* **Böses Erkennen :** Alles Böse in Schrittweite schimmert - 5Min.
+* **Licht :** Erschafft ein schwaches Licht an einem Ort oder Gegenstand in Schrittweite - 1Std.
+* **Schutz vor Bösem :** Vorteil bei allen Schaden vermeidenden Proben gegen Bösen Verursacher - 1Std.
+* **Essen und Trinken Reinigen :** Entfernt alle Krankheiten von Nahrung und Getränken in Schrittweite.
 
 **2**
 
-* **Segnen :** Alle Verbündeten in der Nähe erhalten +1 auf ihre Eigenschaftswerte, wenn sie angreifen oder bei Rettungswürfen - 1Std.
-* **Fallen Finden :** Bemerkt alle Fallen in der Nähe - 10Min.
-* **Person Halten :** Lässt 1W4 Ziele in der Nähe erstarren. **WEI**-Probe jede Runde, ob Effekt anhält.
-* **Stille :** Magische Stille umhüllt alles in der Nähe eines Zieles - 1Std.
+* **Segnen :** Alle Verbündeten in Schrittweite erhalten +1 auf ihre Eigenschaftswerte, wenn sie angreifen oder bei Rettungswürfen - 1Std.
+* **Fallen Finden :** Bemerkt alle Fallen in Schrittweite - 10Min.
+* **Person Halten :** Lässt 1W4 Ziele in Schrittweite erstarren. **WEI**-Probe jede Runde, ob Effekt anhält.
+* **Stille :** Magische Stille umhüllt alles in Schrittweite eines Zieles - 1Std.
 * **Mit Tieren Sprechen :** Kann Tiere verstehen und sich mit ihnen unterhalten - 1Std.
 
 **3**
 
-* **Tageslicht :** Alles in der Nähe wird von Sonennlicht erhellt - 1Std.
-* **Krankheit Heilen :** Heilt ein Ziel in der Nähe von allen Krankheiten.
+* **Tageslicht :** Alles in Schrittweite wird von Sonnenlicht erhellt - 1Std.
+* **Krankheit Heilen :** Heilt ein Ziel in Schrittweite von allen Krankheiten.
 * **Gegenstand Finden :** Spürt die Richtung eines bekannten Gegenstandes - 1 Min/Stufe.
-* **Stoßgebet :** Alle Verbündeten in der Nähe verteidigen sich mit Vorteil gegen Angriffe - 1W4 Momente.
-* **Fluch Aufheben :** Hebt einen Fluch auf einem Ziel in der Nähe auf.
-* **Mit Toten Sprechen :** Stelle einer Leiche in der Nähe 3 Fragen.
+* **Stoßgebet :** Alle Verbündeten in Schrittweite verteidigen sich mit Vorteil gegen Angriffe - 1W4 Momente.
+* **Fluch Aufheben :** Hebt einen Fluch auf einem Ziel in Schrittweite auf.
+* **Mit Toten Sprechen :** Stelle einer Leiche in Schrittweite 3 Fragen.
 
 **4**
 
-* **Nahrung/Wasser Erschaffen :** Erschafft für alle Wesen in der Nähe ausreichend Nahrung/Wasser für einen Tag.
-* **Schwere Wunden Heilen :** Heilt ein Ziel in der Nähe für 3W8+3 TP.
-* **Gift Aufheben :** Entfernt Gift bei einem Ziel in der Nähe und macht es immun - 10Min.
-* **Schutz vor Bösem :** Verbündete in der Nähe gewinnen 6 temporäre RP gegen böse Wesen - 10Min.
+* **Nahrung/Wasser Erschaffen :** Erschafft für alle Wesen in Schrittweite ausreichend Nahrung/Wasser für einen Tag.
+* **Schwere Wunden Heilen :** Heilt ein Ziel in Schrittweite für 3W8+3 TP.
+* **Gift Aufheben :** Entfernt Gift bei einem Ziel in Schrittweite und macht es immun - 10Min.
+* **Schutz vor Bösem :** Verbündete in Schrittweite gewinnen 6 temporäre RP gegen böse Wesen - 10Min.
 
 **5**
 
 * **Beten :** Die Gottheit des Klerikers beantwortet wahrheitsgemäß 3 Fragen - 10Min.
-* **Böses Aufheben :** Beendet eine (Böse) Göttliche Anrufung in der Nähe.
-* **Todesgriff :** Wähle ein Ziel in der Nähe und mache eine **WEI**-Probe, bei Erfolg ist das Ziel Außer Gefecht.
-* **Pest :** Mache für jedes Ziel in der Nähe eine **WEI**-Probe, bei Erfolg verliert es 2W8 TP für die nächsten 1W6 Runden.
-* **Queste :** Zwinge ein Wesen in der Nähe, einen Befehl zu befolgen.
-* **Tote Erwecken :** Lasse ein williges Ziel in der Nähe ins Leben zurückkehren, das innerhalb der letzten 7 Tage gestorben ist.
+* **Böses Aufheben :** Beendet eine (Böse) Göttliche Anrufung in Schrittweite.
+* **Todesgriff :** Wähle ein Ziel in Schrittweite und mache eine **WEI**-Probe, bei Erfolg ist das Ziel Außer Gefecht.
+* **Pest :** Mache für jedes Ziel in Schrittweite eine **WEI**-Probe, bei Erfolg verliert es 2W8 TP für die nächsten 1W6 Runden.
+* **Queste :** Zwinge ein Wesen in Schrittweite, einen Befehl zu befolgen.
+* **Tote Erwecken :** Lasse ein williges Ziel in Schrittweite ins Leben zurückkehren, das innerhalb der letzten 7 Tage gestorben ist.
 
 **6**
 
-* **Belebe Gegenstand :** Verleihe einem Gegenstand in der Nähe Bewegung und eine rudimentäre Intelligenz - 10Min.
-* **Klingenwand :** Die Wand entsteht in der Nähe, **WEI**-Probe um zur Wand benachbarte Ziele anzugreifen (3W8) - 10Min.
+* **Belebe Gegenstand :** Verleihe einem Gegenstand in Schrittweite Bewegung und eine rudimentäre Intelligenz - 10Min.
+* **Klingenwand :** Die Wand entsteht in Schrittweite, **WEI**-Probe um Ziele in Schlagweite zur Wand anzugreifen (3W8) - 10Min.
 * **Elementar Beschwören :** Ruft einen Elementargeist mit TW gleich der Stufe des Klerikers -1Std.
 * **Weg Finden :** Der Weg zu einem gewählten Ort wird offenbar - 1Std.
 * **Mit Monstern Sprechen :** Kann Monster verstehen und sich mit ihnen unterhalten - 1Std.
@@ -451,11 +451,11 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 
 **7**
 
-* **Luftiger Diener :** Ruft einen Diener, um einen entfernten Gegenstand zurückzuholen.
+* **Luftiger Diener :** Ruft einen Diener, um einen Gegenstand in Sichtweite zurückzuholen.
 * **Astrale Anrufung :** Projiziert einen Avatar des Klerikers in eine gewählte Existenzebene - 1Std.
-* **Wetterkontrolle :** Kontrolliert Wetter in der Nähe bis in jedes Extrem - 10Min.
-* **Erdbeben :** Mache eine **WEI**-Probe für alle Wesen in der Nähe, bei Erfolg sind sie Außer Gefecht.
-* **Heiliges Wort :** Wesen in der Nähe mit weniger als 5 TW sterben, 6-10TW sind für 1W4 Runden erstarrt.
+* **Wetterkontrolle :** Kontrolliert Wetter in Schrittweite bis in jedes Extrem - 10Min.
+* **Erdbeben :** Mache eine **WEI**-Probe für alle Wesen in Schrittweite, bei Erfolg sind sie Außer Gefecht.
+* **Heiliges Wort :** Wesen in Schrittweite mit weniger als 5TW sterben, 6-10 TW sind für 1W4 Runden erstarrt.
 * **Windlauf :** Verwandle dich nach Belieben in Nebel und wieder zurück - 1Tag.
 * **Wiederherstellung :** Stellt alle Stufen wieder her, die an Monster mit Stufenraub verloren wurden.
 
@@ -463,63 +463,63 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 
 **1**
 
-* **Bezaubern :** Ein Ziel in der Nähe befolgt Befehle. Eine **WEI**-Probe pro Runde um zu sehen, ob der Effekt anhält.
-* **Magie Entdecken :** Alles in der Nähe, was magisch ist, schimmert - 5Min.
-* **Licht :** Erschafft ein schwaches Licht an einem Ort oder Gegenstand in der Nähe - 1Std.
-* **Magisches Geschoss :** Ein Ziel das in der Nähe, abseits oder entfernt ist, nimmt 1W4 Schaden pro Stufe.
+* **Bezaubern :** Ein Ziel in Schrittweite befolgt Befehle. Eine **WEI**-Probe pro Runde um zu sehen, ob der Effekt anhält.
+* **Magie Entdecken :** Alles in Schrittweite, was magisch ist, schimmert - 5Min.
+* **Licht :** Erschafft ein schwaches Licht an einem Ort oder Gegenstand in Schrittweite - 1Std.
+* **Magisches Geschoss :** Ein Ziel in Schrittweite, Schussweite oder Sichtweite nimmt 1W4 Schaden pro Stufe.
 * **Schild :** Erhalte 2 RP pro Stufe.
 * **Schlaf :** Versetzt Wesen im 'Wert' von 4W6 TW in Schlaf - 8Std.
 
 **2**
 
-* **Dunkelheit :** Erschafft in der Nähe eine Dunkelheit, die jede Art von Sicht blockiert - 1Std.
-* **Unsichtbarkeit :** Ein Wesen in der Nähe wird unsichtbar, bis es angreift oder der Zauber aufgehoben wird.
-* **Anklopfen :** Eine Tür oder ein Schloss in der Nähe öffnet sich.
+* **Dunkelheit :** Erschafft in Schrittweite eine Dunkelheit, die jede Art von Sicht blockiert - 1Std.
+* **Unsichtbarkeit :** Ein Wesen in Schrittweite wird unsichtbar, bis es angreift oder der Zauber aufgehoben wird.
+* **Anklopfen :** Eine Tür oder ein Schloss in Schrittweite öffnet sich.
 * **Levitieren :** Der Zauberer schwebt bis zu 2m über dem Boden - 10Min/Stufe.
-* **Netz :** Betrifft alles in der Nähe, verhindert Bewegung. **WEI**-Probe pro Std. damit der Effekt anhält.
+* **Netz :** Betrifft alles in Schrittweite, verhindert Bewegung. **WEI**-Probe pro Std. damit der Effekt anhält.
 
 **3**
 
 * **Dunkelsicht :** Kann in absoluter Dunkelheit sehen - 10Min/Stufe.
-* **Magie Aufheben :** Beendet einen Arkanen Zauber in der Nähe.
-* **Feuerball :** 1W6 Wesen in der Nähe nehmen 1W6 Schaden pro Stufe.
+* **Magie Aufheben :** Beendet einen Arkanen Zauber in Schrittweite.
+* **Feuerball :** 1W6 Wesen in Schrittweite nehmen 1W6 Schaden pro Stufe.
 * **Sprache/Magie Lesen :** Kann alle Sprachen und Zauber lesen - 10Min.
-* **Magischer Mund :** Erschafft einen illusionären Mund, der einen Satz für alle Wesen in der Nähe wiederholt.
+* **Magischer Mund :** Erschafft einen illusionären Mund, der einen Satz für alle Wesen in Schrittweite wiederholt.
 
 **4**
 
-* **Verwirrung :** 2d6 Ziele in der Nähe müssen sofort ihr Verhalten neu auswürfeln.
-* **Dimensionstor :** Versetzt ein Ziel an einen entfernten Ort.
+* **Verwirrung :** 2W6 Ziele in Schrittweite müssen sofort ihr Verhalten neu auswürfeln.
+* **Dimensionstor :** Versetzt ein Ziel an einen Ort in Sichtweite.
 * **Sich/Andere Verwandeln :** Ändert das Aussehen eines Wesens in das eines anderen.
-* **Fluch Aufheben :** Hebt einen Fluch auf einem Ziel in der Nähe auf.
-* **Wand aus Feuer/Eis :** Die Wand entsteht innnerhalb in der Nähe, **WEI** um zur Wand benachbarte Ziele anzugreifen (3W6) - 10Min.
-* **Wand aus Stein/Eisen :** Eine Wand entsteht in der Nähe - 1Std.
+* **Fluch Aufheben :** Hebt einen Fluch auf einem Ziel in Schrittweite auf.
+* **Wand aus Feuer/Eis :** Die Wand entsteht in Schrittweite, **WEI** um Ziele in Schlagweite der Wand anzugreifen (3W6) - 10Min.
+* **Wand aus Stein/Eisen :** Eine Wand entsteht in Schrittweite - 1Std.
 
 **5**
 
-* **Tote Erheben :** Macht 2W4 Leichen in der Nähe zu Skeletten/Zombies mit TW/Stufe.
-* **Todeswolke :** Jedes Wesen mit weniger als 5TW, das sie berührt, ist bei gelungener INT-Probe Außer Gefecht – 1Std.
+* **Tote Erheben :** Macht 2W4 Leichen in Schrittweite zu Skeletten/Zombies mit TW/Stufe.
+* **Todeswolke :** Jedes Wesen mit weniger als 5TW, das sie berührt, ist bei gelungener **INT**-Probe Außer Gefecht – 1Std.
 * **Elementar Beschwören :** Erschaffe einen Elementar nach Wahl mit 3W4 TW.
 * **Kontakt zu Höheren Ebenen :** Stelle 1 Frage/Stufe.
-* **Schwachsinn :** Senke die **INT** eines Ziels in der Nähe auf 4 - 10Min/Stufe.
-* **Telekinese :** Bewege Gegenstände in der Nähe - 1Std.
-* **Teleport :** Versetzt ein Ziel in der Nähe an einen beliebigen Ort, den der Zauberer kennt.
+* **Schwachsinn :** Senke die **INT** eines Ziels in Schrittweite auf 4 - 10Min/Stufe.
+* **Telekinese :** Bewege Gegenstände in Schrittweite - 1Std.
+* **Teleport :** Versetzt ein Ziel in Schrittweite an einen beliebigen Ort, den der Zauberer kennt.
 
 **6**
 
-* **Antimagische Kuppel :** Erzeugt in der Nähe um den Zauberer ein Zone, die jegliche Magie blockiert.
-* **Todesfluch :** 2d8 Ziele in der Nähe mit 7TW oder weniger sterben.
-* **Zersetzen :** Verwandelt Gegenstand oder Ziel in der Nähe in feinen Staub.
+* **Antimagische Kuppel :** Erzeugt in Schrittweite um den Zauberer ein Zone, die jegliche Magie blockiert.
+* **Todesfluch :** 2W8 Ziele in Schrittweite mit 7TW oder weniger sterben.
+* **Zersetzen :** Verwandelt Gegenstand oder Ziel in Schrittweite in feinen Staub.
 * **Unsichtbarer Pirscher :** Ruft ein außerweltliches Ungeheuer, das eine Aufgabe erfüllt.
-* **Stein zu Fleisch :** Verwandelt ein Ziel in der Nähe zu Stein (oder andersherum).
+* **Stein zu Fleisch :** Verwandelt ein Ziel in Schrittweite zu Stein (oder andersherum).
 
 **7**
 
 * **Begrenzter Wunsch :** Ändere die Realität (Ausmaß oder Zeit sind begrenzt).
-* **Wort der Macht: Töten :** Ein Ziel in der Nähe mit 50 TP oder weniger stirbt und kann nicht wiederbelebt werden.
+* **Wort der Macht: Töten :** Ein Ziel in Schrittweite mit 50 TP oder weniger stirbt und kann nicht wiederbelebt werden.
 * **Dämonenbeschwörung :** Ruft einen Dämon mit 2TW/Stufe.
 * **Meteorschwarm :** Gleicher Effekt wie 4maliges Zaubern von Feuerball.
-* **Zeit Einfrieren :** Hält für 1W4+1 Momente die Zeit in der Nähe vollständig an.
+* **Zeit Einfrieren :** Hält für 1W4+1 Momente die Zeit in Schrittweite vollständig an.
 
 | Wesen                  |    TW    | Handlungen und Anmerkungen                                                                                                                         |
 |:-----------------------|:--------:|:---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -555,18 +555,18 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 | Dschinn                |    7     | Kann als Handlung körperlos werden, Gegenstände und Illusionen erschaffen oder Unsichtbarkeit (Zauber) einsetzen.                                  |
 | Phantom                |    8     | Ein Wesen, das von einem Phantom getötet wird, kehrt selbst in 1W6 Minuten als Phantom zurück.                                                     |
 | Chimäre                |    8     | 2 Klauen (1W3) + 2 Ziegenhörner (1W4) + 1 Löwenbiss (2W4) + 1 Drachenbiss (3W4) oder Feuerdrachenatem (3W8).                                         |
-| Balor (Dämon)          |    9     | Schwert (1W12+2) + Peitsche (0) GES-Probe oder wird benachbart zum Balor gezogen und brennt für 3W6 Feuerschaden.                                  |
+| Balor (Dämon)          |    9     | Schwert (1W12+2) + Peitsche (0) GES-Probe oder wird in Schlagweite zum Balor gezogen und brennt für 3W6 Feuerschaden.                                  |
 | Hezrou (Dämon)         |    9     | 2 Klauen (1W3) + 1 Biss (2W8), Verursacht Furcht (wie Verbannen) oder Dunkelheit (Zauber) - je einmal pro Kampf.                                   |
 | Schwarzer Blob         |   10     | Metallgegenstände, die ihn berühren, schmelzen im nächsten Moment.                                                                                 |
 | Eisriese               |   10     | Schleudert Felsen oder riesige Eisbrocken.                                                                                                         |
 | Steingolem             |   12     | Nur Zauber, die Fels und Stein betreffen, wirken, Waffen müssen +2 oder besser sein, um Schaden zu machen.                                         |
-| Gigantenschnecke       |   12     | Spuckt Säure - W4+2 Ziele in der Nähe (1W12), GES-Probe für halben Schaden.                                                                            |
-| Drache                 | 9 bis 11 | 2 Klauen (1W8) + Biss (1W10), Feueratem - W4+2 Ziele in der Nähe (3W8). Kann 1W4 Sprüche Stufe 1 und 1W2 Sprüche Stufe 2 einsetzen.                     |
+| Gigantenschnecke       |   12     | Spuckt Säure - W4+2 Ziele in Schrittweite (1W12), GES-Probe für halben Schaden.                                                                            |
+| Drache                 | 9 bis 11 | 2 Klauen (1W8) + Biss (1W10), Feueratem - W4+2 Ziele in Schrittweite (3W8). Kann 1W4 Sprüche Stufe 1 und 1W2 Sprüche Stufe 2 einsetzen.                     |
 
 ## Spielbeispiel
 
 **SL :** Ok, ihr seid in der Kanalisation. Ihr steht knietief in der Kloake und nördlich von euch ist ein Fallgitter. Was tut ihr?
-**Dieb :** Ist das Fallgitter in der Nähe?
+**Dieb :** Ist das Fallgitter in Schrittweite?
 **SL :** Jau.
 **Dieb :** Ich bewege mich dorthin und benutze meine Handlung, um nach Fallen zu suchen.
 **Krieger :** Vorausgesetzt dass alles sicher ist, würde ich versuchen, die Gitterstäbe aufzubiegen.
@@ -585,9 +585,9 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 **Krieger :** Den Tunnel erkunden..?
 **Dieb :** Dafür! Ich schleiche voraus.
 **Zauberer :** Und ich bilde die Nachhut!
-**SL :** Ok Dieb, du folgst dem Kanal, immer noch in der Nähe deiner Gefährten. Mach mal bitte eine Probe auf Geschick, um zu sehen, wie leise du bist - denk daran, du hast einen Vorteil wenn du schleichst. Würfle zwei W20 und such dir ein Würfelergebnis von beiden aus.
+**SL :** Ok Dieb, du folgst dem Kanal, immer noch in Schrittweite deiner Gefährten. Mach mal bitte eine Probe auf Geschick, um zu sehen, wie leise du bist - denk daran, du hast einen Vorteil wenn du schleichst. Würfle zwei W20 und such dir ein Würfelergebnis von beiden aus.
 **Dieb :** \*würfelt\* Trotz zwei Würfeln habe ich eine 17 und eine 19. Wie wahrscheinlich ist das denn bitte?
-**SL :** Oha. Du machst beim Schleichen soviel Krach, dass ein Ghul, der in der Nähe gelauert hat, aus der Dunkelheit hervorspringt und dich angreift!
+**SL :** Oha. Du machst beim Schleichen soviel Krach, dass ein Ghul, der in Schrittweite gelauert hat, aus der Dunkelheit hervorspringt und dich angreift!
 **Dieb :** Dreck!
 **SL :** Zeit für Initiative! Jeder würfelt auf Geschick, wer es schafft, ist vor dem Ghul dran, wer versagt, danach. Dieb, du würfelst mit Nachteil.
 **Krieger :** Ich bin vorher dran.
@@ -595,7 +595,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 **SL :** Dieb?
 **Dieb :** Soll ich schonmal einen neuen Charakter auswürfeln? Ich bin nach ihm dran.
 **Krieger :** Ich will den Tunnel herunterrennen und den Ghul mit meinem Breitschwert zerschmettern.
-**SL :** Gut, Krieger, du bewegst dich benachbart zum Ghul. Mach eine Stärkeprobe um zu sehen, ob du ihn triffst und addiere +1 auf den Wurf, weil der Ghul ein mächtiger Gegner ist.
+**SL :** Gut, Krieger, du bewegst dich in Schlagweite zum Ghul. Mach eine Stärkeprobe um zu sehen, ob du ihn triffst und addiere +1 auf den Wurf, weil der Ghul ein mächtiger Gegner ist.
 **Krieger :** \*würfelt\* Eine 7! \*würfelt nochmal\* Das sind dann 8 TP Schaden.
 **SL :** Guter Treffer! Dann ist der Ghul dran. Dieb, würfle auf Geschick, um den lähmenden Klauen und Zähnen des Ghuls auszuweichen. Denk an die +1.
 **Dieb :** \*würfelt\* Bäh! 18.

@@ -2,7 +2,7 @@
 
 von David Black
 
-v1.0
+v1.2
 
 Übersetzt von Matthias Schaffrath, unterstützt durch Sören Kohlmeyer.
 
@@ -10,11 +10,11 @@ v1.0
 
 ## Danke
 
-Wenn Du das hier liest, kann man mit großer Wahrscheinlichkeit davon ausgehen, dass Du den Kickstarter gebackt/ein PDF auf RPG.now gekauft hast. Danke dafür. Vielen Dank. Das liest sich vielleicht sarkastisch, ist aber nicht so gemeint, ich bin wirklich dankbar. Das hier ist ein kleines Extra, um zu zeigen, wie sehr ich all die Unterstützung schätze, die Ihr TBH geschenkt habt! Ach ja, und wenn Du nicht beim Kickstarter mitgemacht/ein PDF gekauft hast, hast Du das Buch wohl irgendwie raubkopiert. In dem Fall fühle ich mich einfach geschmeichelt, dass es Dir das wert war.
+Wenn Du das hier liest, kann man mit großer Wahrscheinlichkeit davon ausgehen, dass Du den Kickstarter gebackt/ein PDF auf RPG.now gekauft hast. Danke dafür. Vielen Dank. Das liest sich vielleicht sarkastisch, ist aber nicht so gemeint, ich bin wirklich dankbar. Das hier ist ein kleines Extra, um zu zeigen, wie sehr ich all die Unterstützung schätze, die Ihr TBH geschenkt habt! Ach ja, und wenn Du *nicht* beim Kickstarter mitgemacht/ein PDF gekauft hast, hast Du das Buch wohl irgendwie raubkopiert. In dem Fall fühle ich mich einfach geschmeichelt, dass es Dir das wert war.
 
 ## Alternative Regeln
 
-**Mehr Kram** ist eine Sammlung von optionalen Regeln, Anmerkungen, Vorschlägen und anderen Ideen, die es, aus dem einen oder anderen Grund, nicht in das TBH Minigrundregelwerk geschafft haben. Meistens aus Platzgründen, oder vielleicht, weil sie dämlich sind - ich überlasse Euch die Entscheidung. Übernehmt davon was Ihr wollt, wenn Ihr wollt, für Euer Spiel. Manches hier ist schon auf meinem Blog oder in Sozialen Medien erschienen - aber es ist gut, wenn alles schön ordentlich beieinander ist, oder?
+**Mehr Kram** ist eine Sammlung von optionalen Regeln, Anmerkungen, Vorschlägen und anderen Ideen, die es, aus dem einen oder anderen Grund, nicht in das TBH-Minigrundregelwerk geschafft haben. Meistens aus Platzgründen, oder vielleicht, weil sie dämlich sind - ich überlasse Euch die Entscheidung. Übernehmt davon für Euer Spiel was Ihr wollt, wenn Ihr wollt. Manches hier ist schon auf meinem Blog oder in Sozialen Medien erschienen - aber es ist gut, wenn alles schön ordentlich beieinander ist, oder?
 
 ## Überladung
 
@@ -47,14 +47,14 @@ Beim Erkunden unterirdischer Orte ist Licht unheimlich wichtig. Wenn Charaktere 
 
 Am Anfang ihrer Runde müssen sie auf die **Panik!**-Tabelle würfeln und am Ende der Runde legen sie eine **WEI**-Probe ab, um sich wieder in den Griff zu bekommen. Das geht so weiter, bis sie ihre **WEI**-Probe schaffen.
 
-|   | PANIK!                                                                                      |
-|:-:|:--------------------------------------------------------------------------------------------|
-| 1 | **Zähne Zusammenbeißen** - Mach noch eine freie **WEI**-Probe, um der Panik Herr zu werden. |
-| 2 | **Wie Festgewurzelt** - Kann sich diese Runde nicht bewegen.                                |
-| 3 | **Schock** - Kann keine Handlungen durchführen, für die man seine Hände braucht.            |
-| 4 | **Ungeschickt** - Der *Spieler* muss diese Runde alles mit geschlossenen Augen tun.         |
-| 5 | **Schnappatmung** - **AUS** ist um 2 verringert.                                            |
-| 6 | **Herzattacke** - Außer Gefecht                                                             |
+|   | PANIK!                                                                                        |
+|:-:|:----------------------------------------------------------------------------------------------|
+| 1 | **Zähne Zusammenbeißen** - Leg noch eine freie **WEI**-Probe ab, um der Panik Herr zu werden. |
+| 2 | **Wie Festgewurzelt** - Kann sich diese Runde nicht bewegen.                                  |
+| 3 | **Schock** - Kann keine Handlungen durchführen, für die man seine Hände braucht.              |
+| 4 | **Ungeschickt** - Der *Spieler* muss diese Runde alles mit geschlossenen Augen tun.           |
+| 5 | **Schnappatmung** - **AUS** ist um 2 verringert.                                              |
+| 6 | **Herzattacke** - Außer Gefecht                                                               |
 
 *Ich persönlich glaube, die Panik!-Regeln sind ein spaßiges Zusatzelement für jede Dungeonerforschung - aber sie sind bestimmt nicht nach jedermanns Geschmack, also sind sie aus Platzgründen aus dem Grundregelwerk geflogen. Wenn Euch der 'Partyspiel'-Stil des Ungeschickt-Ergebnisses nicht gefällt, ersetzt es durch etwas Langweiligeres.*
 
@@ -66,7 +66,7 @@ Ursprünglich waren Krieger etwas schwächer, aber haben dann einen 'Buff' erhal
 
 ## Abfangen
 
-Einmal pro Runde, wenn ein NSC sich irgendwo im **in der Nähe** bewegt und am Ende seines Zuges **benachbart** zu einem Verbündeten stehen würde, können Charaktere sich bewegen und dem NSC den Weg verstellen. Die Charaktere dürfen ihre Bewegung in der Runde *nicht* bereits verwendet haben. Diese Handlung hält den NSC davon ab, den Verbündeten in einen Nahkampf zu verwickeln, allerdings werden die Charaktere wahrscheinlich den Angriff des NSC abbekommen, den sie abgefangen haben.
+Einmal pro Runde, wenn ein NSC sich irgendwo in **Schrittweite** bewegt und am Ende seines Zuges in **Schlagweite** zu einem Verbündeten stehen würde, können Charaktere sich bewegen und dem NSC den Weg verstellen. Die Charaktere dürfen ihre Bewegung in der Runde *nicht* bereits verwendet haben. Diese Handlung hält den NSC davon ab, den Verbündeten in einen Nahkampf zu verwickeln, allerdings werden die Charaktere wahrscheinlich den Angriff des NSC abbekommen, den sie abgefangen haben.
 
 *Ab und zu habe ich Spaß dabei, Miniaturen einzusetzen (wenn ich denn mal eine nichtvirtuelle Spielrunde habe... Ich bin soo arm dran!). Daher passt es manchmal, in Kämpfen etwas mehr Taktik zu erlauben - um etwas mehr von dem 'Simulationsspielaspekt' reinzubringen, der in kleinen Dosen Spaß machen kann.*
 
@@ -96,7 +96,7 @@ Wenn Spieler eine Probe nicht schaffen und der SL es anbietet, können sie das E
 |:-------------------------------------------------------------------------------------------------------------:|
 | Würfle einen W10, der entsprechende Gegenstand im Inventar des SC ist zerstört/verloren.                      |
 | Stufe den kleinsten **Vorratswürfel**, den ein SC hat, ab. Wenn es bereits ein W4 ist, ist der Gegenstand weg.|
-| Jemand **in der Nähe** (einschließlich des SC) nimmt 1W6 Schaden.                                             |
+| Jemand in **Schrittweite** (einschließlich des SC) nimmt 1W6 Schaden.                                             |
 | **Nachteil** bei einem zukünftigen Wurf nach Wahl des SL.                                                     |
 | +2 auf das nächste Ergebnis, wenn der SL **Verhalten** auswürfelt.                                            |
 | Beim Zählen von Münzen sind Würfelergebnisse von 1-2 offensichtliche Fälschungen.                             |
@@ -130,7 +130,7 @@ Am Anfang einer Spielsitzung würfeln alle Charaktere den **Vorratswürfel** ihr
 
 Sobald sie eine Ration gegessen haben, gewinnen Charaktere 1 **TW Trefferpunkte** zurück. Sie können mehr Rationen essen, wenn die Geschichte es erfordert - aber sie können nur einmal pro Spielsitzung den Heileffekt nutzen.
 
-*Das ist sicherlich eine sehr abstrakte Herangehensweise and Hunger - vielleicht sollte man sie sich näher ansehen, wenn  man es gern übertreibt oder die 'langweiligen Aspekte' des Lebens lieber handwedelt.*
+*Das ist sicherlich eine sehr abstrakte Darstellungsweise für Hunger - vielleicht sollte man sie sich näher ansehen, wenn  man es gern übertreibt oder die 'langweiligen Aspekte' des Lebens lieber handwedelt.*
 
 ## Schwächere Gegner
 
@@ -161,7 +161,7 @@ Wenn der VW ein W4 ist und der Wurf misslingt, ist die Rüstung zerstört und so
 
 ## Lange Waffen
 
-Wenn eine Wesen sich **benachbart** zu einem SC mit einer langen Waffe bewegt, hat der Verteidigungswurf gegen seinen ersten Angriff einen Vorteil.
+Wenn eine Wesen sich in **Schlagweite** zu einem SC mit einer langen Waffe bewegt, hat der Verteidigungswurf gegen seinen ersten Angriff einen Vorteil.
 
 
 ## Mehr Rüstung
@@ -186,7 +186,7 @@ Wenn in einem System mit aufsteigender RK etwa Lederrüstung +2 zu einem Grundwe
 
 ***Wie oft kann man sich normalerweise in einer Runde bewegen?***
 
-Ohne irgendwelche Zauber oder irgendeine seltsame, bekloppte Fähigkeit - 2mal, wenn du deine Handlung opferst. Das heißt, Du könntest Dich **abseits** bewegen.
+Ohne irgendwelche Zauber oder irgendeine seltsame, bekloppte Fähigkeit - 2mal, wenn du deine Handlung opferst. Das heißt, Du könntest Dich in **Schussweite** bewegen.
 
 ***Muss man unbedingt unterwürfeln? Warum nicht genau auf den Wert und drunter?***
 
@@ -214,11 +214,11 @@ Ja, mein Fehler. Bögen sollten dasselbe kosten wie zweihändige Waffen. Einhän
 
 ***Wie weit können Bögen schießen?***
 
-In den Regeln steht nur, dass Fernkampfangriffe gegen Ziele benachbart zu sich einen Nachteil haben. Daher können Bögen auch entfernte Ziele treffen, obwohl ich womöglich sagen würde, dass dabei auch mit Nachteil gewürfelt wird.
+In den Regeln steht nur, dass Fernkampfangriffe gegen Ziele in Schlagweite zu sich einen Nachteil haben. Daher können Bögen auch Ziele in Sichtweite treffen, obwohl ich womöglich sagen würde, dass dabei auch mit Nachteil gewürfelt wird.
 
 ***Warum Runden und Züge umbenennen?***
 
-Ich mag die Umgangssprachlichkeit von Begriffen wie Vorteil, Nachteil, in der Nähe, benachbart usw. Daher macht es für mich Sinn, im Kampf einen Spieler zu fragen 'Was machst du in diesem Moment?'. Auch beim Erkunden zur fragen, was jemand in dieser Minute macht, funktioniert. Jeder kann dabei so abstrakt oder genau sein wie er mag. 6 Momente, 10 Minuten oder einfach Momente oder Minuten. Was ihr bevorzugt.
+Ich mag die Umgangssprachlichkeit von Begriffen wie Vorteil, Nachteil, Schrittweite, Schlagweite usw. Daher macht es für mich Sinn, im Kampf einen Spieler zu fragen 'Was machst du in diesem Moment?'. Auch beim Erkunden zur fragen, was jemand in dieser Minute macht, funktioniert. Jeder kann dabei so abstrakt oder genau sein wie er mag. 6 Momente, 10 Minuten oder einfach Momente oder Minuten. Was ihr bevorzugt.
 
 ***Gibt es irgendwelche Richtlinien zum Einsatz von Vor- und Nachteilen?***
 
