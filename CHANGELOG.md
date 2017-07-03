@@ -1,6 +1,6 @@
 # Changelog
 
-## master (unreleased)
+## 2.4.2 (2017-07-03)
 
 * Small fixes on the Korean translation (#64).
 * Minor changes and less typos for the German translation (#66).
