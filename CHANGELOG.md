@@ -3,6 +3,7 @@
 ## master (unreleased)
 
 * Small fixes on the Korean translation (#64).
+* Minor changes and less typos for the German translation (#66).
 
 ## 2.4.1 (2017-03-20)
 
