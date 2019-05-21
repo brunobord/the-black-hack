@@ -89,7 +89,7 @@ class Builder(object):
         if os.path.exists(filepath):
             with open(filepath) as fd:
                 content = fd.read()
-            self.meta[directory] = yaml.load(content)
+            self.meta[directory] = yaml.load(content, Loader=yaml.FullLoader)
 
     def write_html(self, target_filepath, body, title,
                    prefix='', source_file=''):

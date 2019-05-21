@@ -1,5 +1,9 @@
 # Changelog
 
+## master
+
+* Fixed unsafe YAML loading.
+
 ## 2.4.2 (2017-07-03)
 
 * Small fixes on the Korean translation (#64).
