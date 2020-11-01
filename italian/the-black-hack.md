@@ -2,8 +2,9 @@
 
 (testo basato su The Black Hack v1.2 - 2016-04-03)
 
-Un gioco ‘OSR’ (Old School Renaissance) Hack della Prima Edizione
-sviluppato da DAVID BLACK  
+Un regolamento 'OSR' basato sulla Prima Edizione
+sviluppato da 
+DAVID BLACK  
 
 -.-  
 
@@ -17,17 +18,17 @@ In ordine sparso - Peter Regan, Tony Tucker, Olav Nygård, Chris McDowall, Mick
 
 ## Di che si tratta?
 
-The Black Hack (TBH) è un gioco di ruolo da tavola tradizionale, si gioca con carta, matite e dadi - usa come base il gioco di ruolo originale degli anni '70 come base. Ma aggiunge ed elimina elementi per dargli un sapore snello ed inconfondibile proprio come il gioco di ruolo originale.
+The Black Hack (TBH) è un gioco di ruolo da tavolo tradizionale, giocato con carta, matite e dadi - che usa quel Gioco di Ruolo Fantasy Originale degli anni '70 come base. Ma aggiunge e toglie elementi per dargli un sapore snello ed inconfondibile proprio come il gioco di ruolo originale.
 
 ## La meccanica di base
 
-Tutto ciò che un personaggio potrebbe tentare di fare, che può concludersi con un fallimento, si risolve con un test sulla stat dell'attributo; per testare con successo una stat - il giocatore deve tirare al di ***sotto*** di essa con un  d20.
+Tutto ciò che un personaggio potrebbe tentare di fare, che può concludersi con un fallimento, si risolve con un test sulle statistiche degli attributi; per testare con successo una statistica - il giocatore deve tirare al di ***sotto*** di essa con un  d20.
 
-I Mostri non fanno dei test - il personaggio deve evitare i loro attacchi facendo un test; l'unico caso in cui un mostro tira il dato, è per calcolare il Danno.
+I Mostri non fanno dei test - il personaggio deve evitare i loro attacchi facendo un test; l'unico caso in cui un mostro tira il dado, è per calcolare il Danno.
 
-## Tiri sulle stat
+## Tiri sulle statistiche
 
-Le **Stat** sono generate con 3d6 nel seguente ordine: **Forza (STR), Destrezza (DEX), Costituzione (CON), Intelligenza (INT), Saggezza (WIS), Carisma (CHA)**. Se si ottiene una stat di 15+ quella successiva deve essere tirata con 2d6 + 2, poi si continua con 3d6 fino alla fine o se si ottiene un altro 15+. Quando tutte le stat sono state generate 2 possono essere scambiate.
+Le **Statistiche** sono generate con 3d6 nel seguente ordine: **Forza (STR), Destrezza (DEX), Costituzione (CON), Intelligenza (INT), Saggezza (WIS), Carisma (CHA)**. Se si ottiene una statistica di 15+ quella successiva deve essere tirata con 2d6 + 2, poi si continua con 3d6 fino alla fine o se si ottiene un altro 15+. Quando tutte le statistiche sono state generate, 2 possono essere scambiate tra loro.
 
 ## Scegliere una Classe
 
@@ -120,7 +121,7 @@ Questo sistema è stato disegnato per supportare lo stile narrativo del ‘teatr
 
 ## Iniziativa
 
-Quando irrompe un combattimento, tutti devono essere messi in ordine in modo che possano agire e reagire in un turno. Ogni personaggio fa un test di **DEX**, quelli che hanno successo, giocano prima degli avversari, devono agire come gruppo - decidendo il loro ordine per le azioni. Quelli che falliscono il test di **DEX**, agiscono dopo gli avversari.
+Quando irrompe un combattimento, tutti devono essere smistati in un ordine in modo che possano agire e reagire in un turno. Ogni personaggio fa un test di **DEX**, quelli che hanno successo, giocano prima degli avversari, devono agire come gruppo - decidendo il loro ordine per le azioni. Quelli che falliscono il test di **DEX**, agiscono dopo gli avversari.
 
 ## HD di un Mostro
 
@@ -129,13 +130,13 @@ Quando irrompe un combattimento, tutti devono essere messi in ordine in modo che
 
 ## Attaccare, difendersi e danni
 
-Quando un personaggio attacca una creature deve tirare un d20 al di sotto della sua stat **STR** per un **Attacco in Mischia** o **DEX** per un **Attacco a Distanza**. In modo simile, quando una creatura attacca, il personaggio deve tirare al di sotto della sua  **STR** contro un attacco in mischia e **DEX** contro un attacco a distanza per evitare di prendere danni. Il GM spesso darà le stat adeguate per il test.
+Quando un personaggio attacca una creature deve tirare un d20 al di sotto della sua statistica **STR** per un **Attacco in Mischia** o **DEX** per un **Attacco a Distanza**. In modo simile, quando una creatura attacca, il personaggio deve tirare al di sotto della sua  **STR** contro un attacco in mischia e **DEX** contro un attacco a distanza per evitare di prendere danni. Il GM spesso darà le statistiche adeguate per il test.
 
 Il danno prodotto da un attacco è basato sulla classe del personaggio o sul numero di **HD** del mostro.
 
 Per un  **Attacco in Mischia** l'avversario deve essere **Vicino**. Un **Attacco a Distanza**  contro un avversario **Vicino** è possibile, ma l'attaccante soffre uno **Svantaggio**.
 
-I **Mostri** fanno danno in base al loro **HD** - *fare riferimento alla tavola qui sotto*, ma se invece si preferisce utilizzare le stat di danni di un modulo che si sta già giocando, si può certo fare.
+I **Mostri** fanno danno in base al loro **HD** - *fare riferimento alla tavola qui sotto*, ma se invece si preferisce utilizzare le statistiche di danni di un modulo che si sta già giocando, puoi certamente farlo.
 
 ## Armi a due mani
 
@@ -200,7 +201,7 @@ Per ogni sessione / livello di Dungeon / missione / evento fondamentale al quale
 
 ## Guadagnare livelli
 
-Quando un personaggio sale di livello, il valore massimo di **Punti Danno** sale tirando il **Dado per Colpire** della classe relativa. Inoltre il giocatore deve tirare un d20 per ogni **Stat**, se il risultato è superiore - quella **Stat** sale di 1.
+Quando un personaggio sale di livello, il valore massimo di **Punti Danno** sale tirando il **Dado per Colpire** della classe relativa. Inoltre il giocatore deve tirare un d20 per ogni **Statistica**, se il risultato è superiore - quella **Statistica** sale di 1.
 
 ## Ingombro
 
@@ -407,7 +408,7 @@ Nota: le colonne sono i *Livelli degli Incantesimi*, le linee sono i *Livelli de
 
 **2**
 
-* **Benedizione :** Gli alleati *Nelle Vicinanze* guadagnano +1 alle stat quando effettuano attacchi o tiri salvezza - 1 ora.
+* **Benedizione :** Gli alleati *Nelle Vicinanze* guadagnano +1 alle statistiche quando effettuano attacchi o tiri salvezza - 1 ora.
 * **Cerca Trappole :** Nota tutte le trappole *Nelle Vicinanze* - 10 minuti.
 * **Bloccare :** Paralizza 1d4 bersagli *Nelle Vicinanze*. Test su **WIS** ogni turno per vedere se l'effetto persiste.
 * **Silenzio :** Silenzio magico che copre tutto *Nelle Vicinanze* di un bersaglio - 1 ora.
