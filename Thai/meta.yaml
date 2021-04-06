@@ -1,0 +1,10 @@
+label: Thai
+pages:
+    -
+        label: เดอะ แบล็คแฮ็ค (The Black Hack)
+        author: Sumate Ngarmjitviroon
+        version: '1.2'
+    -
+        label: กฏอื่นๆ (Additional Things)
+        author: Sumate Ngarmjitviroon
+        filename: additional-things.md
