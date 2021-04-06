@@ -4,6 +4,7 @@
 
 * Fixed unsafe YAML loading.
 * Fixed tox/travis/build.
+* Added Thai translation, thanks a lot to @sangsalawin (#70).
 
 ## 2.4.2 (2017-07-03)
 
