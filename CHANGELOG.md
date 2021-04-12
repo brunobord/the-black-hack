@@ -3,6 +3,7 @@
 ## master
 
 * Fixed unsafe YAML loading.
+* Fixed tox/travis/build.
 
 ## 2.4.2 (2017-07-03)
 
