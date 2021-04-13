@@ -51,12 +51,13 @@ footer {
 
 /* Portuguese (Brazilian) page breaks for TBH */
 #escolha-uma-classe,
-#movimento-distancia,
-#armas-de-duas-maos,
+#convertendo-jogadas-de-protecao,
+#dv-de-um-monstro,
 #ganhando-niveis,
 #banir-mortos-vivos,
 #guerreiro, #ladrao, #clerigo, #conjurador,
 #conjuracao,
+#magias-arcanas-diarias,
 #magias-divinas, #magias-arcanas,
 #magias-arcanas ~ table {
   page-break-before: always;
