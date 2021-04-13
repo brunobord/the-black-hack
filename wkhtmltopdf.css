@@ -81,13 +81,15 @@ footer {
 }
 
 /* Japanese page breaks for TBH */
-#yi-dong-toju-li,
-#liang-shou-yong-wu-qi,
-#xin-tanareberuhe,
-#uoria, #shihu, #kureritsuku, #konziyara,
+#zhuang-jia-zhi,
+#sebunobian-huan,
+#monsutanohd,
+#si-tosi-wang-guo-cheng,
+#jing-yan,
+#uoria, #sihu, #kurerituku, #konziyara,
 #zhou-wen-noyong-chang,
-#kureritsuku1ri-atarinozhou-wen,
-#mi-yi-zhou-wen,
+#konziyara1ri-atarinozhou-wen,
+#shen-sheng-zhou-wen, #mi-yi-zhou-wen,
 #mi-yi-zhou-wen ~ table,
 #pureinoli {
   page-break-before: always;
