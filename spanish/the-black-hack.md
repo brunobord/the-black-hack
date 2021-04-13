@@ -167,14 +167,14 @@ Cuando un personaje es reducido a cero **Puntos de Golpe (PG)** están **Fuera d
 
 ***Si un personaje pierde el combate o sus compañeros son incapaces de recuperar su cuerpo ¡este es eliminado para siempre!***
 
-| *1d6* | *RESULTADO*                                                                                     |
-|:----|:----------------------------------------------------------------------------------------------|
-| 1   | **KO** – Sólo quedaste inconsciente                                                           |
-| 2   | **Aturdido** – Tienes Desventaja en todas las pruebas durante la siguiente hora.              |
-| 3   | **Huesos fracturados** - FUE, DES y CON tienen un modificador de -2 durante el siguiente día. |
-| 4   | **Tullido** - FUE o DES se reducen permanentemente en 2                                       |
-| 5   | **Desfigurado** - CAR se reduce a 4.                                                          |
-| 6   | **Muerto** – Pues eso, que ya no estás vivo.                                                  |
+| *1d6* | *RESULTADO*                                                                                   |
+|:------|:----------------------------------------------------------------------------------------------|
+| 1     | **KO** – Sólo quedaste inconsciente                                                           |
+| 2     | **Aturdido** – Tienes Desventaja en todas las pruebas durante la siguiente hora.              |
+| 3     | **Huesos fracturados** - FUE, DES y CON tienen un modificador de -2 durante el siguiente día. |
+| 4     | **Tullido** - FUE o DES se reducen permanentemente en 2                                       |
+| 5     | **Desfigurado** - CAR se reduce a 4.                                                          |
+| 6     | **Muerto** – Pues eso, que ya no estás vivo.                                                  |
 
 ## Oponentes poderosos
 
@@ -521,14 +521,14 @@ Nota: las columnas son niveles de conjuros y las líneas niveles de personaje.
 * **Enjambre de Meteoros:** Es el mismo efecto que conjurar una Bola de Fuego 4 veces.
 * **Detener el tiempo:** El tiempo se detiene completamente en un área Cercana – 1d4+1 Momentos.
 
-| Criaturas                  |   DG   | Acciones y Habilidades especiales |                                                                                                                                 |
-|:---------------------------|:------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Berserker Humano           |   1    | Desventaja en tiradas de defensa cuando ataca el Berserker.                                                                                                         |
-| Ciempiés mortal            |   1    | Mordisco (0) y una prueba de CON ‘FdC’ – solo tiene 1-2 pg.                                                                                                         |
-| Demonio de melena          |   1    | 2 Garras (1d2) + 1 Mordisco (1d4), mitad de daño de armas no mágicas                                                                                                |
-| Escarabajo ígneo           |   1    | Sus glándulas luminosas tienen un d8 de Dado de uso.                                                                                                                |
-| Goblin                     |   1    | Sólo tiene 1d6 pg.                                                                                                                                                  |
-| Hobgoblin                  |   1    | Normalmente tiene un escudo de reserve si el que tiene es destruido.                                                                                                |
+
+| Criaturas         | DG | Acciones y Habilidades especiales                                                                                                                                                                                                    |
+|:------------------|:--:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Berserker Humano  | 1  | Desventaja en tiradas de defensa cuando ataca el Berserker.                                                                      | Ciempiés mortal            |   1    | Mordisco (0) y una prueba de CON ‘FdC’ – solo tiene 1-2 pg. |
+| Demonio de melena | 1  | 2 Garras (1d2) + 1 Mordisco (1d4), mitad de daño de armas no mágicas                                                                                                                                                                 |
+| Escarabajo ígneo  | 1  | Sus glándulas luminosas tienen un d8 de Dado de uso.                                                                                                                                                                                 |
+| Goblin            | 1  | Sólo tiene 1d6 pg.                                                                                                                                                                                                                   |
+| Hobgoblin         | 1  | Normalmente tiene un escudo de reserve si el que tiene es destruido.                                                                                                |                                                                |
 | Murciélago vampiro gigante |   1    | 1d6 daño en el siguiente momento después del ataque.                                                                                                                |
 | Acechador de la carroña    |   2    | Mordisco (1) + 6 Tentáculos (0) + prueba CON o quedar Paralizado.                                                                                                   |
 | Ghoul                      |   2    | 2 Garras (1d3) + 1 Mordisco (1d4) + prueba CON o quedar Paralizado.                                                                                                 |

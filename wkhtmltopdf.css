@@ -37,16 +37,18 @@ footer {
 }
 
 /* Spanish (castellano) page breaks for TBH */
-#entrenamiento-con-armadura,
-#movimiento-distancia,
+#puntos-de-armadura-pa,
+#convirtiendo-tiradas-de-salvacion,
+#dg-de-los-monstruos,
 #muerte,
 #descansar,
 #reacciones-de-las-criaturas,
 #objetos-magicos,
 #guerrero, #ladron, #clerigo, #hechicero,
-#conjuros-y-hechizos,
+#conjuros-y-hechizos, #conjuros-diarios-del-hechicero,
 #conjuros-divinos_1, #conjuros-arcanos_1,
-#conjuros-arcanos_1 ~ table {
+#conjuros-arcanos_1 ~ table,
+#ejemplo-de-juego {
   page-break-before: always;
 }
 
