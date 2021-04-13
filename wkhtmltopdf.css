@@ -97,12 +97,12 @@ footer {
 
 /* Korean page breaks for TBH */
 #jigeob-goreugi,
-#seongong,
-#jim,
-#eondedeu-cubang,
+#yangson-mugi,
 #jeonsa, #dojeog, #seongjigja, #mabeobsa,
 #jumun-sijeon,
-#ilil-mabeobsa-jumun-seulros,
+#ilil-seongjigja-jumun-seulros,
+#sinseong-jumun-mogrog,
+#bijeon-jumun-mogrog,
 #monseuteo-mogrog,
 #peulrei-yeje {
   page-break-before: always;
