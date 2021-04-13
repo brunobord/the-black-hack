@@ -24,14 +24,15 @@ footer {
 /* French: page breaks for TBH */
 #choisir-une-classe,
 #competence-d-armure + p + table,
-#mouvement-et-distance ~ #initiative,
-#degats-critiques,
+#conversion-des-jets-de-sauvegarde,
+#dv-des-monstres,
 #encombrement,
 #bannir-les-morts-vivants,
 #guerrier, #voleur, #clerc, #conjureur,
-#lancement-de-sorts,
+#lancement-de-sorts, #sorts-quotidiens-du-conjureur,
 #sorts-divins, #sorts-d-arcane,
-#sorts-d-arcane ~ table {
+#sorts-d-arcane ~ table,
+#exemple-de-jeu {
     page-break-before: always;
 }
 
