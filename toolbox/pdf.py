@@ -53,7 +53,7 @@ class PDFBuilder(Builder):
 
     def write_pdf(self, curdir, source, target, label, version):
         print("Building PDF: {} - v{}".format(label, version,))
-        command = 'wkhtmltopdf {} --user-style-sheet {} {}'.format(
+        command = 'wkhtmltopdf {} --enable-local-file-access --user-style-sheet {} {}'.format(
             source,
             self.user_css_path,
             target,

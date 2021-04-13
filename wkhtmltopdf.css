@@ -7,8 +7,8 @@ footer {
 /* English: page breaks for TBH */
 #choose-a-class,
 #armor-proficiency + p + table,
-#movement-distance,
-#two-handed-weapons,
+#converting-saves,
+#attacking-defending-damage,
 #healing,
 #gaining-levels,
 #banishing-undead,
@@ -24,39 +24,43 @@ footer {
 /* French: page breaks for TBH */
 #choisir-une-classe,
 #competence-d-armure + p + table,
-#mouvement-et-distance ~ #initiative,
-#degats-critiques,
+#conversion-des-jets-de-sauvegarde,
+#dv-des-monstres,
 #encombrement,
 #bannir-les-morts-vivants,
 #guerrier, #voleur, #clerc, #conjureur,
-#lancement-de-sorts,
+#lancement-de-sorts, #sorts-quotidiens-du-conjureur,
 #sorts-divins, #sorts-d-arcane,
-#sorts-d-arcane ~ table {
+#sorts-d-arcane ~ table,
+#exemple-de-jeu {
     page-break-before: always;
 }
 
 /* Spanish (castellano) page breaks for TBH */
-#entrenamiento-con-armadura,
-#movimiento-distancia,
+#puntos-de-armadura-pa,
+#convirtiendo-tiradas-de-salvacion,
+#dg-de-los-monstruos,
 #muerte,
 #descansar,
 #reacciones-de-las-criaturas,
 #objetos-magicos,
 #guerrero, #ladron, #clerigo, #hechicero,
-#conjuros-y-hechizos,
+#conjuros-y-hechizos, #conjuros-diarios-del-hechicero,
 #conjuros-divinos_1, #conjuros-arcanos_1,
-#conjuros-arcanos_1 ~ table {
+#conjuros-arcanos_1 ~ table,
+#ejemplo-de-juego {
   page-break-before: always;
 }
 
 /* Portuguese (Brazilian) page breaks for TBH */
 #escolha-uma-classe,
-#movimento-distancia,
-#armas-de-duas-maos,
+#convertendo-jogadas-de-protecao,
+#dv-de-um-monstro,
 #ganhando-niveis,
 #banir-mortos-vivos,
 #guerreiro, #ladrao, #clerigo, #conjurador,
 #conjuracao,
+#magias-arcanas-diarias,
 #magias-divinas, #magias-arcanas,
 #magias-arcanas ~ table {
   page-break-before: always;
@@ -65,8 +69,10 @@ footer {
 /* Italian page breaks for TBH */
 #scegliere-una-classe,
 #utilizzo-dell-armatura,
-#movimento-e-distanza,
-#armi-a-due-mani,
+#convertire-i-tiri-salvezza,
+#attaccare-difendersi-e-danni,
+#avversari-potenti,
+#dadi-utilizzo,
 #guerriero, #ladro, #chierico, #mago,
 #lancio-incantesimi,
 #incantesimi-giornalieri-del-chierico,
@@ -77,13 +83,15 @@ footer {
 }
 
 /* Japanese page breaks for TBH */
-#yi-dong-toju-li,
-#liang-shou-yong-wu-qi,
-#xin-tanareberuhe,
-#uoria, #shihu, #kureritsuku, #konziyara,
+#zhuang-jia-zhi,
+#sebunobian-huan,
+#monsutanohd,
+#si-tosi-wang-guo-cheng,
+#jing-yan,
+#uoria, #sihu, #kurerituku, #konziyara,
 #zhou-wen-noyong-chang,
-#kureritsuku1ri-atarinozhou-wen,
-#mi-yi-zhou-wen,
+#konziyara1ri-atarinozhou-wen,
+#shen-sheng-zhou-wen, #mi-yi-zhou-wen,
 #mi-yi-zhou-wen ~ table,
 #pureinoli {
   page-break-before: always;
@@ -91,12 +99,12 @@ footer {
 
 /* Korean page breaks for TBH */
 #jigeob-goreugi,
-#seongong,
-#jim,
-#eondedeu-cubang,
+#yangson-mugi,
 #jeonsa, #dojeog, #seongjigja, #mabeobsa,
 #jumun-sijeon,
-#ilil-mabeobsa-jumun-seulros,
+#ilil-seongjigja-jumun-seulros,
+#sinseong-jumun-mogrog,
+#bijeon-jumun-mogrog,
 #monseuteo-mogrog,
 #peulrei-yeje {
   page-break-before: always;
@@ -104,10 +112,11 @@ footer {
 
 /* German page breaks for TBH */
 #rustungsfahigkeit,
-#bewegung-und-entfernung,
-#angriff-verteidigung-schaden,
-#stufen-gewinnen,
+#rettungswurfe,
+#tw-fur-monster,
+#tod-sterben,
 #verhalten-von-wesen,
+#erfahrung,
 #magische-gegenstande,
 #krieger, #dieb, #kleriker, #zauberer,
 #zauberspruche,
