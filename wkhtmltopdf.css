@@ -126,3 +126,18 @@ footer {
 #spielbeispiel {
     page-break-before: always;
 }
+
+/* Thai page breaks for TBH */
+#aetmekraaa-armor-points,
+#occhmtii-p-ngkan-khaakhwaamesiiyhaay,
+#satruuthiiaekhngaekrngkwaa,
+#aebknamhnakekin,
+#ai-ethmewthmntr,
+#nakrb, #hawkhomy, #nakbwch, #nakaisyewth,
+#kaarraaykhaathaa,
+#cchamnwnkhaathaathiiaichaidt-wankh-ngnakbwch,
+#khaathaasakdisiththi, #mntrmuued,
+#mntrmuued ~ table,
+#taw-yaangkaareln {
+    page-break-before: always;
+}
