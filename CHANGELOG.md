@@ -1,6 +1,6 @@
 # Changelog
 
-## master
+## 2.5.0 (2021-04-14)
 
 * Fixed unsafe YAML loading.
 * Fixed tox/travis/build.
