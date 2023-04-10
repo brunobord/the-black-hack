@@ -14,9 +14,11 @@ Con elementos prestados del juego ‘original’ y de las modernas ediciones de 
 
 Sin un orden particular - Peter Regan, Tony Tucker, Olav Nygård, Chris McDowall, Mick Reddick, Eric Nieudan, Brian Wille, Jarret Crader, Greg Welty, Todo el trabajo que los *Grognards* han puesto en el juego, UK OSR Hangouts crew, Todos los que apoyaron el Kickstarter (you're all ace!) además de toda la gente que ha intervenido en el desarrollo del hobby que tanto hemos disfrutado.
 
-Texto en castellano v0.3
+Texto en castellano v0.5 (23/10/2016)
 
 Traducido por Rafael Pardo Macías
+
+landmate.wordpress.com
 
 ----
 
@@ -524,7 +526,8 @@ Nota: las columnas son niveles de conjuros y las líneas niveles de personaje.
 
 | Criaturas         | DG | Acciones y Habilidades especiales                                                                                                                                                                                                    |
 |:------------------|:--:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Berserker Humano  | 1  | Desventaja en tiradas de defensa cuando ataca el Berserker.                                                                      | Ciempiés mortal            |   1    | Mordisco (0) y una prueba de CON ‘FdC’ – solo tiene 1-2 pg. |
+| Berserker Humano  | 1  | Desventaja en tiradas de defensa cuando ataca el Berserker.                                                                      
+| Ciempiés mortal            |   1    | Mordisco (0) y una prueba de CON ‘FdC’ – solo tiene 1-2 pg. |
 | Demonio de melena | 1  | 2 Garras (1d2) + 1 Mordisco (1d4), mitad de daño de armas no mágicas                                                                                                                                                                 |
 | Escarabajo ígneo  | 1  | Sus glándulas luminosas tienen un d8 de Dado de uso.                                                                                                                                                                                 |
 | Goblin            | 1  | Sólo tiene 1d6 pg.                                                                                                                                                                                                                   |
@@ -566,41 +569,79 @@ Nota: las columnas son niveles de conjuros y las líneas niveles de personaje.
 ## Ejemplo de juego
 
 **DM:** Así que estáis en las alcantarillas, hasta la rodilla en mugre, es oscuro y al norte hay un rastrillo, ¿Qué queréis hacer?
+
 **Ladrón:** ¿Está el rastrillo Cercano?
+
 **DM:** Sí.
+
 **Ladrón:** Me muevo hasta él, y con mi acción buscaré trampas.
+
 **Guerrero:** Asumiendo que es seguro, quiero doblar las barras.
+
 **Hechicero:** Y yo quiero lanzar Luz en mi vara.
+
 **DM:** Ok, Ladrón, haz una prueba de Sabiduría con un d20 y sacando menos que tu puntuación de SAB – para buscar en el rastrillo trampas.
+
 **Ladrón:** \*tirada de dado\* ¡Lo consigo!
+
 **DM:** Estás convencido de que no hay nada de que pueda dañarte, Guerrero, ¿Aún quieres doblar las barras? Si es así, ¡haz una prueba por tu Fuerza!
+
 **Guerrero:** \*tirada de dado\* ¡Está tirado!
+
 **DM:** Genial, ahora Hechicero, lanzas Luz en tu vara. ¿Eso es un conjuro de nivel 1, verdad?
+
 **Hechicero:** Si.
+
 **DM:** Ok, bien, haz una prueba por tu Inteligencia y añade uno a tu tirade de 1d20, si fallas pierdes espacio de conjuro de nivel 1 por el resto del día.
+
 **Hechicero:** \*tirada de dado\* Tengo que sacar por debajo, ¿no?
+
 **DM:** Si, es así.
+
 **Hechicero:** Maldición, he fallado.
+
 **DM:** ¡Mala suerte! Más allá de las barras dobladas hay un oscuro túnel que se interna en las profundidades. ¿Qué es lo que queréis hacer?
+
 **Guerrero:** ¿Explorar el túnel?
+
 **Ladrón:** ¡De acuerdo! Iré delante de manera sigilosa.
+
 **Hechicero:** ¡Y yo protegeré la retaguardia!
+
 **DM:** Ok Ladrón, te mueves por la alcantarilla, aún Cercano a tus amigos, haz una prueba de Destreza para ver cuán silencioso eres – recuerda que tienes Ventaja en las pruebas cuando estás acechando, tira dos d20 y elige el resultado que prefieras.
+
 **Ladrón:** \*tirada de dado\* a pesar de tirar dos dados, saco un 17 y un 19. ¿Cuáles son las probabilidades?
+
 **DM:** Ouch. Estás hacienda demasiado ruido, un Ghoul que se escondía en la oscuridad cercana a ti surge y ¡ataca!
+
 **Ladrón:** ¡Maldita sea!
+
 **DM:** ¡Hora de la Iniciativa! Que todo el mundo haga una prueba por su Destreza, pasarla significa que actuáis antes que el Ghoul, fallarla significa que vais después. El Ladrón hace la prueba con Desventaja.
+
 **Guerrero:** Yo voy antes.
+
 **Hechicero:** Yo después.
+
 **DM:** ¿Ladrón?
+
 **Ladrón:** ¿Cuánto tiempo me llevaría hacerme otro personaje? Voy después.
+
 **Guerrero:** Quiero correr por la alcantarilla y destrozar al Ghoul con mi espada ancha.
+
 **DM:** Ok Guerrero, te mueves para estar Inmediato al Ghoul. Prueba por tu Fuerza para ver si lo golpeas, debes añadir +1 a la tirada, ya que el Ghoul es un oponente poderoso.
+
 **Guerrero:** \*tira el dado\* ¡He sacado un 7! \*tira de nuevo\* Así que son 8PG de daño.
+
 **DM:** ¡Gran golpe! Ahora es el turno del Ghoul. Ladrón haz una prueba de Destreza para intentar esquivar las Garras y Mordisco paralizantes del Ghoul. Recuerda el +1.
+
 **Ladrón:** \*tirada de dado\* Ugh! 18.
+
 **DM:** Oh dios. Sientes una dolorosa sensación que va entumeciendo tu cuerpo. Haz una prueba de Constitución, si fallas el Ghoul te paraliza.
+
 **Ladrón:** \*tirada de dado\* ¿Añado el +1 también a esto?
+
 **DM:** Si. Hechicero, ves que el Ladrón caerá rígido al suelo, ¿Qué haces?
+
 **Hechicero:** Empiezo a retroceder lentamente.
+
 **Ladrón:** ¡Te atrapare en tu siguiente vida, bastardo!
