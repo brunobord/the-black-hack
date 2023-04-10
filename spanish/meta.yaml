@@ -3,4 +3,10 @@ pages:
     -
         label: The Black Hack
         author: Rafael Pardo Macías
-        version: '0.3'
+        version: '0.5'
+    -
+        label: Additional Things
+        author: Rafael Pardo Macías
+        version: '0.1'
+        filename: additional-things.md
+

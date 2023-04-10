@@ -18,8 +18,6 @@ Texto en castellano v0.5 (23/10/2016)
 
 Traducido por Rafael Pardo Macías
 
-landmate.wordpress.com
-
 ----
 
 ## ¿Qué es esto?
